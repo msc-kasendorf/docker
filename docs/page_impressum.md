@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: page
 category: landing
 permalink: /impressum/
+lang: de
 ---
 
 # Impressum

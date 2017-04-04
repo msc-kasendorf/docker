@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: trial
 category: landing
 permalink: /trial/
+lang: de
 ---
-
-trial - Noch kein Inhalt

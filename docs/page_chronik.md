@@ -2,6 +2,9 @@
 layout: default
 category: landing
 permalink: /chronik/
+lang: de
 ---
 
-chronik - Noch kein Inhalt
+# Chronik
+
+Noch kein Inhalt

@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: slalom
 category: landing
 permalink: /slalom/
+lang: de
 ---
-
-slalom - Noch kein Inhalt
