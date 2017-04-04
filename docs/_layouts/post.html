@@ -1,0 +1,73 @@
+---
+layout: default
+---
+
+<section>
+
+    <h2>
+        {{ page.title }}
+    </h2>
+    <div>
+        <div>
+            {% assign posts=site.posts | where:"name", page.name | sort: 'path' %}
+            {% for post in posts %}
+                <a href="{{ post.url }}" class="{{ post.lang }}">
+                    {% if post.lang == 'en' %}
+                        <span class="flag-icon flag-icon-gb"></span>
+                    {% endif %}
+
+                    {% if post.lang == 'de' %}
+                        <span class="flag-icon flag-icon-de"></span>
+                    {% endif %}
+                </a>
+            {% endfor %}
+
+            <span>
+                {% assign d = page.date | date: "%-d" %}
+                {% assign m = page.date | date: "%-m" %}
+
+                {% if page.lang == 'en' %}
+                {{ d }}<sup>{% case d %}
+                  {% when '1' or '21' or '31' %}st
+                  {% when '2' or '22' %}nd
+                  {% when '3' or '23' %}rd
+                {% else %}th
+                {% endcase %}</sup>
+                of {{ page.date | date: "%B %Y"}}
+                {% endif %}
+
+                {% if page.lang == 'de' %}
+                {{ d }}.
+                {% case m %}
+                  {% when '1' %}Januar
+                  {% when '2' %}Februar
+                  {% when '3' %}März
+                  {% when '4' %}April
+                  {% when '5' %}Mai
+                  {% when '6' %}Juni
+                  {% when '7' %}Juli
+                  {% when '8' %}August
+                  {% when '9' %}Septempber
+                  {% when '10' %}Oktober
+                  {% when '11' %}November
+                  {% when '12' %}Dezember
+                {% endcase %}
+                {{ page.date | date: "%Y"}}
+                {% endif %}
+            </span>
+        </div>
+
+        <p/>
+        <article>
+            {{ content }}
+        </article>
+        <p/>
+        <a onclick="goBack()">{% if page.lang == 'en' %}Back ...{% endif %}{% if page.lang == 'de' %}Zurück ...{% endif %}</a>
+        <script>
+        function goBack() {
+            window.history.back();
+        }
+        </script>
+    </div>
+
+</section>
