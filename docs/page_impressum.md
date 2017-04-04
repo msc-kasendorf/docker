@@ -4,6 +4,8 @@ category: landing
 permalink: /impressum/
 ---
 
+# Impressum
+
 | Herrausgeber dieser Seite
 |--------------------------
 | MSC Kasendorf e.V. - Ortsclub im ADAC Nordbayern
