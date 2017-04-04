@@ -1,0 +1,15 @@
+---
+layout: post
+title: 39ter MSC Trial
+name: 39terMscTrial
+category: trial
+tags: [trial, neudorf]
+excerpt_separator: <!--mehr-->
+lang: de
+---
+
+Kurz Text
+
+<!--mehr-->
+
+Lang Text
