@@ -1,1 +1,10 @@
-theme: jekyll-theme-dinky
+description: Motorsport
+owner: MSC Kasendorf .e.V
+theme:
+title-homepage: MSC Kasendorf e.V. im ADAC Nordbayern
+page-prefix: /docker/
+title: MSC Kasendorf
+
+t:
+  de:
+    page-item-seperator: ●
