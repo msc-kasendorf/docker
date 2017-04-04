@@ -12,4 +12,4 @@ permalink: /impressum/
 | 95359 Kasendorf
 | E-Mail: 1.vorstand@msc-kasendorf.de
 | Telefon: 09221 - 6909007
-| Funktionäre: {{site.page-prefix}}/vorstand
+| Funktionäre: {{site.page-prefix}}/vorstand/#
