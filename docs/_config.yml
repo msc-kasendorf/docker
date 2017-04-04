@@ -5,6 +5,6 @@ title-homepage: MSC Kasendorf e.V. im ADAC Nordbayern
 page-prefix: /docker/
 title: MSC Kasendorf
 
-t:
-  de:
-    page-item-seperator: ●
+permalink: /:categories/:title/
+
+trenner: ●
