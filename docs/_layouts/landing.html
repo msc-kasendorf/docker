@@ -1,0 +1,490 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de" lang="de">
+
+<head>
+    <title>MSC Kasendorf</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <style>
+    @CHARSET "UTF-8";
+
+    /* --------------------------- basic stuff  --------------------------- */
+    html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,pre,a,footer,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,view-main,aside,canvas,details,embed,figure,figcaption,pagehead,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video
+        {
+        margin: 0px;
+        padding: 0px;
+        border: 0px;
+        font-family: 'HomepageFontWritingTtf';
+        font-style: normal;
+        font-size: 1.05rem;
+        vertical-align: baseline;
+    }
+
+    view-main,aside,details,figcaption,figure,pagehead,hgroup,menu,nav,section {
+        display: block;
+    }
+
+    ol,ul {
+        list-style: none;
+    }
+
+    table {
+        border-collapse: collapse;
+        border-spacing: 0px;
+    }
+
+    body {
+        line-height: 1;
+        background-color: #F6F4F0;
+        padding: 0px 0px 0px 0px;
+        color: #000000;
+    }
+
+    a:link,a:visited,a:active {
+        text-decoration: none;
+        outline: none;
+        color: #EF7007;
+    }
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+    img {
+        border: none;
+    }
+
+    hr {
+        border: solid #EF7007 2px;
+        background-color: #EF7007;
+        height: 3px;
+        width: 80%;
+        text-align: left;
+    }
+
+    .object-disabled {
+        display: none;
+    }
+
+    /* --------------------------- screen  --------------------------- */
+    #screen-head {
+        min-height: 30px;
+        width: 100%;
+        text-align: center;
+        top: 0;
+        position: fixed;
+        z-index: 10;
+    }
+
+    #screen-head-space {
+        height: 40px;
+    }
+
+    #screen-foot {
+        min-height: 130px;
+        width: 100%;
+        text-align: center;
+    }
+
+    #screen-head-image {
+
+    }
+
+    #screen-foot-image {
+
+    }
+
+    #screen-outer {
+        max-width: 800px;
+        margin: 0px auto 0px auto;
+        padding: 0px 0px 10px 0px;
+        background-color: #FFFFFF;
+        border: 2px solid #DADAD9;
+    }
+
+    #screen-inner {
+        padding: 0px 20px 0px 20px;
+    }
+
+    /* --------------------------- menu  --------------------------- */
+
+    .menuItem a {
+        color: #FFFFFF;
+        font-size: 0.9rem;
+        margin: 0px 13px 0px 13px;
+    }
+
+    .menuSubItem a {
+
+    }
+
+    /* --------------------------- centered-dynamic-ul  --------------------------- */
+    .centered-dynamic-ul {
+        float: left;
+        width: 100%;
+        overflow: hidden;
+        position: relative;
+    }
+
+    .centered-dynamic-ul ul {
+        clear: left;
+        float: left;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        position: relative;
+        left: 50%;
+        text-align: center;
+    }
+
+    .centered-dynamic-ul ul li {
+        display: block;
+        float: left;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        position: relative;
+        right: 50%;
+    }
+
+    .centered-dynamic-ul:after {
+        content: ".";
+        display: block;
+        height: 0;
+        clear: both;
+        visibility: hidden;
+    }
+
+    /* --------------------------- dynamic pictures  --------------------------- */
+    .picture-sizedown-container {
+        border: 0;
+        max-width: 770px;
+        margin: 10px 0px 10px 0px;
+        padding: 0px;
+        text-align: center;
+    }
+
+    .picture-sizedown-img {
+        border: 0;
+        max-width: 100%;
+        height: auto;
+        width: auto;
+        max-width: 100%; /* ie8 */
+    }
+    /* --------------------------- pagination --------------------------- */
+    .pagination-container {
+        margin: 10px 0px 30px 0px;
+        text-align: center;
+    }
+
+    .pagination-spacer {
+        display: inline-block;
+        width: 50px;
+    }
+
+    /* --------------------------- view-message  --------------------------- */
+    #view-message {
+        text-align: center;
+        padding: 0px 0px 0px 0px;
+        color: #EF7007;
+    }
+
+    /* --------------------------- view-main  --------------------------- */
+    #view-main-area {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .view-main {
+        margin: 0px auto 10px auto;
+        padding: 10px 10px 10px 10px;
+    }
+
+    .view-main p {
+        margin: 10px 0px 0px 0px;
+        padding: 10px 0px 10px 0px;
+    }
+
+    .view-main-div {
+        width: 100%;
+        padding: 10px 0px 10px 0px;
+        margin: 0px 0px 5px 0px;
+    }
+
+    .view-main hr {
+        width: 100%;
+        margin: 20px 0px 0px 0px;
+    }
+
+    .impressum {
+        margin: 20px;
+        padding: 10px;
+        text-align: center;
+    }
+    #pcms-caption {
+        color: #EF7007;
+        font-family: 'HomepageFontHeadlineTtf';
+        font-size: 1.5rem;
+    }
+
+    #pcms-caption a {
+        color: #EF7007;
+        font-family: 'HomepageFontHeadlineTtf';
+        font-size: 1.5rem;
+    }
+
+    #pcms-caption a:hover {
+        color: #EF7007;
+        text-decoration: none;
+    }
+
+    #rss-icon {
+        border: 0px;
+    }
+
+    #rss-icon img {
+        margin-top: 4px;
+        margin-left: 10px;
+        width: 22px;
+        height: 22px;
+        margin-left: 10px;
+    }
+
+    .centered-dynamic-ul ul li a:hover {
+        color: #EF7007;
+    }
+
+    #pcms-story-list-space {
+        margin: 0px 0px 30px 0px;
+    }
+
+    #menu-div {
+        background-color: #404040;
+        min-height: 30px;
+    }
+
+    #pcms-author {
+        color: #003A9A;
+    }
+
+    #pcms-category {
+        color: #003A9A;
+    }
+
+    #pcms-date {
+        color: #003A9A;
+    }
+
+    #logo-adac {
+        width: 100px;
+        height: 100px;
+    }
+
+    #logo-karo-lack {
+
+    }
+
+    #logo-kulmbacher {
+
+    }
+
+    .landingpage-spacer-div {
+        min-height: 10px;
+    }
+
+    .landingpage-container-outer {
+        margin: 10px;
+        min-width: 230px;
+        min-height: 150px;
+        /* round border */
+        border: 2px solid #3F3F3F;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        border-radius: 10px; /* future proofing */
+        -khtml-border-radius: 10px;
+        text-align: center;
+        background-color: #F5F5F5;
+    }
+
+    .landingpage-container-link a {
+        color: #000000;
+        text-decoration: none;
+    }
+
+    .landingpage-container-inner {
+        margin: 110px auto auto auto;
+        padding: 4px 0px 4px 0px;
+        min-width: 130px;
+        max-width: 130px;
+        width: 130px;
+        text-align: center;
+        background-color: #FFCF00;
+        /* round border */
+        border: 2px solid #000000;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        border-radius: 10px; /* future proofing */
+        -khtml-border-radius: 10px;
+        text-align: center;
+    }
+
+    .landingpage-background-trial {
+        background-image: url('{{site.page-prefix}}assets/images/background_trial.png');
+    }
+
+    .landingpage-background-slalom {
+        background-image: url('{{site.page-prefix}}assets/images/background_slalom.png');
+    }
+
+    .landingpage-background-vorstand {
+        background-image: url('{{site.page-prefix}}assets/images/background_vorstand.png');
+    }
+
+    .landingpage-background-kalendar {
+        background-image: url('{{site.page-prefix}}assets/images/background_calendar.png');
+    }
+
+    .landingpage-background-chronik {
+        background-image: url('{{site.page-prefix}}assets/images/background_chronik.png');
+    }
+
+    .landingpage-background-foto {
+        background-image: url('{{site.page-prefix}}assets/images/background_foto.png');
+    }
+
+    .centered-dynamic-ul ul li iframe {
+        min-width: 558px;
+    }
+
+    .calendar-iframe {
+        border-width: 0;
+        height: 100%;
+        width: 100%;
+        min-height: 600px;
+    }
+
+    .archive-container {
+        padding: 6px 0px 0px 0px;
+        text-align: center;
+    }
+
+    .box-menu {
+        background-color: #404040;
+        color: #FFFFFF;
+        margin: 0px 0px 20px 0px;
+        padding: 0px 0px 0px 0px;
+        min-height: 28px;
+    }
+
+
+    .box-sponsor {
+        background-color: #404040;
+        color: #FFFFFF;
+        margin: 20px 0px 15px 0px;
+        padding: 5px 0px 5px 0px;
+    }
+    </style>
+</head>
+
+<body>
+    <div id="screen-head">
+        <div id="menu-div">
+            <div class="centered-dynamic-ul">
+                <ul>
+                    <li style="padding-top: 5px;"><span style="color:#FFFFFF">MSC Kasendorf e.V. - Ortsclub im ADAC Nordbayern</span></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div id="screen-outer" style="border:0px; background-color:#F6F4F0;">
+        <div id="screen-inner">
+            <div style="min-height:15px;"></div>
+            <div id="view-main-area">
+                <div class="view-main">
+                    <div class="landingpage-spacer-div"></div>
+                    <div class="centered-dynamic-ul">
+                        <ul>
+                            <li class="landingpage-container-link">
+                                <a href="/trial">
+                                    <div class="landingpage-container-outer landingpage-background-trial">
+                                        <div class="landingpage-container-inner">Trial</div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="landingpage-container-link">
+                                <a href="/slalom">
+                                    <div class="landingpage-container-outer landingpage-background-slalom">
+                                        <div class="landingpage-container-inner">Slalom</div>
+                                    </div>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="centered-dynamic-ul">
+                        <ul>
+                            <li class="landingpage-container-link">
+                                <a href="/vorstand">
+                                    <div class="landingpage-container-outer landingpage-background-vorstand">
+                                        <div class="landingpage-container-inner">Vorstand</div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="landingpage-container-link">
+                                <a href="/termine">
+                                    <div class="landingpage-container-outer landingpage-background-kalendar">
+                                        <div class="landingpage-container-inner">Termine</div>
+                                    </div>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="centered-dynamic-ul">
+                        <ul>
+                            <li class="landingpage-container-link">
+                                <a href="/chronik">
+                                    <div class="landingpage-container-outer landingpage-background-chronik">
+                                        <div class="landingpage-container-inner">Chronik</div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="landingpage-container-link">
+                                <a href="https://get.google.com/albumarchive/108656924518465552879" target="_blank">
+                                    <div class="landingpage-container-outer landingpage-background-foto">
+                                        <div class="landingpage-container-inner">Fotos</div>
+                                    </div>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="centered-dynamic-ul" style="background-color: #404040; color: #FFFFFF; margin: 5px 0px 15px 0px; padding: 5px 0px 5px 0px;">
+                        <ul>
+                            <li class="landingpage-container-link">Sponsoren</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="screen-foot">
+        <div class="centered-dynamic-ul">
+            <ul>
+                <li style="padding: 0px 10px 0px 10px;">
+                    <a href="http://www.adac-nordbayern.de/" target="_blank"><img id="logo-adac" src="{{site.page-prefix}}assets/images/logo_adac.png" alt="ADAC" title="Allgemeine Deutsche Automobil-Club e. V. (ADAC)"></a>
+                </li>
+                <li style="padding: 0px 10px 0px 10px;">
+                    <a href="http://www.karo-lack.de/" target="_blank"><img id="logo-karo-lack" src="{{site.page-prefix}}assets/images/karo-lack.jpg" alt="Karo-Lack GmbH" title="Sponsor: Karo-Lack GmbH"></a>
+                </li>
+                <li style="padding: 0px 10px 0px 10px;">
+                    <a href="http://www.kulmbacher.de/" target="_blank"><img id="logo-kulmbacher" src="{{site.page-prefix}}assets/images/kulmbacher.jpg" alt="Kulmbacher Brauerei AG" title="Sponsor: Kulmbacher Brauerei AG"></a>
+                </li>
+            </ul>
+        </div>
+        <div class="centered-dynamic-ul" style="margin: 5px 0px 15px 0px;">
+            <ul>
+                <li><a href="/impressum">Impressum</a></li>
+            </ul>
+        </div>
+    </div>
+</body>
+
+</html>
