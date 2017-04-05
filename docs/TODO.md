@@ -1,4 +1,6 @@
-* [x] Landing Page
+* [ ] Landing Page
+   * [x] erstellen
+   * [ ] Aussehen wie Homepage
 * [x] Slalom eigene Seite
 * [x] Trial eigene Seite
 * [x] Termine
