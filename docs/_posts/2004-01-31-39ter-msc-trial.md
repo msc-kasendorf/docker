@@ -1,14 +1,14 @@
 ---
 layout: post
-title: 41ter MSC Trial
-name: 41terMscTrial
+title: 39ter MSC Trial
+name: 39terMscTrial
 category: trial
-tags: [trial, neudorf]
+tags: [trial]
 excerpt_separator: <!--mehr-->
 lang: de
 ---
 
-Trial Trial Trial Trial Trial Trial Trial Trial Trial Trial Trial Trial Trial Trial Trial 
+Hallo am 12.Oktober 2003 veranstalltete der MSC-Kasendorf mal wieder das alljährliche Trail in Neudorf
 
 <!--mehr-->
 

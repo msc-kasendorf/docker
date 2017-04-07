@@ -6,6 +6,9 @@
         {% include navigation_left.html %}
 
         <section>
+
+            {% include navigation_slalom.html %}
+
             {% for post in site.posts %}
                 {% if post.categories contains 'slalom' %}
 
@@ -55,6 +58,7 @@
                 </div>
                 {% endif %}
             {% endfor %}
+
         </section>
 
         {% include footer.html %}

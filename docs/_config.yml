@@ -3,6 +3,7 @@ owner: MSC Kasendorf .e.V
 theme:
 title-homepage: MSC Kasendorf e.V. im ADAC Nordbayern
 page-prefix: /docker/
+page-post-limit: 5
 title: MSC Kasendorf
 
 permalink: /:categories/:title/

@@ -7,53 +7,105 @@
 
         <section>
 
+            {% include navigation_trial.html %}
+
             {% for post in site.posts %}
                 {% if post.categories contains 'trial' %}
+                    {% if forloop.index < site.page-post-limit %}
+                        <h2 id="{{ post.name }}">
+                            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                        </h2>
+                        <div>
+                            <div>
+                                <span>
+                                    {% assign d = post.date | date: "%-d" %}
+                                    {% assign m = post.date | date: "%-m" %}
 
-                <h2 id="{{ post.name }}">
-                    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                </h2>
-                <div>
-                    <div>
+                                    {% if page.lang == 'en' %}
+                                    {{ d }}<sup>{% case d %}
+                                      {% when '1' or '21' or '31' %}st
+                                      {% when '2' or '22' %}nd
+                                      {% when '3' or '23' %}rd
+                                    {% else %}th
+                                    {% endcase %}</sup>
+                                    of {{ post.date | date: "%B %Y"}}
+                                    {% endif %}
 
-                        <span>
-                            {% assign d = post.date | date: "%-d" %}
-                            {% assign m = post.date | date: "%-m" %}
+                                    {% if page.lang == 'de' %}
+                                    {{ d }}.
+                                    {% case m %}
+                                      {% when '1' %}Januar
+                                      {% when '2' %}Februar
+                                      {% when '3' %}März
+                                      {% when '4' %}April
+                                      {% when '5' %}Mai
+                                      {% when '6' %}Juni
+                                      {% when '7' %}Juli
+                                      {% when '8' %}August
+                                      {% when '9' %}Septempber
+                                      {% when '10' %}Oktober
+                                      {% when '11' %}November
+                                      {% when '12' %}Dezember
+                                    {% endcase %}
+                                    {{ post.date | date: "%Y"}}
+                                    {% endif %}
+                                </span>
+                            </div>
+                            <p/>
+                            {{ post.excerpt }}
+                            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+                                {% if page.lang == 'en' %}More ...{% endif %}
+                                {% if page.lang == 'de' %}Mehr ...{% endif %}
+                            </a>
+                        </div>
+                    {% endif %}
+                {% endif %}
+            {% endfor %}
 
-                            {% if page.lang == 'en' %}
-                            {{ d }}<sup>{% case d %}
-                              {% when '1' or '21' or '31' %}st
-                              {% when '2' or '22' %}nd
-                              {% when '3' or '23' %}rd
-                            {% else %}th
-                            {% endcase %}</sup>
-                            of {{ post.date | date: "%B %Y"}}
-                            {% endif %}
+            <h2 id="archiv">
+                Archiv
+            </h2>
 
-                            {% if page.lang == 'de' %}
-                            {{ d }}.
-                            {% case m %}
-                              {% when '1' %}Januar
-                              {% when '2' %}Februar
-                              {% when '3' %}März
-                              {% when '4' %}April
-                              {% when '5' %}Mai
-                              {% when '6' %}Juni
-                              {% when '7' %}Juli
-                              {% when '8' %}August
-                              {% when '9' %}Septempber
-                              {% when '10' %}Oktober
-                              {% when '11' %}November
-                              {% when '12' %}Dezember
-                            {% endcase %}
-                            {{ post.date | date: "%Y"}}
-                            {% endif %}
-                        </span>
-                    </div>
-                    <p/>
-                    {{ post.excerpt }}
-                    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{% if page.lang == 'en' %}More ...{% endif %}{% if page.lang == 'de' %}Mehr ...{% endif %}</a>
-                </div>
+            {% for post in site.posts %}
+                {% if post.categories contains 'trial' %}
+                    {% if forloop.index > site.page-post-limit %}
+                        <div id="{{ post.name }}">
+                            <span>
+                                {% assign d = post.date | date: "%-d" %}
+                                {% assign m = post.date | date: "%-m" %}
+
+                                {% if page.lang == 'en' %}
+                                {{ d }}<sup>{% case d %}
+                                  {% when '1' or '21' or '31' %}st
+                                  {% when '2' or '22' %}nd
+                                  {% when '3' or '23' %}rd
+                                {% else %}th
+                                {% endcase %}</sup>
+                                of {{ post.date | date: "%B %Y"}}
+                                {% endif %}
+
+                                {% if page.lang == 'de' %}
+                                {{ d }}.
+                                {% case m %}
+                                  {% when '1' %}Januar
+                                  {% when '2' %}Februar
+                                  {% when '3' %}März
+                                  {% when '4' %}April
+                                  {% when '5' %}Mai
+                                  {% when '6' %}Juni
+                                  {% when '7' %}Juli
+                                  {% when '8' %}August
+                                  {% when '9' %}Septempber
+                                  {% when '10' %}Oktober
+                                  {% when '11' %}November
+                                  {% when '12' %}Dezember
+                                {% endcase %}
+                                {{ post.date | date: "%Y"}}
+                                {% endif %}
+                            </span> {{site.trenner}}
+                            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                        </div>
+                    {% endif %}
                 {% endif %}
             {% endfor %}
         </section>
