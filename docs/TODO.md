@@ -3,16 +3,18 @@
    * [ ] Aussehen wie Homepage
 * [x] Slalom eigene Seite
 * [x] Trial eigene Seite
+* [x] Vorstand
+* [ ] Trial
+    * [ ] Was ist trial
+    * [ ] Trial Reglement
+    * [x] Trial Team
+    * [ ] Trial Download
 * [x] Termine
 * [x] Fotos
 * [ ] Download
-* [ ] Unterkategorien
-* [ ] Spezialseiten
-    * [ ] Was ist trial
-    * [ ] Trial Reglement
-    * [ ] ...
-* [ ] Vereins Chronik
-* [ ] Übungsgelände Chronik
-* [ ] Blog ???
-* [ ] Archiv
-* [ ] Pagination
+* [ ] Chronik
+    * [ ] Vereins Chronik
+    * [ ] Übungsgelände Chronik
+* [x] Blog - gelöscht
+* [x] Archiv - in Kategorie Trial/Slalom enthalten
+* [x] Pagination - nicht mehr nötig
