@@ -4,6 +4,7 @@
 * [x] Slalom eigene Seite
 * [x] Trial eigene Seite
 * [x] Vorstand
+* [x] Alte Berichte importieren
 * [ ] Trial
     * [ ] Was ist trial
     * [ ] Trial Reglement
