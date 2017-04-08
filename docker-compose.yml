@@ -1,0 +1,21 @@
+version: '3'
+
+services:
+
+    httpd:
+        image: httpd
+        ports:
+            - "$NETWORK_APACHE_GATEWAY:$PORT_00081_APACHE:80"
+        volumes:
+            - "$PWD/docs/_site:/usr/local/apache2/htdocs"
+
+networks:
+    default:
+        driver: bridge
+        driver_opts:
+            com.docker.network.enable_ipv6: "false"
+            com.docker.network.bridge.name: "$NETWORK_APACHE_BRIDGE"
+        ipam:
+            driver: default
+            config:
+                - subnet: "$NETWORK_APACHE_SUBNET"

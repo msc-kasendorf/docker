@@ -3,120 +3,22 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de" lang="de">
 
 <head>
-    <title>MSC Kasendorf</title>
+    <title>MSC Kasendorf e.V. - Ortsclub im ADAC Nordbayern</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
     <style>
     @CHARSET "UTF-8";
 
     /* --------------------------- basic stuff  --------------------------- */
-    html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,pre,a,footer,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,view-main,aside,canvas,details,embed,figure,figcaption,pagehead,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video
-        {
-        margin: 0px;
-        padding: 0px;
-        border: 0px;
-        font-family: 'HomepageFontWritingTtf';
-        font-style: normal;
-        font-size: 1.05rem;
-        vertical-align: baseline;
-    }
-
-    view-main,aside,details,figcaption,figure,pagehead,hgroup,menu,nav,section {
-        display: block;
-    }
-
-    ol,ul {
-        list-style: none;
-    }
-
-    table {
-        border-collapse: collapse;
-        border-spacing: 0px;
-    }
-
-    body {
-        line-height: 1;
-        background-color: #F6F4F0;
-        padding: 0px 0px 0px 0px;
-        color: #000000;
-    }
 
     a:link,a:visited,a:active {
         text-decoration: none;
         outline: none;
-        color: #EF7007;
+        color: #C30000;
     }
 
     a:hover {
         text-decoration: underline;
-    }
-
-    img {
-        border: none;
-    }
-
-    hr {
-        border: solid #EF7007 2px;
-        background-color: #EF7007;
-        height: 3px;
-        width: 80%;
-        text-align: left;
-    }
-
-    .object-disabled {
-        display: none;
-    }
-
-    /* --------------------------- screen  --------------------------- */
-    #screen-head {
-        min-height: 30px;
-        width: 100%;
-        text-align: center;
-        top: 0;
-        position: fixed;
-        z-index: 10;
-    }
-
-    #screen-head-space {
-        height: 40px;
-    }
-
-    #screen-foot {
-        min-height: 130px;
-        width: 100%;
-        text-align: center;
-    }
-
-    #screen-head-image {
-
-    }
-
-    #screen-foot-image {
-
-    }
-
-    #screen-outer {
-        max-width: 800px;
-        margin: 0px auto 0px auto;
-        padding: 0px 0px 10px 0px;
-        background-color: #FFFFFF;
-        border: 2px solid #DADAD9;
-    }
-
-    #screen-inner {
-        padding: 0px 20px 0px 20px;
-    }
-
-    /* --------------------------- menu  --------------------------- */
-
-    .menuItem a {
-        color: #FFFFFF;
-        font-size: 0.9rem;
-        margin: 0px 13px 0px 13px;
-    }
-
-    .menuSubItem a {
-
     }
 
     /* --------------------------- centered-dynamic-ul  --------------------------- */
@@ -156,136 +58,14 @@
         visibility: hidden;
     }
 
-    /* --------------------------- dynamic pictures  --------------------------- */
-    .picture-sizedown-container {
-        border: 0;
-        max-width: 770px;
-        margin: 10px 0px 10px 0px;
-        padding: 0px;
-        text-align: center;
-    }
-
-    .picture-sizedown-img {
-        border: 0;
-        max-width: 100%;
-        height: auto;
-        width: auto;
-        max-width: 100%; /* ie8 */
-    }
-    /* --------------------------- pagination --------------------------- */
-    .pagination-container {
-        margin: 10px 0px 30px 0px;
-        text-align: center;
-    }
-
-    .pagination-spacer {
-        display: inline-block;
-        width: 50px;
-    }
-
-    /* --------------------------- view-message  --------------------------- */
-    #view-message {
-        text-align: center;
-        padding: 0px 0px 0px 0px;
-        color: #EF7007;
-    }
-
-    /* --------------------------- view-main  --------------------------- */
-    #view-main-area {
-        margin: 0px 0px 0px 0px;
-    }
-
-    .view-main {
-        margin: 0px auto 10px auto;
-        padding: 10px 10px 10px 10px;
-    }
-
-    .view-main p {
-        margin: 10px 0px 0px 0px;
-        padding: 10px 0px 10px 0px;
-    }
-
-    .view-main-div {
-        width: 100%;
-        padding: 10px 0px 10px 0px;
-        margin: 0px 0px 5px 0px;
-    }
-
-    .view-main hr {
-        width: 100%;
-        margin: 20px 0px 0px 0px;
-    }
-
-    .impressum {
-        margin: 20px;
-        padding: 10px;
-        text-align: center;
-    }
-    #pcms-caption {
-        color: #EF7007;
-        font-family: 'HomepageFontHeadlineTtf';
-        font-size: 1.5rem;
-    }
-
-    #pcms-caption a {
-        color: #EF7007;
-        font-family: 'HomepageFontHeadlineTtf';
-        font-size: 1.5rem;
-    }
-
-    #pcms-caption a:hover {
-        color: #EF7007;
-        text-decoration: none;
-    }
-
-    #rss-icon {
-        border: 0px;
-    }
-
-    #rss-icon img {
-        margin-top: 4px;
-        margin-left: 10px;
-        width: 22px;
-        height: 22px;
-        margin-left: 10px;
-    }
-
-    .centered-dynamic-ul ul li a:hover {
-        color: #EF7007;
-    }
-
-    #pcms-story-list-space {
-        margin: 0px 0px 30px 0px;
-    }
-
     #menu-div {
         background-color: #404040;
         min-height: 30px;
     }
 
-    #pcms-author {
-        color: #003A9A;
-    }
-
-    #pcms-category {
-        color: #003A9A;
-    }
-
-    #pcms-date {
-        color: #003A9A;
-    }
-
     #logo-adac {
         width: 100px;
         height: 100px;
-    }
-
-    #logo-karo-lack {
-
-    }
-
-    #logo-kulmbacher {
-
     }
 
     .landingpage-spacer-div {
@@ -352,37 +132,6 @@
         background-image: url('{{site.page-prefix}}assets/images/background_foto.png');
     }
 
-    .centered-dynamic-ul ul li iframe {
-        min-width: 558px;
-    }
-
-    .calendar-iframe {
-        border-width: 0;
-        height: 100%;
-        width: 100%;
-        min-height: 600px;
-    }
-
-    .archive-container {
-        padding: 6px 0px 0px 0px;
-        text-align: center;
-    }
-
-    .box-menu {
-        background-color: #404040;
-        color: #FFFFFF;
-        margin: 0px 0px 20px 0px;
-        padding: 0px 0px 0px 0px;
-        min-height: 28px;
-    }
-
-
-    .box-sponsor {
-        background-color: #404040;
-        color: #FFFFFF;
-        margin: 20px 0px 15px 0px;
-        padding: 5px 0px 5px 0px;
-    }
     </style>
 </head>
 
@@ -391,14 +140,13 @@
         <div id="menu-div">
             <div class="centered-dynamic-ul">
                 <ul>
-                    <li style="padding-top: 5px;"><span style="color:#FFFFFF">MSC Kasendorf e.V. - Ortsclub im ADAC Nordbayern</span></li>
+                    <li style="padding-top: 5px;"><span style="color:#FFFFFF">MSC Kasendorf e.V.</span></li>
                 </ul>
             </div>
         </div>
     </div>
-    <div id="screen-outer" style="border:0px; background-color:#F6F4F0;">
+    <div id="screen-outer">
         <div id="screen-inner">
-            <div style="min-height:15px;"></div>
             <div id="view-main-area">
                 <div class="view-main">
                     <div class="landingpage-spacer-div"></div>
