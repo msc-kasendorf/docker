@@ -1,11 +1,14 @@
-description: Motorsport
-owner: MSC Kasendorf .e.V
-theme:
-title-homepage: MSC Kasendorf e.V. im ADAC Nordbayern
-page-prefix: /docker/
+description: MSC Kasendorf e.V.
+encoding: utf-8
 page-post-limit: 5
-title: MSC Kasendorf
-
+page-prefix: /
+page-root-url: http://www.msc-kasendorf.de
 permalink: /:categories/:title/
+theme:
+timezone: Europe/Berlin
+title-homepage: MSC Kasendorf e.V. im ADAC Nordbayern
+title: Motorsport
+
+include: ['.htaccess', '.htpasswd']
 
 trenner: ●

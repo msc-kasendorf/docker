@@ -1,0 +1,3 @@
+Sitemap: http://www.livingfire.de/sitemap.xml
+User-agent: *
+Allow: /

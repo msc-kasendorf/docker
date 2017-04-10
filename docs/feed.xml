@@ -1,0 +1,7 @@
+---
+layout: null
+lang: de
+permalink: /feed.xml
+---
+
+{% include rss.xml %}

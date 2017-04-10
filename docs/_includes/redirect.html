@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="{% if page.lang == 'en' %}en-US{% endif %}{% if page.lang == 'de' %}de-DE{% endif %}">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="refresh" content="1;url={{page.redirect}}">
+        <script type="text/javascript">
+            window.location.href = "{{page.redirect}}"
+        </script>
+        <title>{% if page.lang == 'en' %}Redirection{% endif %}{% if page.lang == 'de' %}Weiterleitung{% endif %} to {{page.url}}</title>
+    </head>
+    <body>
+        {% if page.lang == 'en' %}
+            If you are not redirected automatically, follow the link to <a href="{{page.redirect}}">{{page.redirect}}</a>
+        {% endif %}
+        {% if page.lang == 'de' %}
+            Wenn Sie nicht automatisch weitergeleitet werden folgen sie bitte den Link zu <a href="{{page.redirect}}">{{page.redirect}}</a>
+        {% endif %}
+    </body>
+</html>

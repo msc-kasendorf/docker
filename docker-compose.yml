@@ -2,20 +2,32 @@ version: '3'
 
 services:
 
-    httpd:
+    apache:
         image: httpd
         ports:
-            - "$NETWORK_APACHE_GATEWAY:$PORT_00081_APACHE:80"
+            - "$NETWORK_MSC_GATEWAY:$PORT_00081_APACHE"
         volumes:
+            - "$VOLUME_TIME_SYNC"
             - "$PWD/docs/_site:/usr/local/apache2/htdocs"
+
+#        command: "jekyll --help"
+#        command: "jekyll new /srv/jekyll/new"
+    jekyll:
+        image: jekyll/jekyll
+        ports:
+            - "$NETWORK_MSC_GATEWAY:$PORT_00082_JEKYLL"
+        command: "jekyll serve --source /srv/jekyll"
+        volumes:
+            - "$VOLUME_TIME_SYNC"
+            - "$PWD/docs:/srv/jekyll"
 
 networks:
     default:
         driver: bridge
         driver_opts:
             com.docker.network.enable_ipv6: "false"
-            com.docker.network.bridge.name: "$NETWORK_APACHE_BRIDGE"
+            com.docker.network.bridge.name: "$NETWORK_MSC_BRIDGE"
         ipam:
             driver: default
             config:
-                - subnet: "$NETWORK_APACHE_SUBNET"
+                - subnet: "$NETWORK_MSC_SUBNET"

@@ -9,18 +9,6 @@ layout: default
     </h2>
     <div>
         <div>
-            {% assign posts=site.posts | where:"name", page.name | sort: 'path' %}
-            {% for post in posts %}
-                <a href="{{ post.url }}" class="{{ post.lang }}">
-                    {% if post.lang == 'en' %}
-                        <span class="flag-icon flag-icon-gb"></span>
-                    {% endif %}
-
-                    {% if post.lang == 'de' %}
-                        <span class="flag-icon flag-icon-de"></span>
-                    {% endif %}
-                </a>
-            {% endfor %}
 
             <span>
                 {% assign d = page.date | date: "%-d" %}
