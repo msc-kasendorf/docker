@@ -8,10 +8,10 @@ excerpt_separator: <!--mehr-->
 lang: de
 ---
 
-Kurz Text
+
 Super Veranstaltung
 <!--mehr-->
 
-Lang Text
+
 dlfahksjdlöf
 1234569999
