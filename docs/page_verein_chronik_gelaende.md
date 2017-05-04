@@ -1,11 +1,11 @@
 ---
 layout: default
 category: chronik
-permalink: /chronik-gelaende/
+permalink: /verein/chronik-gelaende/
 lang: de
 ---
 
-{% include navigation_chronik.html %}
+{% include navigation_verein.html %}
 
 ## Chronik Übungsgelände
 

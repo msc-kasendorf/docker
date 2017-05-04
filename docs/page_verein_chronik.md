@@ -1,11 +1,11 @@
 ---
 layout: default
 category: chronik
-permalink: /chronik/
+permalink: /verein/chronik/
 lang: de
 ---
 
-{% include navigation_chronik.html %}
+{% include navigation_verein.html %}
 
 ## Vereinschronik
 

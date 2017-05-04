@@ -2,8 +2,8 @@
 layout: post
 title: Jahreshauptversammlung 2014 des MSC Kasendorf e.V. im ADAC
 name: Jahreshauptversammlung2014DesMscKasendorfEVImAdac
-category: trial
-tags: [trial]
+category: verein
+tags: [verein]
 excerpt_separator: <!--mehr-->
 lang: de
 ---
@@ -13,7 +13,7 @@ lang: de
 Von einem erfolgreichen Jahr konnte Vorsitzender Helmut Lutz bei der Hauptversammlung des MSC Kaendorf im Vereinslokal Friedrich berichten. Mit der Einweihung des Trial-Übungsgeländes im Mai des vergangenem Jahres hat der Verein es geschafft, einen lang gehegten Wunsch ging in Erfüllung.
 
 ![Klicken um Bild zu vergrößern](https://lh3.googleusercontent.com/QHIWoFIt_fIM7mPbU8G3EMdmNV_7RhkhKNYFQ6ndhp4=w640-h480)
- 
+
 <!--mehr-->
 
 In seinem Bericht stellte er fest, dass die Jahreshauptversammlung des MSC Kasendorf e.V. im ADAC ordnungsgemäß einberufen wurde und das von 22 Anwesende 16 stimmberechtigt waren.

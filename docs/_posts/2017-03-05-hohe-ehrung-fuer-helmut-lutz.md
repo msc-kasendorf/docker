@@ -2,8 +2,8 @@
 layout: post
 title: Hohe Ehrung für Helmut Lutz
 name: HoheEhrungFuerHelmutLutz
-category: trial
-tags: [trial]
+category: verein
+tags: [verein]
 excerpt_separator: <!--mehr-->
 lang: de
 ---

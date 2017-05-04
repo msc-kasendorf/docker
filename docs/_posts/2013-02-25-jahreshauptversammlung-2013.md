@@ -2,14 +2,14 @@
 layout: post
 title: Jahreshauptversammlung 2013
 name: Jahreshauptversammlung2013
-category: trial
-tags: [trial]
+category: verein
+tags: [verein]
 excerpt_separator: <!--mehr-->
 lang: de
 ---
 
 **Einweihung des Trialtrainingsgelände steht an**
- 
+
 <!--mehr-->
 
 **Jahreshauptversammlung 2013 des MSC Kasendorf e.V. im ADAC**

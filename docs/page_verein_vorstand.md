@@ -1,11 +1,13 @@
 ---
 layout: page
 category: landing
-permalink: /vorstand/
+permalink: /verein/vorstand/
 lang: de
 ---
 
-# Vorstand
+{% include navigation_verein.html %}
+
+## Vorstand
 
 | 1. Vorstand |    
 |:---:|
