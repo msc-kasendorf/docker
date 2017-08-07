@@ -5,7 +5,7 @@ name: Test1
 category: trial
 tags: [trial]
 excerpt_separator: <!--mehr-->
-lang:de
+lang: de
 ---
 
 **Dies ist nur ein Test**
