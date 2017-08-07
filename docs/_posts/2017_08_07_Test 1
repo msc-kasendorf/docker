@@ -1,8 +1,8 @@
 ---
 layout:post
-title:[Test1]
-name:[Test1]
-category:[trial]
+title:Test1
+name:Test1
+category:trial
 tags:[trial]
 excerpt_separator:<!--mehr-->
 lang:de
