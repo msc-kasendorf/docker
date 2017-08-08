@@ -7,7 +7,15 @@ lang: de
 
 # Anlegen eines neuen Artikels
 
+* [Anmelden](#anlegen-eines-neuen-artikels)
+* [Bericht erstellen](#bericht-erstellen)
+* [Bericht Kopf](#anweisungen)
+* [Voransicht](#voransicht)
+* [Bilder verlinken](#bilder-verlinken)
+
 ## Anmelden im System
+
+[⬆](#)
 
 1. Auf der Startseite
 1. [https://github.com/msc-kasendorf/docker/tree/master/docs/_posts](https://github.com/msc-kasendorf/docker/tree/master/docs/_posts)
@@ -16,6 +24,8 @@ lang: de
 1. Jetzt seid ihr als MSC Kasendorf angemeldet, ersichtlich an unserem Vereinswappen rechts oben.
 
 ## Bericht erstellen
+
+[⬆](#)
 
 1. **Rechts oben** ist ein Knopf <button>Create new file</button>
 1. Nach dem Drücken erscheint ein Feld in dem man den Dateinamen eingeben kann
@@ -45,6 +55,8 @@ Lang Text
 
 ### Kopf
 
+[⬆](#)
+
 Jeder Bericht beginnt mit einem Textbock eingeschlossen in `---`
 
 ```
@@ -58,10 +70,12 @@ der vom Computer Programm ausgewertet wird. Wenn ein Bericht nicht richtig angez
 
 #### Anweisungen
 
+[⬆](#)
+
 | Anweisung  | Beschreibung | 💡 Tip | Beispiel
 | ---
 | title | Titel des Berichts **Menschen lesbar** | normale Schreibweise | Ergebnisliste und Bericht 62. Clubsporttrial des MSC Kasendorf am 30.10.2016
-| name  | Titel des Berichts **Computer lesbar** |   [KamelHöcker schreibweise](https://de.wikipedia.org/wiki/Binnenmajuskel) ![KamelHöcker schreibweise](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/CamelCase.svg/291px-CamelCase.svg.png) <p/> Regel: Nur Buchstaben und Zahlen. Wörter werden klein geschrieben nur der 1 Buchstabe ist groß| ErgebnislisteUndBericht62ClubsporttrialDesMscKasendorfAm30102016
+| name  | Titel des Berichts **Computer lesbar** |   [KamelHöcker schreibweise](https://de.wikipedia.org/wiki/Binnenmajuskel) ![KamelHöcker schreibweise](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/CamelCase.svg/291px-CamelCase.svg.png) Regel: Nur Buchstaben und Zahlen. Wörter werden klein geschrieben nur der 1 Buchstabe ist groß| ErgebnislisteUndBericht62ClubsporttrialDesMscKasendorfAm30102016
 | category | Kategorie des Berichts | **trial**, **slalom** oder **verein** | trial
 | tags | Schlagwörter | Vergleichbar mit "Google Suche". Wenn man dieses Wort eingibt soll dieser Bericht vom Computer Programm gefunden werden | [trial, neudorf]
 | layout | Fester Wert | | post
@@ -84,11 +98,21 @@ lang: de
 
 ## Voransicht
 
+[⬆](#)
+
 Berichte werden nur nur zur vollen Stunde auf msc-kasendorf.de Server herunter geladen. In der Zwischenzeit können die Berichte hier eingesehen werden.
 
 * [https://msc-kasendorf.github.io/docker/](https://msc-kasendorf.github.io/docker/)
 
 ### Was mache ich wenn sich die Voransicht nicht ändert?
 
+[⬆](#)
+
 * Noch 1 Minuten warten. Das Ändern hat einen kleinen Zeitverzug abhängig wieviele Benutzer auf GitHub arbeiten.
 * Aktiviert den [Privaten/Inkoginto Modus](https://www.youtube.com/watch?v=MrsdU0hw8S8) des Internet Browsers.
+
+## Bilder verlinken
+
+1. Die Startseite der Bildergalierie aufsuchen [https://get.google.com/albumarchive/108656924518465552879](https://get.google.com/albumarchive/108656924518465552879)
+1. Kategorie auswälen wie [Welschenkahl2015](https://get.google.com/albumarchive/108656924518465552879/album/AF1QipM0ZgPFEtrgD8LmfD6FE2B5Tmbw-ez8JwqHS4DG)
+1. Hier kann die URL der Bilder mit rechter Mausklick kopiert werden.
