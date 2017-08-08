@@ -175,6 +175,6 @@ Berichte werden nur nur zur vollen Stunde auf msc-kasendorf.de Server herunter g
 
 [⬆](#)
 
-1. Die Startseite der Bildergalierie aufsuchen [https://get.google.com/albumarchive/108656924518465552879](https://get.google.com/albumarchive/108656924518465552879)
+1. [Die Startseite der Bildergalierie aufsuchen](https://get.google.com/albumarchive/108656924518465552879)
 1. Kategorie auswählen wie [Welschenkahl2015](https://get.google.com/albumarchive/108656924518465552879/album/AF1QipM0ZgPFEtrgD8LmfD6FE2B5Tmbw-ez8JwqHS4DG)
 1. Hier kann die URL der Bilder mit rechter Mausklick kopiert werden.
