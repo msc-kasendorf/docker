@@ -10,6 +10,8 @@ lang: de
 * [Anmelden](#anlegen-eines-neuen-artikels)
 * [Bericht erstellen](#bericht-erstellen)
 * [Bericht Kopf](#anweisungen)
+* [Bericht Körper](#körper)
+* [Markdown](#markdown)
 * [Voransicht](#voransicht)
 * [Bilder verlinken](#bilder-verlinken)
 
@@ -127,6 +129,32 @@ In Welschenkahl pulsiert das Herz der Trialelite
 
 Zum 62. Mal hat der MSC Kasendorf am vergangenen Sonntag zu seinem ADAC-Trial-Wettkampf eingeladen. Bei besten Bedingungen ....
 ```
+
+### Markdown
+
+Jeder Bericht wird in einer Programmiersprache names Markdown geschrieben. Wikipedia hat eine gute Übersicht wie sich Markdown aufbaut
+
+* [https://de.wikipedia.org/wiki/Markdown](https://de.wikipedia.org/wiki/Markdown)
+
+Die wichtigsten Elemente sind **Sterne**
+
+| `**TEXT**` | schreibt den Text Fett
+| `*TEXT*` | schreibt Text kursiv
+
+und das **Doppel Kreuz**
+
+| `# TEXT` | Überschrift in erster Ebene
+| `## TEXT` | Überschrift in zweiter Ebene
+| `### TEXT` | Überschrift in dritter Ebene usw.
+
+Links
+
+| `[Beschreibung](http://wwww.msc-kasendorf.de)` | Link zu msc-kasendorf.de
+
+Bilder
+
+| `![Bild](http://www.msc-kasendorf.de/assets/images/logo.png)` | MSC Logo 
+
 
 ## Voransicht
 
