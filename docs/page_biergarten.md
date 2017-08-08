@@ -19,7 +19,7 @@ lang: de
 
 [⬆](#)
 
-1. Auf der Startseite [https://github.com/msc-kasendorf/docker/tree/master/docs/_posts](https://github.com/msc-kasendorf/docker/tree/master/docs/_posts)
+1.  [Auf der Startseite](https://github.com/msc-kasendorf/docker/tree/master/docs/_posts)
 1. Ist **Rechts oben** ein Link <button>Sign in</button>
 1. Benutzername und Passwort eingeben
 1. Ersichtlich an unserem Vereinswappen rechts oben ist man jetzt eingeloggt
