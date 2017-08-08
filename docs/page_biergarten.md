@@ -132,9 +132,10 @@ Zum 62. Mal hat der MSC Kasendorf am vergangenen Sonntag zu seinem ADAC-Trial-We
 
 ### Markdown
 
-Jeder Bericht wird in einer Programmiersprache names Markdown geschrieben. Wikipedia hat eine gute Übersicht wie sich Markdown aufbaut
+Jeder Bericht wird in einer Programmiersprache names Markdown geschrieben. Hier 2 Links wie die Syntax von Markdown aufgebaut ist.
 
 * [https://de.wikipedia.org/wiki/Markdown](https://de.wikipedia.org/wiki/Markdown)
+* [YouTube Video (wer kein Englisch kann -> einfach Ton abschalten)](https://www.youtube.com/watch?v=6A5EpqqDOdk&feature=youtu.be&t=321)
 
 Die wichtigsten Elemente sind **Sterne**
 
@@ -153,7 +154,7 @@ Links
 
 Bilder
 
-| `![Bild](http://www.msc-kasendorf.de/assets/images/logo.png)` | MSC Logo 
+| `![Bild](http://www.msc-kasendorf.de/assets/images/logo.png)` | MSC Logo
 
 
 ## Voransicht
