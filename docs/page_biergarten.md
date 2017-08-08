@@ -111,7 +111,7 @@ Anweisung2: Wert2
 Hallo Motorsportfreunde, ....
 ```
 
-Hierbei sollte man den Befehl **<!--mehr-->** beachten. Alles was über **<!--mehr-->** steht ist eine Zusammenfassung des Berichts. Alles darunter ist der Lang-Text. Wird auf Übersichtsseite [Verein](http://www.msc-kasendorf.de/verein/#), [Trail](http://www.msc-kasendorf.de/trial/#), [Slalom](http://www.msc-kasendorf.de/slalom/#) nicht angezeigt.
+Hierbei sollte man den Befehl **`<!--mehr-->`** beachten. Alles was über **`<!--mehr-->`** steht ist eine Zusammenfassung des Berichts. Alles darunter ist der Lang-Text. Wird auf Übersichtsseite [Verein](http://www.msc-kasendorf.de/verein/#), [Trail](http://www.msc-kasendorf.de/trial/#), [Slalom](http://www.msc-kasendorf.de/slalom/#) nicht angezeigt.
 
 ```
 ---
