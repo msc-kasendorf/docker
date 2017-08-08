@@ -32,7 +32,7 @@ lang: de
 1. Nach dem Drücken erscheint ein Feld in dem man den Dateinamen eingeben kann
 1. Wichtig ist das der Dateiname vom Computer Programm ausgewertet wird und deshalb **nur aus Buchstaben, Zahlen und Bindestrichen** bestehen darf. Beispiel: **2017-08-30-Mein-Spitzen-Bericht.md**
 oder **Jahr-Monat-Tag-Berichtname.md**
-1. Den Vordruck kopieren und mit dem Knopf <button>Commit new file</button> **unten Links** abspeichen.
+1. Den Vordruck (siehe unten) kopieren und mit dem Knopf <button>Commit new file</button> **unten Links** abspeichen.
 
 ```
 ---
