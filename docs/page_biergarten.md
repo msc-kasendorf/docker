@@ -75,7 +75,7 @@ der vom Computer Programm ausgewertet wird. Wenn ein Bericht nicht richtig angez
 | Anweisung  | Beschreibung | 💡 Tip | Beispiel
 | ---
 | title | Titel des Berichts **Menschen lesbar** | normale Schreibweise | Ergebnisliste und Bericht 62. Clubsporttrial des MSC Kasendorf am 30.10.2016
-| name  | Titel des Berichts **Computer lesbar** |   [KamelHöcker schreibweise](https://de.wikipedia.org/wiki/Binnenmajuskel) ![KamelHöcker schreibweise](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/CamelCase.svg/291px-CamelCase.svg.png) Regel: Nur Buchstaben und Zahlen. Wörter werden klein geschrieben nur der 1 Buchstabe ist groß| ErgebnislisteUndBericht62ClubsporttrialDesMscKasendorfAm30102016
+| name  | Titel des Berichts **Computer lesbar** |   [KamelHöcker Schreibweise](https://de.wikipedia.org/wiki/Binnenmajuskel) ![KamelHöcker schreibweise](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/CamelCase.svg/291px-CamelCase.svg.png) Regel: Nur Buchstaben und Zahlen. Wörter werden klein geschrieben nur der 1 Buchstabe ist groß| ErgebnislisteUndBericht62ClubsporttrialDesMscKasendorfAm30102016
 | category | Kategorie des Berichts | **trial**, **slalom** oder **verein** | trial
 | tags | Schlagwörter | Vergleichbar mit "Google Suche". Wenn man dieses Wort eingibt soll dieser Bericht vom Computer Programm gefunden werden | [trial, neudorf]
 | layout | Fester Wert | | post
@@ -96,6 +96,36 @@ lang: de
 ---
 ```
 
+### Körper
+
+[⬆](#)
+
+Nach dem der Bericht Kopf mit `---` abgeschloßen ist kann man seinen Bericht schreiben
+
+```
+---
+Anweisung1: Wert1
+Anweisung2: Wert2
+---
+
+Hallo Motorsportfreunde, ....
+```
+
+Hierbei sollte man den Befehl **<!--mehr-->** beachten. Alles was über **<!--mehr-->** steht ist eine Zusammenfassung des Berichts. Alles darunter ist der Lang-Text. Wird auf Übersichtsseite [Verein](http://www.msc-kasendorf.de/verein/#), [Trail](http://www.msc-kasendorf.de/trial/#), [Slalom](http://www.msc-kasendorf.de/slalom/#) nicht angezeigt.
+
+```
+---
+Anweisung1: Wert1
+Anweisung2: Wert2
+---
+
+In Welschenkahl pulsiert das Herz der Trialelite
+
+<!--mehr-->
+
+Zum 62. Mal hat der MSC Kasendorf am vergangenen Sonntag zu seinem ADAC-Trial-Wettkampf eingeladen. Bei besten Bedingungen ....
+```
+
 ## Voransicht
 
 [⬆](#)
@@ -113,6 +143,8 @@ Berichte werden nur nur zur vollen Stunde auf msc-kasendorf.de Server herunter g
 
 ## Bilder verlinken
 
+[⬆](#)
+
 1. Die Startseite der Bildergalierie aufsuchen [https://get.google.com/albumarchive/108656924518465552879](https://get.google.com/albumarchive/108656924518465552879)
-1. Kategorie auswälen wie [Welschenkahl2015](https://get.google.com/albumarchive/108656924518465552879/album/AF1QipM0ZgPFEtrgD8LmfD6FE2B5Tmbw-ez8JwqHS4DG)
+1. Kategorie auswählen wie [Welschenkahl2015](https://get.google.com/albumarchive/108656924518465552879/album/AF1QipM0ZgPFEtrgD8LmfD6FE2B5Tmbw-ez8JwqHS4DG)
 1. Hier kann die URL der Bilder mit rechter Mausklick kopiert werden.
