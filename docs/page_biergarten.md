@@ -111,7 +111,7 @@ Anweisung2: Wert2
 Hallo Motorsportfreunde, ....
 ```
 
-Hierbei sollte man den Befehl **`<!--mehr-->`** beachten. Alles was über **`<!--mehr-->`** steht ist eine Zusammenfassung des Berichts. Alles darunter ist der Lang-Text. Wird auf Übersichtsseite [Verein](http://www.msc-kasendorf.de/verein/#), [Trail](http://www.msc-kasendorf.de/trial/#), [Slalom](http://www.msc-kasendorf.de/slalom/#) nicht angezeigt.
+Hierbei sollte man den Befehl **`<!--mehr-->`** beachten der weggelassen werden kann. Ist er gesetzt ist alles über **`<!--mehr-->`** eine Zusammenfassung des Berichts und alles darunter ist der Lang-Text. Man sieht die Auswirkung nur auf  Übersichts Seiten wie [Verein](http://www.msc-kasendorf.de/verein/#), [Trail](http://www.msc-kasendorf.de/trial/#), [Slalom](http://www.msc-kasendorf.de/slalom/#). Hier wird alles unter **`<!--mehr-->`** nicht angezeigt.
 
 ```
 ---
@@ -120,6 +120,8 @@ Anweisung2: Wert2
 ---
 
 In Welschenkahl pulsiert das Herz der Trialelite
+
+![Bild](https://lh3.googleusercontent.com/94q9bk0sdSNuGwP3JNS2Dh_7CZB1-v0CqLcHWC9wUa5LScY6s1AojiPGdLKC9OTkx-uSe3cJQ9JXRDRF7g=w825-h550-rw)
 
 <!--mehr-->
 
