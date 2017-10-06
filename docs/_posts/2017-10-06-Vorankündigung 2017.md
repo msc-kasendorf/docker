@@ -20,6 +20,8 @@ lang: de
 
 <!--mehr-->
 
+![Klicken um Bild zu vergrößern](https://lh3.googleusercontent.com/76aNDQlm0Ci3lgP8fQh_n59CnUQcgR0uaUtQTFa5lip8kWl9q4zQ-8FxlOZSLuWg2LIXRFuQRV6123W4kg=w293-h220)
+
 Welschenkahl- Motorsportbegeisterte zieht es am Samstag 21.10.2017 und Sonntag 22.10.2017 nach Welschenkahl:
 
 Dort lädt der MSC Kasendorf zum 64. und 65. mal zum ADAC- Trial für Motorräder ein.
