@@ -1,9 +1,9 @@
 ---
-layout:post
+layout: post
 title: 64. und 65. ADAC Trial des MSC Kasendorf in Welschenkahl
-name:2017VorankündigungWelschenkahl
-category:trial
-tags:[trial]
+name: 2017VorankündigungWelschenkahl
+category: trial
+tags: [trial]
 excerpt_separator: <!--mehr-->
 lang: de
 ---
