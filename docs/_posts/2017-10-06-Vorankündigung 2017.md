@@ -10,7 +10,7 @@ lang: de
 
 # 64. und 65. ADAC Trial des MSC Kasendorf in Welschenkahl
 
-(/download/2017Plakat2017)
+![Klicken um Bild zu vergrößern](/download/2017Plakat2017)
 
 [Sicherheitskonzept](/download/2017_Sicherheitskonzept_Internet.pdf)
 
