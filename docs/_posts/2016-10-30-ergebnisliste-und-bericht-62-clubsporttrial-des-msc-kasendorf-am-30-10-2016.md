@@ -12,7 +12,7 @@ lang: de
 
 Zum 62. Mal hat der MSC Kasendorf am vergangenen Sonntag zu seinem ADAC-Trial-Wettkampf eingeladen. Bei besten Bedingungen kämpften sich 91 Fahrer und Fahrerinnen aus Bayern, Thüringen, Sachsen, Hessen und Tschechien waghalsig über die verschiedensten Hindernisse am Übungsgelände in Welschenkahl und den angrenzenden Wald.
 
-[Ergebnisliste20161030.pdf](/download/Ergebnisliste20161030.pdf)
+[Ergebnisliste vom 30.10.2016](/download/Ergebnisliste20161030.pdf)
  
 <!--mehr-->
 
