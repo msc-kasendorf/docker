@@ -8,7 +8,7 @@ excerpt_separator: <!--mehr-->
 lang: de
 ---
 
-![Klicken um Bild zu vergrößern](/download/2017Plakat.jpg)
+# 64. und 65. ADAC Trial des MSC Kasendorf in Welschenkahl
 
 [Sicherheitskonzept](/download/2017_Sicherheitskonzept_Internet.pdf)
 
@@ -17,8 +17,6 @@ lang: de
 [Kurzausschreibung So.22.10.2017](/download/20171022KurzausschreibungWelschenkahl.pdf)
 
 <!--mehr-->
-
-# 64. und 65. ADAC Trial des MSC Kasendorf
 
 Welschenkahl- Motorsportbegeisterte zieht es am Samstag 21.10.2017 und Sonntag 22.10.2017 nach Welschenkahl:
 
