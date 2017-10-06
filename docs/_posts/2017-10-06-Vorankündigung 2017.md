@@ -8,11 +8,10 @@ excerpt_separator: <!--mehr-->
 lang: de
 ---
 
-![Klicken um Bild zu vergrößern]
-(/download/Plakat 2017.jpg)
-[Sicherheitskonzept](/download/Sicherheitskonzept Internet 2017.pdf)
-[Kurzausschreibung Sa.21.10.2017](/download/Kurzausschreibung Welschenkahl 21.10.17.pdf)
-[Kurzausschreibung So.22.10.2017](/download/Kurzausschreibung Welschenkahl22.10.17.pdf)
+![Klicken um Bild zu vergrößern] (/download/Plakat 2017.jpg)
+[Sicherheitskonzept] (/download/Sicherheitskonzept Internet 2017.pdf)
+[Kurzausschreibung Sa.21.10.2017] (/download/Kurzausschreibung Welschenkahl 21.10.17.pdf)
+[Kurzausschreibung So.22.10.2017] (/download/Kurzausschreibung Welschenkahl22.10.17.pdf)
 
 <!--mehr-->
 
