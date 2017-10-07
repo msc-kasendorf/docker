@@ -12,9 +12,9 @@ lang: de
 
 [Sicherheitskonzept](/download/2017_Sicherheitskonzept_Internet.pdf)
 
-[Kurzausschreibung Sa.21.10.2017](/download/20171021Kurzausschreibung Welschenkahl.pdf)
+[Kurzausschreibung Sa.21.10.2017](/download/20171021KurzausschreibungWelschenkahl.pdf)
 
-[Kurzausschreibung So.22.10.2017](/download/20171022Kurzausschreibung Welschenkahl.pdf)
+[Kurzausschreibung So.22.10.2017](/download/20171022KurzausschreibungWelschenkahl.pdf)
 
 <!--mehr-->
 
