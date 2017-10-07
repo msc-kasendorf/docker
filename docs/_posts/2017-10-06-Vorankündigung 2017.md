@@ -10,11 +10,11 @@ lang: de
 
 ![Klicken um Bild zu vergrößern](/download/2017Plakat.jpg)
 
-[Sicherheitskonzept](/download/2017SicherheitskonzeptInternet.pdf)
+[Sicherheitskonzept](/download/2017Sicher.pdf)
 
-[Kurzausschreibung Sa.21.10.2017](/download/20171021KurzausschreibungWelschenkahl.pdf)
+[Kurzausschreibung Sa.21.10.2017](/download/20171021Kurz.pdf)
 
-[Kurzausschreibung So.22.10.2017](/download/20171022KurzausschreibungWelschenkahl.pdf)
+[Kurzausschreibung So.22.10.2017](/download/20171022Kurz.pdf)
 
 <!--mehr-->
 
