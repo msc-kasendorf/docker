@@ -5,6 +5,8 @@ permalink: /biergarten/
 lang: de
 ---
 
+# Anlegen eines neuen Artikels
+
 * Handgemacht mit ❤
 {:toc}
 
