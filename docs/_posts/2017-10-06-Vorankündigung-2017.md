@@ -10,6 +10,7 @@ lang: de
 
 ![Klicken um Bild zu vergrößern](/download/2017Plakat.jpg)
 
+#### Downloads
 
 * [Sicherheitskonzept](/download/2017Sicher.pdf)
 * [Kurzausschreibung Sa.21.10.2017](/download/20171021Kurz.pdf)
@@ -34,6 +35,6 @@ Sonntag beginnt die Einschreibung ab 9:00 Uhr, Start ist um 10:00 Uhr.
 Die Fahrzeit beträgt wieder 270 min, so daß die Siegerehrung um 15:00 Uhr stattfinden kann.
 
 Die Sektionen sind für interessierte Zuschauer auf einen Rundkurs um das Trial-Übungsgelände verteilt und bestens erreichbar.
-Weitere Informationen siehe Link zu [Kurzausschreibung](#) und das [Sicherheitskonzept der Veranstaltung](/download/2017Sicher.pdf).
+Weitere Informationen siehe Link zu [Kurzausschreibung](#Downloads) und das [Sicherheitskonzept der Veranstaltung](#Downloads).
 
 Auf eine gut besuchte Veranstaltung freut sich der MSC Kasendorf.
