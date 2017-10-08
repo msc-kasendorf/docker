@@ -35,6 +35,6 @@ Sonntag beginnt die Einschreibung ab 9:00 Uhr, Start ist um 10:00 Uhr.
 Die Fahrzeit beträgt wieder 270 min, so daß die Siegerehrung um 15:00 Uhr stattfinden kann.
 
 Die Sektionen sind für interessierte Zuschauer auf einen Rundkurs um das Trial-Übungsgelände verteilt und bestens erreichbar.
-Weitere Informationen siehe Link zu [Kurzausschreibung](#Downloads) und das [Sicherheitskonzept der Veranstaltung](#Downloads).
+Weitere Informationen siehe Link zu [Kurzausschreibung](#downloads) und das [Sicherheitskonzept der Veranstaltung](#downloads).
 
 Auf eine gut besuchte Veranstaltung freut sich der MSC Kasendorf.
