@@ -7,13 +7,8 @@ lang: de
 
 # Anlegen eines neuen Artikels
 
-* [Anmelden](#anlegen-eines-neuen-artikels)
-* [Bericht erstellen](#bericht-erstellen)
-* [Bericht Kopf](#anweisungen)
-* [Bericht Körper](#körper)
-* [Markdown](#markdown)
-* [Voransicht](#voransicht)
-* [Bilder verlinken](#bilder-verlinken)
+* Handgemacht mit ❤
+{:toc}
 
 ## Anmelden im System
 
