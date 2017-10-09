@@ -8,6 +8,7 @@ services:
             - "$NETWORK_MSC_GATEWAY:$PORT_00081_APACHE"
         volumes:
             - "$VOLUME_TIME_SYNC"
+            - "$VOLUME_APACHE_HTTPD_CONF"
             - "$PWD/docs/_site:/usr/local/apache2/htdocs"
 
 #        command: "jekyll --help"
