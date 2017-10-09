@@ -25,8 +25,8 @@ lang: de
 
 1. **Rechts oben** ist ein Knopf <button>Create new file</button>
 1. Nach dem Drücken erscheint ein Feld in dem man den Dateinamen eingeben kann
-1. Wichtig ist das der Dateiname vom Computer Programm ausgewertet wird und deshalb **nur aus Buchstaben, Zahlen und Bindestrichen** bestehen darf. Beispiel: **2017-08-30-Mein-Spitzen-Bericht.md**
-oder **Jahr-Monat-Tag-Berichtname.md**
+1. Wichtig ist das der Dateiname vom Computer Programm ausgewertet wird und deshalb **nur aus KLEINEN Buchstaben, Zahlen und Bindestrichen** bestehen darf. Beispiel: **2017-10-06-vorankuendigung-welschenkahl-2017.md**
+oder **jahr-monat-tag-berichtname.md**
 1. Den Vordruck (siehe unten) kopieren und mit dem Knopf <button>Commit new file</button> **unten Links** abspeichen.
 
 ```
