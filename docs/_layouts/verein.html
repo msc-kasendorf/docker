@@ -68,7 +68,7 @@
 
             {% for post in site.posts %}
                 {% if post.categories contains 'verein' %}
-                    {% if forloop.index > site.page-post-limit %}
+                    {% if forloop.index >= site.page-post-limit %}
                         <div id="{{ post.name }}">
                             <span>
                                 {% assign d = post.date | date: "%-d" %}
