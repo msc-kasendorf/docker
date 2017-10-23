@@ -10,8 +10,8 @@ lang: de
 
 #### Downloads
 
-* [Ergebnisliste Samstag 21.10.2017](/downloads/Ergebnisliste_Welschenkahl_20171021.pdf)
-* [Ergebnisliste Sonntag 22.10.2017](/downloads/Ergebnisliste_Welschenkahl_20171022.pdf)
+* [Ergebnisliste Samstag 21.10.2017](/downloads/20171021Ergebnis.pdf)
+* [Ergebnisliste Sonntag 22.10.2017](/downloads/20171022Ergebnis.pdf)
 
 <!--mehr-->
 
