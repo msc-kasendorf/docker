@@ -10,8 +10,8 @@ lang: de
 
 #### Downloads
 
-* [Ergebnisliste Samstag 21.10.2017](/downloads/20171021Ergebnis.pdf)
-* [Ergebnisliste Sonntag 22.10.2017](/downloads/20171022Ergebnis.pdf)
+* [Ergebnisliste Samstag 21.10.2017](/download/20171021Ergebnis.pdf)
+* [Ergebnisliste Sonntag 22.10.2017](/download/20171022Ergebnis.pdf)
 
 <!--mehr-->
 
@@ -25,4 +25,5 @@ Null-Sektionen entschieden wurde.
 Dem MSC Kasendorf wurde von vielen Stimmen aus dem Fahrerfeld bestätigt, daß diese Doppelveranstaltung eine gelungene Veranstaltung war 
 mit wunderschönen Natursektionen. 
 Nächstes Jahr hoffen wir wieder auf so ein schönes Trial und auch wieder auf euer Kommen.
+
 Bis 2018 euer MSC Kasendorf.
