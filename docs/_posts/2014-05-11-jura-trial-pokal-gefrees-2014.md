@@ -17,7 +17,7 @@ lang: de
 Am Sonntag den 27. April machte sich das Trialteam des MSC Kasendorf auf nach Gefrees um am 2. Lauf  zum Jura-Trial-Pokal 2014 teilzunehmen.
 
 Die Senioren des MSC Kasendorf waren in den Klassen 5 , 4  und 3 unterwegs.
-[Klicken um Bild zu vergrößern](https://lh3.googleusercontent.com/94q9bk0sdSNuGwP3JNS2Dh_7CZB1-v0CqLcHWC9wUa5LScY6s1AojiPGdLKC9OTkx-uSe3cJQ9JXRDRF7g=w330-h220)
+
  Timo Jansen![Klicken um Bild zu vergrößern](https://lh6.googleusercontent.com/-1gJdFPDAzho/U11NBvjMPWI/AAAAAAAAECQ/uB8nCHX8lJI/w710-h533-no/timo.JPG)erkämpfte sich Platz 10 in der Klasse 3.
 
  Udo Kauppert![Klicken um Bild zu vergrößern](https://lh4.googleusercontent.com/-MAl9ZHcH81U/U11MePBiNUI/AAAAAAAAEBw/3Lo6SilMBlU/w709-h533-no/ich.JPG)belegte nach einer verkorksten dritten Runde den 7. Platz in der Klasse 5.
