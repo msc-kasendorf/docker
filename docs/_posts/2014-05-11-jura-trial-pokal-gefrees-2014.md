@@ -14,7 +14,7 @@ lang: de
  
 <!--mehr-->
 
-Thomas[Klicken um Bild zu vergrößern](https://lh3.googleusercontent.com/94q9bk0sdSNuGwP3JNS2Dh_7CZB1-v0CqLcHWC9wUa5LScY6s1AojiPGdLKC9OTkx-uSe3cJQ9JXRDRF7g=w330-h220.jpg)
+Thomas[Thomas](https://lh3.googleusercontent.com/94q9bk0sdSNuGwP3JNS2Dh_7CZB1-v0CqLcHWC9wUa5LScY6s1AojiPGdLKC9OTkx-uSe3cJQ9JXRDRF7g=w330-h220.jpg)
 
 Am Sonntag den 27. April machte sich das Trialteam des MSC Kasendorf auf nach Gefrees um am 2. Lauf  zum Jura-Trial-Pokal 2014 teilzunehmen.
 
