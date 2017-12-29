@@ -263,7 +263,7 @@ am
 Samstag
 Thomas
 Passing,
-![Klicken um Bild zu vergrößern](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/2754444_cms2image-fixedwidth-900x0_1pYbi5_13Jh2X.jpg)
+![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/raw/master/docs/download/2754445_cms2image-fixedwidth-900x0_1pYbi9_4MkqiA.jpg)
 der
 in
 der
