@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Bericht 63.und 64.ADAC Jugend und Clubsporttrial des MSC Kasendorf am 20./21.10.2017
-name: Bericht63Und64ADACJugendUndClubsporttrialDesMSCKasendorfAm2021102017
+title:  Bericht 64.und 65.ADAC Jugend und Clubsporttrial des MSC Kasendorf am 20./21.10.2017
+name: Bericht64Und65ADACJugendUndClubsporttrialDesMSCKasendorfAm2021102017
 category: trial
 tags: [trial]
 excerpt_separator: <!--mehr-->
