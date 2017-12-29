@@ -13,34 +13,9 @@ lang: de
 <!--mehr-->
 
 **Auflagentrial**
-​
-​
-Kasendorf
-​
-​
-21.-22.10.
-Lauf
-​
-​
-zum
-​
-​
-Jura
-​
-​
-Pokal
-​
-​
-und
-​
-​
-zur
-​
-​
-Bayerischen
-​
-​
-Trial-Meisterschaft
+
+Kasendorf - 21.-22.10.2017-Lauf zum JuraPokal und zur Bayerischen Trial-Meisterschaft
+
 72
 Fahrer
 stellten
