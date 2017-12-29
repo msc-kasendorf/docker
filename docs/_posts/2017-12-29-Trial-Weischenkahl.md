@@ -16,56 +16,7 @@ lang: de
 
 Kasendorf - 21.-22.10.2017-Lauf zum JuraPokal und zur Bayerischen Trial-Meisterschaft
 
-72
-Fahrer
-stellten
-sich
-am
-Samstag
-und
-Sonntag
-waren
-es
-67,
-die
-sich
-ich
-den
-Auflagen
-der
-„ZUSTÄNDIGEN
-STELLEN“
-und
-dem
-Fahrtleiter
-Stefan
-Herold
-im
-fränkischen
-Kasendorf,
-nahe
-der
-Autobahn
-Kreuz
-Kulmbach
-und
-Bamberg
-stellten.
-Die
-zuständigen
-Stellen
-sagten
-zwar
-nicht
-präzise
-was
-sie
-eigentlich
-wollten,
-verlangten
-eben
-ein
-Sicherungskonzept
+72  Fahrerstellten sic am Samstag und Sonntag waren es 67, die sich den Auflagen der „ZUSTÄNDIGENSTELLEN“ und dem Fahrtleiter Stefan Herold im fränischen Kasendorf, nahe der Autobahn Kreuz Kulmbach und Bamberg stellten. Die zuständigen Stellen sagten zwar nicht präzise wa s sie eigentlich wollten,verlangten eben ein Sicherungskonzept.
 Die
 Fahrtleitung
 und
