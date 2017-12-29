@@ -49,19 +49,7 @@ des
 Jura
 Pokals
 und
-auch
-​
-​
-der
-​
-​
-Bayerischen
-​
-​
-Landesmeisterschaft
-​
-​
-entsprachen.
+auch der Bayerischen Landesmeisterschaft entsprachen.
 
 Alle
 gestarteten
@@ -109,25 +97,7 @@ einhalten
 und
 so
 mit
-konnte
-​
-​
-auch
-​
-​
-das
-​
-​
-Trial
-​
-​
-pünktlich
-​
-​
-beendet
-​
-​
-werden.
+konnte auchd das Trial pünktlich beendet werden.
 
 Von
 den
@@ -229,13 +199,7 @@ und
 Felsgestein
 auch
 fahrerische
-Qualitäten
-​
-​
-gefordert
-​
-​
-waren.
+Qualitäten gefordert waren.
 
 Die
 Nacht
