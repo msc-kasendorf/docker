@@ -18,6 +18,7 @@ Kasendorf - 21.-22.10.2017-Lauf zum JuraPokal und zur Bayerischen Trial-Meisters
 
 72  Fahrer stellten sich am Samstag, und am Sonntag waren es 67, die sich den Auflagen der „ZUSTÄNDIGEN STELLEN“ und dem Fahrtleiter Stefan Herold im fränischen Kasendorf, nahe der Autobahn72 Ausfahrt Schirradorf stellten.
 
+<!--mehr-->
 Die
 Fahrtleitung
 und
