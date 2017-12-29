@@ -262,7 +262,8 @@ MSC
 am
 Samstag
 Thomas
-Passung,
+Passing,
+![Klicken um Bild zu vergrößern](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/2754444_cms2image-fixedwidth-900x0_1pYbi5_13Jh2X.jpg)
 der
 in
 der
