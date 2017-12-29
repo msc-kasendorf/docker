@@ -14,7 +14,6 @@ lang: de
 
 **Auflagentrial**
 
-![Klicken um Bild zu vergrößern]https://github.com/msc-kasendorf/docker/blob/master/docs/download/2754442_cms2image-fixedwidth-900x0_1pYbhZ_9lOeUQ.jpg
 
 Kasendorf - 21.-22.10.2017-Lauf zum ADAC Nordbayern Jugend und Clubsport Pokal, Jura-Trial-Pokal und zur Bayerischen Trial-Meisterschaft
 
