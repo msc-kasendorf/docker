@@ -18,7 +18,7 @@ Kasendorf - 21.-22.10.2017-Lauf zum ADAC Nordbayern Jugend und Clubsport Pokal, 
 
 72  Fahrer stellten sich am Samstag, und am Sonntag waren es 67, die sich den Auflagen der „ZUSTÄNDIGEN STELLEN“ und dem Fahrtleiter Stefan Herold im fränischen Kasendorf, nahe der Autobahn72 Ausfahrt Schirradorf stellten.
 
--
+<!--mehr-->
 
 Die
 Fahrtleitung
@@ -62,6 +62,7 @@ Landesmeisterschaft
 ​
 ​
 entsprachen.
+
 Alle
 gestarteten
 Fahrer
@@ -91,6 +92,7 @@ in
 270
 min
 durchfahren.
+
 Die
 Fahrer,
 so
@@ -126,6 +128,7 @@ beendet
 ​
 ​
 werden.
+
 Von
 den
 neun
@@ -185,6 +188,7 @@ Strafpunkten
 pro
 Runde
 zurück.
+
 Die
 restlichen
 Sektionen,
@@ -232,6 +236,7 @@ gefordert
 ​
 ​
 waren.
+
 Die
 Nacht
 zum
@@ -294,22 +299,9 @@ wieder
 ​
 ​
 trocken.
-Passung
-​
-​
-und
-​
-​
-Maiwald
-​
-​
-auf
-​
-​
-dem
-​
-​
-Podest
+
+**Passung und Maiwald auf dem Podest**
+
 Gut
 in
 Szene
@@ -541,7 +533,6 @@ BMV
 Alois
 Thoma
 ​
-​​
 ​
 und
 ​
