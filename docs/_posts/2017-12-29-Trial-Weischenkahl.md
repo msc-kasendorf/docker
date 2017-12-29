@@ -14,6 +14,8 @@ lang: de
 
 **Auflagentrial**
 
+![Klicken um Bild zu vergrößern](https://lh3.googleusercontent.com/-xxflzXk9UbA/VT50XKElepI/AAAAAAAAFdE/tyKpqoCDzHY/w964-h819-no/DSCI0357.JPG)
+
 Kasendorf - 21.-22.10.2017-Lauf zum ADAC Nordbayern Jugend und Clubsport Pokal, Jura-Trial-Pokal und zur Bayerischen Trial-Meisterschaft
 
 72  Fahrer stellten sich am Samstag, und am Sonntag waren es 67, die sich den Auflagen der „ZUSTÄNDIGEN STELLEN“ und dem Fahrtleiter Stefan Herold im fränischen Kasendorf, nahe der Autobahn72 Ausfahrt Schirradorf stellten.
