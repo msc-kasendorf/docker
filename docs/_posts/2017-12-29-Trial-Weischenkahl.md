@@ -280,25 +280,7 @@ ab
 und
 zum
 Ende
-hin
-​
-​
-war
-​
-​
-es
-​
-​
-schon
-​
-​
-fast
-​
-​
-wieder
-​
-​
-trocken.
+hin war es schon fast wieder trocken.
 
 **Passung und Maiwald auf dem Podest**
 
@@ -373,28 +355,7 @@ Passung
 mit
 den
 erschwerten
-Bedingungen
-​
-​
-zurecht.
-​
-​
-Der
-​
-​
-zweite
-​
-​
-Rang
-​
-​
-war
-​
-​
-eine
-​
-​
-Belohnung.
+Bedingungen zurecht.Der zweite Rang war seine Belohnung.
 Erwähnenswert
 wäre
 noch
@@ -418,31 +379,7 @@ war
 .
 Er
 brachte
-damit
-​
-​
-einen
-​
-​
-Hauch
-​
-​
-von
-​
-​
-Internationalität
-​
-​
-in
-​
-​
-die
-​
-​
-fränkischen
-​
-​
-Sektionen.
+damit einen Hauch von Internationalität in die fränkischen Sektionen.
 
 Noch
 einige
@@ -538,15 +475,4 @@ der
 Vertreter
 des
 BMV
-Alois
-Thoma
-​
-​
-und
-​
-​​
-​
-Gerhard
-​
-​
-Piegler, Organisator des Jura-Trial-Pokal
+Alois Thoma und Gerhard Piegler, Organisator des Jura-Trial-Pokal
