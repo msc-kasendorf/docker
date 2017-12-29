@@ -324,6 +324,7 @@ den
 dritten
 Rang
 erreichte.
+
 Getoppt
 wurde
 dies
@@ -352,6 +353,7 @@ den
 10
 .
 Rang.
+Franziska Weimann verpasste am Sonntag mit Ranr 4 in der Klasse 6 Jugend knapp das Podest.
 Erste
 Erfahrungen
 in
@@ -441,6 +443,7 @@ fränkischen
 ​
 ​
 Sektionen.
+
 Noch
 einige
 Ereignisse
@@ -452,6 +455,7 @@ gleich-und
 zwar
 gleich
 gut.
+
 Das
 war
 die
@@ -463,6 +467,7 @@ Betreuer
 und
 der
 Gäste.
+
 Und
 dies
 fand
@@ -475,6 +480,7 @@ bei
 den
 Siegerehrung
 .
+
 Von
 den
 Auflagen
@@ -499,6 +505,7 @@ alles
 genau
 erkennen
 konnten.
+
 Der
 Rest
 der
@@ -523,6 +530,7 @@ Ihrer
 eigenen
 Sicherheit
 beachten.
+
 Das
 bestätigten
 auch
@@ -541,13 +549,4 @@ und
 Gerhard
 ​
 ​
-Piegler
-​
-​
-Organisator
-​
-​
-des
-​
-​
-Jura-Trial-Pokal
+Piegler, Organisator des Jura-Trial-Pokal
