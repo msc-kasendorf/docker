@@ -52,6 +52,7 @@ Jura
 Pokals
 und
 auch der Bayerischen Landesmeisterschaft entsprachen.
+![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/raw/7027b0945ad8dfdf75e5c883d883228eb3422e75/docs/download/DSC02271.JPG)
 
 Alle
 gestarteten
