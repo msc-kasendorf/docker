@@ -280,6 +280,7 @@ dies
 von
 Valentin
 Maiwald
+(https://raw.githubusercontent.com/msc-kasendorf/docker/7027b0945ad8dfdf75e5c883d883228eb3422e75/docs/download/20171021_142127%20-%20Kopie.jpg)
 mit
 einem
 zweiten
