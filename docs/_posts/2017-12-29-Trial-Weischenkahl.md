@@ -305,7 +305,8 @@ den
 10
 .
 Rang.
-Franziska Weimann verpasste am Sonntag mit Ranr 4 in der Klasse 6 Jugend knapp das Podest.
+Franziska Weimann
+![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/docs/download/DSC02346.JPG?raw=trueverpasste) am Sonntag mit Ranr 4 in der Klasse 6 Jugend knapp das Podest.
 Erste
 Erfahrungen
 in
