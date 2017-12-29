@@ -292,6 +292,7 @@ Klasse
 Jugend.
 Lea
 Kauppert,
+![Klicken um Bild zu vergrößern](https://raw.githubusercontent.com/msc-kasendorf/docker/7027b0945ad8dfdf75e5c883d883228eb3422e75/docs/download/DSC02285.JPG)
 in
 der
 selben
