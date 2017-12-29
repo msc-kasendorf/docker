@@ -7,7 +7,7 @@ tags: [trial]
 excerpt_separator: <!--mehr-->
 lang: de
 ---
-![Klicken um Bild zu vergrößern]
+![Klicken um Bild zu vergrößern]https://github.com/msc-kasendorf/docker/blob/master/docs/download/DSC02346.JPG?raw=true
 
 **In Welschenkahl traf sich die Trialelite aus ganz Bayern**
 
