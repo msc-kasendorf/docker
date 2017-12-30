@@ -450,5 +450,5 @@ Alois Thoma und Gerhard Piegler, Organisator des Jura-Trial-Pokal.
 
 Bei der anschließenden Siegerehrung
 ![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/raw/master/docs/DSC02361.JPG)
-durch Vorstand Stefan Herold und Bürgermeister Bernd Steinhäuser galt der Dank allen Teilnehmern für ihr kommen, der Marktgemeinde und den privaten Grundstücksbesitzern für das zur Verfügung gestellte Gelände, dem BRK und den Sponsoren allen voran die Kulmbacher Brauerei für ihre Unterstützung.
+durch Vorstand Stefan Herold und Bürgermeister Bernd Steinhäuser galt der Dank allen Teilnehmern für ihr kommen, der Marktgemeinde und den privaten Grundstücksbesitzern für das zur Verfügung gestellte Gelände, dem BRK und den Sponsoren allen voran die Kulmbacher Brauerei für ihre Unterstützung.                                                                                ![mehr Bilder](https://get.google.com/albumarchive/108656924518465552879/album/AF1QipOxCgcR_ewL9w76RNLJXwDebVD8fiFpFlticPX7)
 
