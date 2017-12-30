@@ -30,6 +30,6 @@ Gemäß Ziffer 3 letzter Absatz der Satzung des MSC Kasendorf können Anträge f
 ordenlichen Mitglied gestellt werden. Sie müssen mindestens acht Tage vor der Mitgliederversammlung beim
 1. Vorsitzenden eingereicht sein.
 
-**Stefan Herold 1. Vorsitzender, Frankenber 38 95326 Kulmbach**
+**Stefan Herold 1. Vorsitzender, Frankenberg 38 95326 Kulmbach**
 
 
