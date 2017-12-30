@@ -18,7 +18,7 @@ lang: de
 
 Kasendorf - 21.-22.10.2017-Lauf zum ADAC Nordbayern Jugend und Clubsport Pokal, Jura-Trial-Pokal und zur Bayerischen Trial-Meisterschaft
 
-72  Fahrer stellten sich am Samstag, und am Sonntag waren es 67, die sich den Auflagen der „ZUSTÄNDIGEN STELLEN“ und dem Fahrtleiter Stefan Herold im fränischen Kasendorf, nahe der Autobahn72 Ausfahrt Schirradorf stellten.
+72  Fahrer stellten sich am Samstag, und am Sonntag waren es 67, die sich den Auflagen der „ZUSTÄNDIGEN STELLEN“ und dem Fahrtleiter Stefan Herold im fränischen Kasendorf, nahe der Autobahn70 Ausfahrt Schirradorf stellten.
 
 <!--mehr-->
 
@@ -32,7 +32,7 @@ dieses
 und
 veröffentlichten
 es
-auch
+auch,
 darüber
 hinaus
 erstellten
@@ -249,7 +249,7 @@ zum
 Ende
 hin war es schon fast wieder trocken.
 
-**Passung und Maiwald auf dem Podest**
+**Passing und Maiwald auf dem Podest**
 
 Gut
 in
@@ -322,7 +322,7 @@ kam
 am
 besten
 Thomas
-Passung
+Passing
 mit
 den
 erschwerten
