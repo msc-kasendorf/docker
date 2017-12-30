@@ -100,3 +100,5 @@ lang: de
 **2016** - Stefan Herold übernimmt Vereinsvorsitz.
 
 **2017** - Umgestaltung und Erweiterung des Trial-Übungsgelände bei Welschenkahl
+         - Ausrichtung von zwei Läufen zur bayerischen Trialmeisterschaft
+         - Vereinsmeister Motorrad: Thomas Passing
