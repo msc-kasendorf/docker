@@ -453,6 +453,10 @@ Bei der anschließenden Siegerehrung
 durch Vorstand Stefan Herold und Bürgermeister Bernd Steinhäuser galt der Dank allen Teilnehmern für ihr kommen, der Marktgemeinde und den privaten Grundstücksbesitzern für das zur Verfügung gestellte Gelände, dem BRK und den Sponsoren allen voran die Kulmbacher Brauerei für ihre Unterstützung.
 
 **mehr Bilder unter Fotos**
+![Bilder]
+(Welschenkahl 2017
+99 Elemente)
+
 
 
 
