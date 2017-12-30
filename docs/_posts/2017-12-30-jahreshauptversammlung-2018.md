@@ -2,8 +2,8 @@
 layout: post
 title: Jahreshauptversammlung 2018
 name: Jahreshauptversammlung2018
-category: trial
-tags: [trial]
+category: verein
+tags: [verein]
 excerpt_separator: <!--mehr-->
 lang: de
 ---
