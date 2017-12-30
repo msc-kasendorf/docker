@@ -13,7 +13,7 @@ lang: de
 
 * [Vorstandschaft 1968-2016]({{site.page-prefix}}download/MSCKasendorfVorstand.pdf)
 * [Vereinsmeister]({{site.page-prefix}}download/Vereinsmeister.pdf)
-* [Wettbewerbschronik]({{site.page-prefix}}download/Vereinsmeister.pdf)
+* [Wettbewerbschronik]({{site.page-prefix}}download/Wettbewerbchronik.pdf)
 
 **1968** - Gründung am 7.Februar aus ehemaligen Fiat-Club. 1. Vorsitzender Wolfgang Lukas, die weiteren Gründungsmitglieder waren: Herman Seidler, Georg Putze, Oskar Wagner, Hans-Jürgen Hofmann
 
