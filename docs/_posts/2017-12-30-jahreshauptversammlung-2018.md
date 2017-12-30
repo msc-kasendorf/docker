@@ -10,7 +10,7 @@ lang: de
 
 **Einladung zur Jahreshauptversammlung 2018**
 
-Am Freitag 02. Februar 2018, findet die **Jahreshauptversammlung im Clublokal Friedrich in Kasendorf** statt. **Beginn 19.30 Uhr** . Hierzu ergeht herzliche Einladung.
+Am Freitag 02. Februar 2018, findet die **Jahreshauptversammlung im Clublokal Friedrich in Kasendorf** statt. **Beginn 19.30 Uhr**  Hierzu ergeht herzliche Einladung.
 
 <!--mehr-->
 
