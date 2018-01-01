@@ -27,8 +27,7 @@ lang: de
 
 | Sportleiter |    
 |:---:|
-| Passing Thomas {{![Person](https://lh6.googleusercontent.com/MGocEJLPjcFJcStHuq4RV1cS4QAZEPJqVYGoclCEEds=w283-h212-p-no) |
-| Thomas Passing {{site.trenner}} Klasse 4 + sportlicher Leiter |}} sportleiterATmsc-kasendorf.de
+| Passing Thomas {{site.trenner}} Klasse 4 + sportlicher Leiter |}} sportleiterATmsc-kasendorf.de
 
 | Jugendleiter |    
 |:---:|
