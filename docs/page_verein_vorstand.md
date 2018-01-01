@@ -32,4 +32,4 @@ lang: de
 
 | Jugendleiter |    
 |:---:|
-|  Weimann Markus {{site.trenner}} jugendleiterATmsc-kasendorf.de
+|  Weimann Markus {{![Person](https://lh6.googleusercontent.com/LGm-nV2_UCrz-q-8oe6hL604oCe_ky_gPkV2HdnmMJ8=w137-h207-p-no)}} jugendleiterATmsc-kasendorf.de
