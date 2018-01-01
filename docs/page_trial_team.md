@@ -8,8 +8,8 @@ lang: de
 {% include navigation_trial.html %}
 
 ## Team
-
-![Klicken um Bild zu vergrößern](https://raw.githubusercontent.com/msc-kasendorf/docker/027ec508626a2fcc891af18d53391d165d66a9d2/docs/_posts/IMG_8845.JPG)**2013**
+**2014**
+![Klicken um Bild zu vergrößern](https://raw.githubusercontent.com/msc-kasendorf/docker/027ec508626a2fcc891af18d53391d165d66a9d2/docs/_posts/IMG_8845.JPG)
 
 ![Klicken um Bild zu vergrößern](https://lh4.googleusercontent.com/-iVD7P1FwC9w/UZEmK4QzMVI/AAAAAAAADes/LBf03Hyct7k/w711-h473-no/IMGP0870.JPG)
 
