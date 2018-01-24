@@ -16,6 +16,7 @@ Strafpunkte werden in jeder Sektion auch bei mehreren Fehlern jeweils nur für d
 **Wertung:**
 
 * Durchfahren ohne Fuß oder Scheitern  0 Fehlerpunkte
+
 * Ein Fehler ( insgesamt einmal Fuß )  1 Fehlerpunkt
 * Zwei Fehler ( insgesamt zweimal Fuß )  2 Fehlerpunkte
 
@@ -71,7 +72,7 @@ Startnummern mit grünem Untergrund, in der Sektion grüne Pfeile.
 
 **Klasse 5**
 
-Startnummern mit schwarzen Untergrund und weißen Zahlen, in der Sektion gelbe Pfeile - normal schwarze.
+Startnummern mit schwarzen Untergrund und weißen Zahlen.
 
 **Klasse 6**
 
