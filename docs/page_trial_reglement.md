@@ -18,7 +18,7 @@ lang: de
 *  
 ![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Trialregeln%20(2).JPG?raw=true)
 
-* Ein Fehler ( insgesamt einmal Fuß )  1 Fehlerpunkt
+*![Klicken um Bild zu vergrößern](https://raw.githubusercontent.com/msc-kasendorf/docker/964baaaf350a21558d71d37062e227e844c63298/docs/download/Trialregeln%20(3)_preview.jpeg)
 * Zwei Fehler ( insgesamt zweimal Fuß )  2 Fehlerpunkte
 
 Mehr als zwei Fehler  3 Fehlerpunkte
