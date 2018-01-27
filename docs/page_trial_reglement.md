@@ -8,6 +8,7 @@ lang: de
 {% include navigation_trial.html %}
 
 ## Wie wird im TRIALSPORT  gewertet?
+![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/Trialregeln%20(1).JPG?raw=true)
 
 **Strafpunkte in der Sektion / Definition**
 
@@ -16,7 +17,7 @@ Strafpunkte werden in jeder Sektion auch bei mehreren Fehlern jeweils nur für d
 **Wertung:**
 
 *  
-![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Trialregeln%20(2).JPG?raw=true)
+(https://github.com/msc-kasendorf/docker/blob/master/docs/download/Trialregeln%20(2).JPG?raw=true)
 
 * Ein Fehler ( insgesamt einmal Fuß )  1 Fehlerpunkt
 * Zwei Fehler ( insgesamt zweimal Fuß )  2 Fehlerpunkte
