@@ -10,9 +10,8 @@ lang: de
 ## Wie wird im TRIALSPORT  gewertet?
 ![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/Trialregeln%20(1).JPG?raw=true)
 
-**Strafpunkte in der Sektion / Definition**
 
-Strafpunkte werden in jeder Sektion auch bei mehreren Fehlern jeweils nur für den schwersten Fehler gegeben, d.h. ein Fehler mit höherer Strafpunktzahl hebt den oder die Fehler mit geringerer Strafpunktzahl auf.
+
 
 **Wertung:**
 
