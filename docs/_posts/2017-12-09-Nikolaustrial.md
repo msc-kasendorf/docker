@@ -8,9 +8,10 @@ excerpt_separator: <!--mehr-->
 lang: de
 ---
 **Trotz Regen, Schnee und niedrigen Temperaturen liesen sich unerschrockene nicht abhalten zum Nikolaustrial zu kommen.**
+
 <!--mehr-->
-Am Samstag, den 9.
-Dezember, sollte das 2017er Nikolaus-Trial des MSC Kasendorf stattfinden.
+
+Am Samstag, den 9. Dezember, sollte das 2017er Nikolaus-Trial des MSC Kasendorf stattfinden.
 "Sollte", denn aufgrund der miserablen Witterung mit endlosen
 Regenfällen in der Woche davor und einem entsprechend aufgeweichten, matschigen
 Boden auf dem vereinseigenen Gelände bei Welschenkahl hatten einige
@@ -29,7 +30,9 @@ ein paar Sektionen mit mehreren, auf das unterschiedliche Fahrkönnen der fünf
 Trialer angepasste Spuren ab, die dann mehr oder weniger ernst in Angriff
 genommen und sogar trotz des manchmal eisigen, kaum Grip bietenden Bodens
 erfolgreich gemeistert werden konnten.
+
 ![Klicken um Bild zu vergrößern](/download/20171209_Nikolaus01.jpg)
+
 Während sich die Trialfahrer auf ihren Maschinen austobten, schmissen die Betreuer Udo
 Kauppert, Ronny Morck und Stefan Maiwald derweil den Grill an, um den Aktiven
 mit Steaks und Brötchen etwas zum Stärken und zum Aufwärmen zuzubereiten, was
@@ -40,6 +43,7 @@ zwischenzeitlich stärker werdenden Schneefall, genoss danach noch einmal einige
 Minuten "Freies Fahren" auf dem Gelände, bevor die Motorräder
 schließlich zum letzten Mal für diese Saison auf die Anhänger bzw. in die
 Transporter verstaut wurden.
+
 ![Klicken um Bild zu vergrößern](/download/20171209_Nikolaus02.jpg)
 
 ![Klicken um Bild zu vergrößern](/download/20171209_Nikolaus03.jpg)
