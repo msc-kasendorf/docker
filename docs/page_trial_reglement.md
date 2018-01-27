@@ -15,7 +15,7 @@ Strafpunkte werden in jeder Sektion auch bei mehreren Fehlern jeweils nur für d
 
 **Wertung:**
 
-* Durchfahren ohne Fuß oder Scheitern  0 Fehlerpunkte 
+*   0 Fehlerpunkte 
 ![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Trialregeln%20(2).JPG?raw=true)
 
 * Ein Fehler ( insgesamt einmal Fuß )  1 Fehlerpunkt
