@@ -24,6 +24,8 @@ lang: de
 
 ![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Trialregeln%20(5)_preview.jpeg?raw=true)
 
+![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Trialregeln%20(6)_preview.jpeg?raw=true)
+
 Berühren des Bodens oder Anlehnen/Abstützen an ein Hindernis, z.B. Baum, Felsen usw. mit irgend einem Teil des Körpers oder Motorrades, ausgenommen Unterbodenschutz, Fußraste und Reifen. ( Das Streifen von Hindernissen z.B. Baum, Felsen usw. während der Vorwärtsbewegung ist noch keine Bodenberührung.)
 
 * Rückwärtsbewegung mit oder ohne Fuß  5 Fehlerpunkte
