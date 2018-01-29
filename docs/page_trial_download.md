@@ -8,7 +8,7 @@ lang: de
 {% include navigation_trial.html %}
 
 ## Download
-
+(https://github.com/msc-kasendorf/docker/blob/master/docs/download/AnerkennungGO.pdf)
 * [Beitritt]({{site.page-prefix}}download/Beitrittserklaerung.pdf)
 * [Jugendtrainingsordnung]({{site.page-prefix}}download/Jugendtrainingsordnung2017.pdf)
 * [Gelaendeordnung]({{site.page-prefix}}download/Gelaendeordnung2017.pdf)
