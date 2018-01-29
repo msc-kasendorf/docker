@@ -8,10 +8,11 @@ lang: de
 {% include navigation_trial.html %}
 
 ## Wie wird im TRIALSPORT  gewertet?
+Die Bildtafeln wurden mit freundlicher Erlaubnis des McW Heringen uns zur Verfügung gestellt.  ##DANKE**
 ![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/Trialregeln%20(1).JPG?raw=true)
 
 
-Die Bildtafeln wurden mit freundlicher Erlaubnis des McW Heringen uns zur Verfügung gestellt. **DANKE**
+
 
 **Wertung:**
 
