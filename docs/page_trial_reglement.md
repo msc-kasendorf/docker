@@ -11,7 +11,7 @@ lang: de
 ![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/Trialregeln%20(1).JPG?raw=true)
 
 
-
+Die Bildtafeln wurden mit freundlicher Erlaubnis des McW Heringen uns zur Verfügung gestellt. **DANKE**
 
 **Wertung:**
 
