@@ -12,5 +12,5 @@ lang: de
 * [Beitritt]({{site.page-prefix}}download/Beitrittserklaerung.pdf)
 * [Jugendtrainingsordnung]({{site.page-prefix}}download/Jugendtrainingsordnung2017.pdf)
 * [Gelaendeordnung]({{site.page-prefix}}download/Gelaendeordnung2017.pdf)
-* [AnerkennungGO]({{site.page-prefix}}download/https://github.com/msc-kasendorf/docker/blob/master/docs/download/AnerkennungGO2018.pdf)
+* [AnerkennungGO](download/https://github.com/msc-kasendorf/docker/blob/master/docs/download/AnerkennungGO2018.pdf)
 * [Trainingskarte]({{site.page-prefix}}download/Trainingskarte2017.pdf)
