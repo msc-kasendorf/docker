@@ -50,6 +50,8 @@ Berühren des Bodens oder Anlehnen/Abstützen an ein Hindernis, z.B. Baum, Felse
 
 ![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Trialregeln%20(16).JPG?raw=true)
 
+![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Trialregeln%20(17).JPG?raw=true)
+
 
 * Rückwärtsbewegung mit oder ohne Fuß  5 Fehlerpunkte
 * Sturz  5 Fehlerpunkte
