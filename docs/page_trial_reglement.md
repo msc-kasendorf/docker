@@ -41,7 +41,7 @@ Berühren des Bodens oder Anlehnen/Abstützen an ein Hindernis, z.B. Baum, Felse
 ![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Trialregeln%20(21).JPG?raw=true)
 ![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Trialregeln%20(22).JPG?raw=true)
 ![Klicken um Bild zu vergrößern]()https://github.com/msc-kasendorf/docker/blob/master/docs/download/Trialregeln%20(23).JPG?raw=true
-![Klicken um Bild zu vergrößern]()
+![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Trialregeln%20(25).JPG?raw=true)
 ![Klicken um Bild zu vergrößern]()
 ![Klicken um Bild zu vergrößern]()
 ![Klicken um Bild zu vergrößern]()
