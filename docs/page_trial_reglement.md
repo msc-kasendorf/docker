@@ -41,7 +41,9 @@ Berühren des Bodens oder Anlehnen/Abstützen an ein Hindernis, z.B. Baum, Felse
 ![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Trialregeln%20(21).JPG?raw=true)
 ![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Trialregeln%20(22).JPG?raw=true)
 ![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Trialregeln%20(23).JPG?raw=true)
+
 **Der Helfer/Fänger hat in der Sektion einen Helm zu tragen**
+
 ![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Trialregeln%20(25).JPG?raw=true)
 ![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Trialregeln%20(26).JPG?raw=true)
 ![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Trialregeln%20(27).JPG?raw=true)
@@ -57,27 +59,7 @@ Berühren des Bodens oder Anlehnen/Abstützen an ein Hindernis, z.B. Baum, Felse
 ![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Trialregeln%20(37).JPG?raw=true)
 ![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Trialregeln%20(38).JPG?raw=true)
 ![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Trialregeln%20(39).JPG?raw=true)
-* Rückwärtsbewegung mit oder ohne Fuß  5 Fehlerpunkte
-* Sturz  5 Fehlerpunkte
-* Verlassen der Sektionsbegrenzung
 
-**5 Fehlerpunkte**
-* Verlassen der für die betreffende Klasse vorgeschriebene Fahrspur            5 Fehlerpunkte        
-* Beschädigen der seitlichen Begrenzung bzw. eines Klassenpfeiles  5 Fehlerpunkte
-* Überqueren klassenfremde Torlinien oder Umleitungen 5 Fehlerpunkte
-* Fremde Hilfe  5 Fehlerpunkte
-
-Spurkreuzen in Verbindung mit einer Schleife  5 Fehlerpunkte
-
-**Sonstige Strafpunkte / Definition:**
-* Nichteinfahren in einer Sektion
-5 Strafpunkte
-* Reparieren des Motorrades in der Sektion
-5 Strafpunkte
-* Auslassen einer Sektion  10 Strafpunkte
-* Verändern einer Sektion  5 Strafpunkte
-* Nichtverlassen der Sektion nach 5er Wertung 5 Strafpunkte
-Missachtung bzw. Nichtbefolgen von Anweisungen eines kenntlich gemachten Punktrichters  5  Strafpunkte
 Allgemeine Wertung :
 Der Fahrer mit der niedrigsten Fehlerpunktzahl ist Sieger seiner Klasse.
 Bei Punktgleichheit entscheidet:
@@ -89,6 +71,9 @@ Das bessere Ergebnis in der letzten, vorletzten Runde usw.
 KLASSENEINTEILUNG
 
 Im Trial gibt es folgende Klassen
+
+**Klasse 1**
+Deutscher Meister Startnummern mit gelben Untergrund , in der Sektion gelbe Pfeile
 
 **Klasse 2**
 
