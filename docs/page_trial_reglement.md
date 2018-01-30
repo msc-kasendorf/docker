@@ -47,10 +47,10 @@ Berühren des Bodens oder Anlehnen/Abstützen an ein Hindernis, z.B. Baum, Felse
 ![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Trialregeln%20(28).JPG?raw=true)
 ![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Trialregeln%20(29).JPG?raw=true)
 ![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Trialregeln%20(30).JPG?raw=true)
-![Klicken um Bild zu vergrößern]()
-![Klicken um Bild zu vergrößern]()
-![Klicken um Bild zu vergrößern]()
-![Klicken um Bild zu vergrößern]()
+![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Trialregeln%20(31).JPG?raw=true)
+![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Trialregeln%20(32).JPG?raw=true)
+![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Trialregeln%20(33).JPG?raw=true)
+![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Trialregeln%20(34).JPG?raw=true)
 ![Klicken um Bild zu vergrößern]()
 
 * Rückwärtsbewegung mit oder ohne Fuß  5 Fehlerpunkte
