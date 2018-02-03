@@ -306,7 +306,7 @@ den
 .
 Rang.
 Franziska Weimann
-![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/docs/download/DSC02346.JPG?raw=trueverpasste) am Sonntag mit Ranr 4 in der Klasse 6 Jugend knapp das Podest.
+![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/docs/download/DSC02346.JPG?raw=trueverpasste) am Sonntag mit Rang 4 in der Klasse 6 Jugend knapp das Podest.
 Erste
 Erfahrungen
 in
