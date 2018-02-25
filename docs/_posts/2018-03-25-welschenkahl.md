@@ -14,7 +14,7 @@ lang: de
 #### Downloads
 
 * [Sicherheitskonzept](/download/)
-* [Kurzausschreibung 25-03-2018](/download/)
+* [Kurzausschreibung 25-03-2018](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Kurzausschreibung_Welschenkahl_250318.pdf)
 
 
 <!--mehr-->
