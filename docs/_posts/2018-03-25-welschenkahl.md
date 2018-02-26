@@ -13,7 +13,7 @@ lang: de
 
 #### Downloads
 
-* [Sicherheitskonzept](/download/)
+* [Sicherheitskonzept](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Sicherheitskonzept-2.docx)
 * [Kurzausschreibung 25-03-2018](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Kurzausschreibung_Welschenkahl_250318.pdf)
 
 
@@ -35,6 +35,6 @@ Siegerehrung am Trial-Übungsgelände ist für 15:30 Uhr geplant.
 
 
 Die Sektionen sind für interessierte Zuschauer auf einen Rundkurs um das Trial-Übungsgelände verteilt und bestens erreichbar.
-Weitere Informationen siehe Link zu [Kurzausschreibung](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Kurzausschreibung_Welschenkahl_250318.pdf) und das [Sicherheitskonzept der Veranstaltung](#downloads).
+Weitere Informationen siehe Link zu [Kurzausschreibung](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Kurzausschreibung_Welschenkahl_250318.pdf) und das [Sicherheitskonzept der Veranstaltung](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Sicherheitskonzept-2.docx).
 
 Auf eine gut besuchte Veranstaltung freut sich der MSC Kasendorf.
