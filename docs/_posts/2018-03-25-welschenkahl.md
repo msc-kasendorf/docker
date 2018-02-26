@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 66. ADAC Trial des MSC Kasendorf in Welschenkahl
-name: 66ADACTrialdesMSCKasendorfinWelschenkahl
+name: 66ADACTrialDesMSCKasendorfInWelschenkahl
 category: trial
 tags: [trial]
 excerpt_separator: <!--mehr-->
