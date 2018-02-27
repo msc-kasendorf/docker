@@ -8,7 +8,7 @@ excerpt_separator: <!--mehr-->
 lang: de
 ---
 
-![Klicken um Bild zu vergrößern]({{site.page-prefix}}/download/Plakat_25_03_18.jpg?raw=true)
+![Klicken um Bild zu vergrößern]({{site.page-prefix}}download/Plakat_25_03_18.jpg?raw=true)
 
 
 #### Downloads
