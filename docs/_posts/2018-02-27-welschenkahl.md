@@ -13,7 +13,8 @@ lang: de
 
 #### Downloads
 
-*![Sicherheitskonzept](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Sicherheitskonzept2.pdf)
+
+*![Sicherheitskonzept]({{site.page-prefix}}download/Sicherheitskonzept2.pdf)
 
 *[Uebungsgelände](https://github.com/msc-kasendorf/docker/blob/master/docs/download/bayernatlas1.pdf)
 
