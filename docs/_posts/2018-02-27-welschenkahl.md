@@ -11,9 +11,9 @@ lang: de
 ![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Plakat_25_03_18.jpg?raw=true)
 
 
-####Downloads
+#### Download
 
-*[Kurzausschreibung](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Kurzausschreibung_Welschenkahl_250318.pdf)
+[Klurzausschreibung](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Kurzausschreibung_Welschenkahl_250318.pdf)
 
 
 
