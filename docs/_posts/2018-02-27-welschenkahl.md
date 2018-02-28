@@ -16,7 +16,8 @@ lang: de
 * [Kurzausschreibung](/download/Kurzausschreibung_Welschenkahl_250318.pdf)
 * [Sicherheitskonzept](/download/2018Sicher.pdf)
 
-Für alle Teilnehmer: 
+**Für alle Teilnehmer:**
+
 Denkt daran eure Lizenz frühzeitig zu beantragen!
 Die bisherige Vor-Ort-Lizenz ist ab 2018 ersetzt durch die digitale DMSB-Startzulassung, die über die DMSB-App beantragt werden kann,
 auch schon vorab für das benötigte Datum.
@@ -29,7 +30,7 @@ Dort lädt der MSC Kasendorf zum 66. mal zum ADAC- Trial für Motorräder ein.
 Es ist der erste Lauf in Bayern und den östlichen Bundesländern.
 
 Für folgende Meisterschaften werden Punkte vergeben: 
-nordbayerischen ADAC-Trial Clubsport-Pokal, ADAC-Jugend Trial-Pokal und Jura-Trial-Pokal t.
+nordbayerischen ADAC-Trial Clubsport-Pokal, ADAC-Jugend Trial-Pokal und Jura-Trial-Pokal.
 
 Es werden Motorsportler aus Bayern, Sachsen und Thüringen erwartet. Ausgefahren wird der Wettbewerb in fünf Leistungsklassen.
 
