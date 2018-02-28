@@ -8,14 +8,18 @@ excerpt_separator: <!--mehr-->
 lang: de
 ---
 
-![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Plakat_25_03_18.jpg?raw=true)
+![Klicken um Bild zu vergrößern](/download/Plakat_25_03_18.jpg)
 
 
 #### Download
 
-[Kurzausschreibung](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Kurzausschreibung_Welschenkahl_250318.pdf)
+* [Kurzausschreibung](/download/Kurzausschreibung_Welschenkahl_250318.pdf)
+* [Sicherheitskonzept](/download/2018Sicher.pdf)
 
-
+Für alle Teilnehmer: 
+Denkt daran eure Lizenz frühzeitig zu beantragen!
+Die bisherige Vor-Ort-Lizenz ist ab 2018 ersetzt durch die digitale DMSB-Startzulassung, die über die DMSB-App beantragt werden kann,
+auch schon vorab für das benötigte Datum.
 
 <!--mehr-->
 
