@@ -13,7 +13,7 @@ lang: de
 
 #### Download
 
-[Klurzausschreibung](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Kurzausschreibung_Welschenkahl_250318.pdf)
+[Kurzausschreibung](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Kurzausschreibung_Welschenkahl_250318.pdf)
 
 
 
