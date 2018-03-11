@@ -1,17 +1,11 @@
+---
 layout: post
-
 title:Saisonvorbereitungslehrgang ADAC Nordbayern
-
 name: SaisonvorbereitungslehrgangADACNordbayern
-
 category: trial
-
 tags: [trial, Ausschreibung]
-
 excerpt_separator: <!--mehr-->
-
 lang: de
-
 ---
 ## Trial: Saisonauftakt für nordbayerische ADAC Trial-Fahrer##
 ![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Saisonvorbereitung2018.jpg?raw=true)
