@@ -42,6 +42,7 @@ durch den Tag geführt, diese waren:
  
 
 Am Ende zeigten sich alle begeistert von einem tollen Trainingstag, dem man das aufgrund der Wetterkapriolen so nicht unbedingt zutrauen konnte. Die Trainer hatten sich darauf eingestellt und am Ende war so gut wie kein Schnee mehr zu sehen, er war irgendwie weg gefahren.... 
+![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/docs/download/csm_0308_Trial_Vorbereitung_4_13069f3814.jpg?raw=true)
 
 Das lag auch an den Fahrleistungen, denn diese steigerten sich kontinuierlich und am Ende war so mancher über seine Fortschritte, die zum Teil unübersehbar waren, selbst überrascht.
 
