@@ -21,6 +21,7 @@ Am vergangenen Samstag den 03.03.2018 fand planmäßig das erste Trial-Training 
  
 
 Rudi Friedel begrüßte die Teilnehmer und erläuterte das aktuelle Reglement nur kurz, denn wesentliche Regeländerungen gibt es glücklicherweise nicht. Im Anschluss fand die Einteilung der´Trainingsgruppen statt und schon ging es los mit dem Aufwärmtraining.
+![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/docs/download/csm_0308_Trial_Vorbereitung_3_bc1ddaefdc.jpg?raw=true)
 
 Das war auch nötig, denn in der Nacht hatte es geschneit und die Temperaturen kamen an diesem Trainingstag nicht über 0 Grad hinaus. Bevor es auf die Motorräder ging gab Stefan Herold vom MSC Kasendorf schließlich noch einige wichtige Hinweise zum Gelände und der Organisation.
 
