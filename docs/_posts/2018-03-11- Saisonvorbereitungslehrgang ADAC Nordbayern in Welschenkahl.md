@@ -50,4 +50,4 @@ Das lag auch an den Fahrleistungen, denn diese steigerten sich kontinuierlich un
  
 
 Gegen 15:00 Uhr waren einige regelrecht platt, der Tag und die Trainer hatten die Jungs und Mädels doch gefordert und so wurde der Trainingstag unfallfrei abgeschlossen.
-Zurück 
+
