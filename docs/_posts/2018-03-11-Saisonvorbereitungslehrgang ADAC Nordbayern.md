@@ -10,12 +10,8 @@ lang: de
 **Saisonauftakt für nordbayerische ADAC Trial-Fahrer**
 
 ![Klicken um Bild zu vergrößern](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Saisonvorbereitung2018.jpg?raw=true)
-Kurz Text
 
 <!--mehr-->
-
-Lang Text
-
 
 Am vergangenen Samstag den 03.03.2018 fand planmäßig das erste Trial-Training des ADAC Nordbayern statt. Den widrigen Wetterbedingungen zum Trotz fanden sich 16 der 18 gemeldeten Fahrer/innen pünktlich in Kasendorf ein. Einige konnten es gar nicht erwarten und reisten schon am Vorabend an.
 
