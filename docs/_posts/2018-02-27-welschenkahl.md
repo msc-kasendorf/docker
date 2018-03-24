@@ -15,8 +15,8 @@ lang: de
 
 * [Kurzausschreibung](/download/Kurzausschreibung_Welschenkahl_250318.pdf)
 * [Sicherheitskonzept](/download/2018Sicher.pdf)
-* [Anmeldung](/download/strecke_anmeldung.pdf)
-* [Sektionsplan](/download/sektionsplan_2.pdf)
+
+
 
 **Für alle Teilnehmer:**
 
