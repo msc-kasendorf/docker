@@ -8,7 +8,7 @@ excerpt_separator: <!--mehr-->
 lang: de
 ---
 
-![](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/2018-03-25%2011.52.25.jpg)
+![](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/_DSC7487.JPG)
 #### Downloads
 
 * [Ergebnisliste Sonntag 25.03.2018](/download/20180325_Ergebnisliste_Welschenkahl.pdf)
