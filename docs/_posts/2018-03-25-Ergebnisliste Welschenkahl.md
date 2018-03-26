@@ -7,7 +7,7 @@ tags: [trial, Ergebnisliste]
 excerpt_separator: <!--mehr-->
 lang: de
 ---
-** 66. ADAC- Trial in Welschenkahl**
+
 ![](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/2018-03-25%2011.52.25.jpg)
 #### Downloads
 
