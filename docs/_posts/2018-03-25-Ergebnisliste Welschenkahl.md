@@ -45,7 +45,9 @@ Für den MSC Kasendorf am Start waren bei den Jugendlichen die Brüder Maiwald.
 Valentin aufgestiegen in die Klasse 4 erkämpfte sich
 einen beachtlichen  4.Platz bei acht Gestarteten.
 Sein Bruder Felix , angetreten in der Kl.6 durfte zum ersten Mal  auf’s Podest. Er fuhr auf den 3.Rang.
-Bei den Erwachsenen trat Thomas Passing in der Klasse 4 an und verpasste als vierter bei sechs Mitstreitern das Protest deutlich.
+Bei den Erwachsenen trat Thomas Passing
+![](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/IMG_4033.JPG)
+in der Klasse 4 an und verpasste als vierter bei sechs Mitstreitern das Protest deutlich.
 Zum ersten Mal mit den Erwachsenen in  der Klasse 5 musste sich Lea Kauppert messen. Sie erreichte bei 19 Teilnehmer einen für sie zufriedenstellenden 12. Rang.
 Der nächste Wettkampf steht schon am kommenden Samstag beim TSV Kulmbach rund um den Weiler Mühleberg an.
 
