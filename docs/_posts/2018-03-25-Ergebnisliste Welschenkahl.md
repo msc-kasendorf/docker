@@ -42,7 +42,9 @@ Außer ein paar blaue Flecken gab es nicht weiteres zu beklagen.
 **Felix Maiwald zum ersten Mal auf den Podest**
 
 Für den MSC Kasendorf am Start waren bei den Jugendlichen die Brüder Maiwald.
-Valentin aufgestiegen in die Klasse 4 erkämpfte sich
+Valentin
+![](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/IMG_4047.JPG)
+aufgestiegen in die Klasse 4 erkämpfte sich
 einen beachtlichen  4.Platz bei acht Gestarteten.
 Sein Bruder Felix , angetreten in der Kl.6 durfte zum ersten Mal  auf’s Podest. Er fuhr auf den 3.Rang.
 Bei den Erwachsenen trat Thomas Passing
