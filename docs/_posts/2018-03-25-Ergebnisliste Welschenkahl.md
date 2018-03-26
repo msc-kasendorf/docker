@@ -11,6 +11,37 @@ lang: de
 Ergebnisliste ist online
 
 <!--mehr-->
+Väterchen Frost die Stirn gezeigt
+
+Trial: 66. ADAC- Trial in Welschenkahl
+Der Motorsportclub (MSC) Kasendorf richtete am vergangenen Sonntag zum 66. mal ein ADAC Trial aus. 
+24 Jugendliche und 41 Erwachsene stellten sich den Anforderungen
+Zehn Sektionen mussten in drei Runden in einer Fahrzeit von vier einhalb Stunden absolviert werden.
+Der Wettbewerb war der erste Lauf zum nordbayerischen ADAC Trial Pokal der Jugendlichen sowie der Erwachsenen und der Saisonauftakt zum Jura-Trial-Pokal.
+
+Frost und Schnee
+Frost und Schnee machten es den Verantwortlichen des MSC Kasendorf nicht leicht einen fairen Wettkampf auf die Beine zu stellen.
+Die Prüfungen am Trial-Ùbungsgelände bei Welschenkahl trockneten im Laufe des Sonntags bei anhaltenden Sonnenschein relativ schnell ab und  ließen sich alle lösen.
+Anders hingegen sah es bei den Sektionen im angrenzendem Wald nahe Azendorf gelegen aus.
+Hier herrschte noch der Frost und Schnee.
+Der Waldboden noch tiefgefroren stellte so manche Anforderungen an den Aktiven in den Prüfungen.
+Der Schnee auf der Zwischchenstrecke tat sein machte es auch nicht leichter.
+Die “alten Hasen” kamen mit diesen Bedingungen augenscheinlich besser zurecht- fanden Trialwettbewerbe früher doch meist im Herbst und Winter statt.
+Die Jugendlichen und Spätberufenen  hingegen hatten mit diesen wiedrigen und unbekannten Verhältnissen sichtlich mehr zu kämpfen.
+Nichts desto trotz bewältigten alle den Wettkampf.
+Außer ein paar blaue Flecken gab es nicht weiteres zu beklagen.
+
+Felix Maiwald zum ersten Mal auf den Podest
+Für den MSC Kasendorf am Start waren bei den Jugendlichen die Brüder Maiwald.
+Valentin aufgestiegen in die Klasse 4 erkämpfte sich
+einen beachtlichen  4.Platz bei acht Gestarteten.
+Sein Bruder Felix , angetreten in der Kl.6 durfte zum ersten Mal  auf’s Podest. Er fuhr auf den 3.Rang.
+Bei den Erwachsenen trat Thomas Passing in der Klasse 4 an und verpasste als vierter bei sechs Mitstreitern das Protest deutlich.
+Zum ersten Mal mit den Erwachsenen in  der Klasse 5 musste sich Lea Kauppert messen. Sie erreichte bei 19 Teilnehmer einen für sie zufriedenstellenden 12. Rang.
+Der nächste Wettkampf steht schon am kommenden Samstag beim TSV Kulmbach rund um den Weiler Mühleberg an.
+Bilder und Ergebnislisten unter :
+www.msc-kasendorf.de
+
 
 #### Downloads
 
