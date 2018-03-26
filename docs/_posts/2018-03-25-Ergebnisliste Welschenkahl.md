@@ -32,7 +32,7 @@ Die Prüfungen am Trial-Ùbungsgelände bei Welschenkahl trockneten im Laufe des
 Anders hingegen sah es bei den Sektionen im angrenzendem Wald nahe Azendorf gelegen aus.
 Hier herrschte noch der Frost und Schnee.
 Der Waldboden noch tiefgefroren stellte so manche Anforderungen an den Aktiven in den Prüfungen.
-Der Schnee auf der Zwischchenstrecke tat sein machte es auch nicht leichter.
+Der Schnee auf der Zwischchenstrecke tat sein übriges und machte es auch nicht leichter.
 
 Die “alten Hasen” kamen mit diesen Bedingungen augenscheinlich besser zurecht- fanden Trialwettbewerbe früher doch meist im Herbst und Winter statt.
 Die Jugendlichen und Spätberufenen  hingegen hatten mit diesen widrigen und unbekannten Verhältnissen sichtlich mehr zu kämpfen.
