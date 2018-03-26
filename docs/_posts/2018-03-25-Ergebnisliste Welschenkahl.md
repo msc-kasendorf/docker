@@ -13,15 +13,15 @@ lang: de
 * [Ergebnisliste Sonntag 25.03.2018](/download/20180325_Ergebnisliste_Welschenkahl.pdf)
 
 <!--mehr-->
-Väterchen Frost die Stirn gezeigt
+**Väterchen Frost die Stirn gezeigt**
 
-Trial: 66. ADAC- Trial in Welschenkahl
+** 66. ADAC- Trial in Welschenkahl**
 Der Motorsportclub (MSC) Kasendorf richtete am vergangenen Sonntag zum 66. mal ein ADAC Trial aus. 
 24 Jugendliche und 41 Erwachsene stellten sich den Anforderungen
 Zehn Sektionen mussten in drei Runden in einer Fahrzeit von vier einhalb Stunden absolviert werden.
 Der Wettbewerb war der erste Lauf zum nordbayerischen ADAC Trial Pokal der Jugendlichen sowie der Erwachsenen und der Saisonauftakt zum Jura-Trial-Pokal.
 
-Frost und Schnee
+**Frost und Schnee**
 Frost und Schnee machten es den Verantwortlichen des MSC Kasendorf nicht leicht einen fairen Wettkampf auf die Beine zu stellen.
 Die Prüfungen am Trial-Ùbungsgelände bei Welschenkahl trockneten im Laufe des Sonntags bei anhaltenden Sonnenschein relativ schnell ab und  ließen sich alle lösen.
 Anders hingegen sah es bei den Sektionen im angrenzendem Wald nahe Azendorf gelegen aus.
@@ -33,7 +33,7 @@ Die Jugendlichen und Spätberufenen  hingegen hatten mit diesen wiedrigen und un
 Nichts desto trotz bewältigten alle den Wettkampf.
 Außer ein paar blaue Flecken gab es nicht weiteres zu beklagen.
 
-Felix Maiwald zum ersten Mal auf den Podest
+**Felix Maiwald zum ersten Mal auf den Podest**
 Für den MSC Kasendorf am Start waren bei den Jugendlichen die Brüder Maiwald.
 Valentin aufgestiegen in die Klasse 4 erkämpfte sich
 einen beachtlichen  4.Platz bei acht Gestarteten.
