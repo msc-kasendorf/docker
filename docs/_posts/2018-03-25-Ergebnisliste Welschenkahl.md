@@ -8,7 +8,9 @@ excerpt_separator: <!--mehr-->
 lang: de
 ---
 ![](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/2018-03-25%2011.52.25.jpg)
-Ergebnisliste ist online
+#### Downloads
+
+* [Ergebnisliste Sonntag 25.03.2018](/download/20180325_Ergebnisliste_Welschenkahl.pdf)
 
 <!--mehr-->
 Väterchen Frost die Stirn gezeigt
@@ -39,8 +41,6 @@ Sein Bruder Felix , angetreten in der Kl.6 durfte zum ersten Mal  auf’s Podest
 Bei den Erwachsenen trat Thomas Passing in der Klasse 4 an und verpasste als vierter bei sechs Mitstreitern das Protest deutlich.
 Zum ersten Mal mit den Erwachsenen in  der Klasse 5 musste sich Lea Kauppert messen. Sie erreichte bei 19 Teilnehmer einen für sie zufriedenstellenden 12. Rang.
 Der nächste Wettkampf steht schon am kommenden Samstag beim TSV Kulmbach rund um den Weiler Mühleberg an.
-Bilder und Ergebnislisten unter :
-www.msc-kasendorf.de
 
 
 #### Downloads
