@@ -47,7 +47,9 @@ Valentin
 ![](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/IMG_4047.JPG)
 aufgestiegen in die Klasse 4 erkämpfte sich
 einen beachtlichen  4.Platz bei acht Gestarteten.
-Sein Bruder Felix , angetreten in der Kl.6 durfte zum ersten Mal  auf’s Podest. Er fuhr auf den 3.Rang.
+Sein Bruder Felix , angetreten in der Kl.6
+![](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/_DSC7504.JPG)
+durfte zum ersten Mal  auf’s Podest. Er fuhr auf den 3.Rang.
 Bei den Erwachsenen trat Thomas Passing
 ![](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/IMG_4033.JPG)
 in der Klasse 4 an und verpasste als vierter bei sechs Mitstreitern das Protest deutlich.
