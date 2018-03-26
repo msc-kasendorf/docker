@@ -59,4 +59,4 @@ Der nächste Wettkampf steht schon am kommenden Samstag beim TSV Kulmbach rund u
 
 #### Downloads
 
-* [Bilder](/download/20180325_Ergebnisliste_Welschenkahl.pdf)
+* [Bilder](https://get.google.com/albumarchive/108656924518465552879/album/AF1QipPCaJBcBfMmkU_GFL-zdq3LfO81JKPcdN7UgxR-)
