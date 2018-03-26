@@ -34,7 +34,7 @@ Der Waldboden noch tiefgefroren stellte so manche Anforderungen an den Aktiven i
 Der Schnee auf der Zwischchenstrecke tat sein machte es auch nicht leichter.
 
 Die “alten Hasen” kamen mit diesen Bedingungen augenscheinlich besser zurecht- fanden Trialwettbewerbe früher doch meist im Herbst und Winter statt.
-Die Jugendlichen und Spätberufenen  hingegen hatten mit diesen wiedrigen und unbekannten Verhältnissen sichtlich mehr zu kämpfen.
+Die Jugendlichen und Spätberufenen  hingegen hatten mit diesen widrigen und unbekannten Verhältnissen sichtlich mehr zu kämpfen.
 
 Nichts desto trotz bewältigten alle den Wettkampf.
 Außer ein paar blaue Flecken gab es nicht weiteres zu beklagen.
