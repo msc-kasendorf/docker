@@ -7,6 +7,7 @@ tags: [trial, Ergebnisliste]
 excerpt_separator: <!--mehr-->
 lang: de
 ---
+** 66. ADAC- Trial in Welschenkahl**
 ![](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/2018-03-25%2011.52.25.jpg)
 #### Downloads
 
@@ -15,7 +16,7 @@ lang: de
 <!--mehr-->
 **Väterchen Frost die Stirn gezeigt**
 
-** 66. ADAC- Trial in Welschenkahl**
+
 Der Motorsportclub (MSC) Kasendorf richtete am vergangenen Sonntag zum 66. mal ein ADAC Trial aus. 
 24 Jugendliche und 41 Erwachsene stellten sich den Anforderungen
 Zehn Sektionen mussten in drei Runden in einer Fahrzeit von vier einhalb Stunden absolviert werden.
