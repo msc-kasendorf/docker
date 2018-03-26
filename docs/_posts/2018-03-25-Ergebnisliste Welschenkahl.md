@@ -7,6 +7,7 @@ tags: [trial, Ergebnisliste]
 excerpt_separator: <!--mehr-->
 lang: de
 ---
+![](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/2018-03-25%2011.52.25.jpg)
 Ergebnisliste ist online
 
 <!--mehr-->
