@@ -7,6 +7,7 @@ tags: [verein]
 excerpt_separator: <!--mehr-->
 lang: de
 ---
+![](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/JHV2018.jpg)
 
 **Jahreshauptversammlung 2018**
 
