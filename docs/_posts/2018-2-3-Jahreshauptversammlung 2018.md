@@ -15,7 +15,7 @@ Der Vertreter des ADAC Nordbayern, Alfred Thomaka, sprach bei der Hauptversammlu
 Thomaka führte aus, dass der ADAC Nordbayern momentan ... 
 
 <!--mehr-->
-Der Vertreter des ADAC Nordbayern, Alfred Thomaka, sprach bei der Hauptversammlung des MSC Kasendorf. Thomaka führte aus, dass der ADAC Nordbayern momentan schneller wachse als andere Regionalclubs. Als erklärtes Ziel rief Thomaka aus, Jugendlichen einen günstigen Einstieg in den Motorsport zu ermöglichen. So soll innerhalb der kommenden zwei Jahre ein Trainerpool zur Verfügung stehen, aus dem dann die Ortsclubs bei der Ausbildung der jungen Sportler umfassend unterstützt werden können.
+... schneller wachse als andere Regionalclubs. Als erklärtes Ziel rief Thomaka aus, Jugendlichen einen günstigen Einstieg in den Motorsport zu ermöglichen. So soll innerhalb der kommenden zwei Jahre ein Trainerpool zur Verfügung stehen, aus dem dann die Ortsclubs bei der Ausbildung der jungen Sportler umfassend unterstützt werden können.
 
 Bürgermeister Bernd Steinhäuser zeigte sich begeistert, dass sich auf dem vereinseigenen Trialgelände bei Welschenkahl so viel tut. Besonders hervor hob Steinhäuser, dass es bislang keinerlei Grund zu Beschwerden hinsichtlich des Motorsport-Geländes gegeben habe und sich die Investitionen in das Trainingsareal für alle ausgezahlt hätten. 
 
