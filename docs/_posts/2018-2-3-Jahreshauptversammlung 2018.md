@@ -23,8 +23,10 @@ Vorsitzender Stefan Herold stellte in seiner Jahresbilanz die durch diverse Umba
 Bei den Wahlen wurde der Vorsitzende in seinem Amt bestätigt. Das weitere Ergebnis: 2. Vorsitzender  Udo Kauppert, Schatzmeister Volker Hofmann, 2. Beisitzer Winfried Müller, 3. Beisitzer Matthias Müller. Vierter Beisitzer ist Jugendleiter Markus Weimann.
 Sportleiter Thomas Passing und Jugendleiter Markus Weimann berichteten von den Highlights der vergangenen Saison. Besonders erwähnenswert waren die teils sehr guten sportlichen Erfolge der beiden Automobilslalom-Fahrer Andreas und Helmut Eberhardt auf regionaler und auch überregionaler Ebene. Zudem machte im Motorrad-Trial der erst zwölfjährige Valentin Maiwald mit guten bis sehr guten Platzierungen auf sich aufmerksam.
 
+Den Titel des Vereinsmeister Autosport sicherte sich Andreas Eberhard , sowie Valentin Maiwald im der Sparte Motorad
+
 Für 25 Jahre Vereinsmitgliedschaft im MSC Kasendorf wurden geehrt:Herbert Thienel und Matthias Müller. Für 40 Jahre: Fritz Krause, Uwe Isert, Willi Doile, Gerhard Kassel und Hans Täuber. Für 40 Jahre Mitgliedschaft im ADAC wurden geehrt: Werner Passing, Wolfgang Passing, Volker Täuber, Manfred Wessley. Für 60 Jahre Mitgliedschaft im ADAC: Willy Doile.
 
 Herold gab noch einen Ausblick auf die bevorstehende Saison. Erstmals wird es eine separate Fahrradtrial-Veranstaltung auf dem Vereinsgelände bei Welschenkahl geben, außerdem das jährlich stattfindende Fahrrad-Turnier in Zusammenarbeit mit der Grundschule Kasendorf. Außerdem steht im Jahr 2018 auch das 50-jährige Bestehen des Vereins an. Um diesen Anlass gebührend zu feiern, bat Herold um Anregungen.
 
-Stefan Maiwald
+
