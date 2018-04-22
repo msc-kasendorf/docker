@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OTP Schönborn
-name: OtpSchönborh
+name: OtpSchönborn
 category: trial
 tags: [trial, Ergebnisliste]
 excerpt_separator: <!--mehr-->
