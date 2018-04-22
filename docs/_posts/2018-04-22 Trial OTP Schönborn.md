@@ -1,10 +1,11 @@
 ---
 layout: post
 title: OTP Schönborn
-name: OtpSchönborn
+name: OtpSchoenborn
 category: trial
 tags: [trial, Ergebnisliste]
-excerpt_separator:
+excerpt_separator: <!--mehr-->
+lang: de
 ---
 **Perfekter Saisonauftakt im ostdeutschen Trialpokal**
 
