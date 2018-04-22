@@ -4,8 +4,7 @@ title: OTP Schönborn
 name: OtpSchönborn
 category: trial
 tags: [trial, Ergebnisliste]
-excerpt_separator: <!--mehr-->
-lang: de
+excerpt_separator:
 ---
 **Perfekter Saisonauftakt im ostdeutschen Trialpokal**
 
