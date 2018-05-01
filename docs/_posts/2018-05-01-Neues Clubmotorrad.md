@@ -11,6 +11,7 @@ lang: de
 **Neues Club-Trainingsmotorrad übernommen !**
 
 ![](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/SAM_2358.JPG)
+sportlicher Leiter Thomas Passing, Günter Hofmann und 2. Vorsitzender Udo Kauppert bei der Übergabe(v.l.)
 
 Im Rahmen des ersten gemeisammen Jugendtraining am Übungsgelände bei Welschenkahl, haben wir unser neues Beta Clubmotorrad von der Firma Hofmann übernommen. Wir nutzten die Initiative der Firma Beta Motocycles für Trialsportvereine, die es ermöglicht, Trainingsmotorräder zunächst kostenlos zur Verfügung gestellt zu bekommen.
 Wir danken den Firmen Hofmann Motorsport und Beta für die tolle Unterstützung.
