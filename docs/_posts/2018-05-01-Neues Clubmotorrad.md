@@ -8,6 +8,12 @@ excerpt_separator: <!--mehr-->
 lang: de
 ---
 
+Kurz Text
+
+<!--mehr-->
+
+Lang Text
+
 **Neues Club-Trainingsmotorrad übernommen !**
 
 ![](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/SAM_2358.JPG)
