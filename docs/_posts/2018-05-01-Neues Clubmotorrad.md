@@ -8,12 +8,6 @@ excerpt_separator: <!--mehr-->
 lang: de
 ---
 
-
-
-<!--mehr-->
-
-
-
 **Neues Club-Trainingsmotorrad übernommen !**
 
 ![](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/SAM_2358.JPG)
@@ -22,3 +16,5 @@ Im Rahmen des ersten gemeisammen Jugendtraining am Übungsgelände bei Welschenk
 Wir danken den Firmen Hofmann Motorsport und Beta für die tolle Unterstützung.
 
 ![](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/SAM_2366.JPG)
+
+<!--mehr-->
