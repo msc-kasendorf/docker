@@ -8,11 +8,11 @@ excerpt_separator: <!--mehr-->
 lang: de
 ---
 
-Kurz Text
+
 
 <!--mehr-->
 
-Lang Text
+
 
 **Neues Club-Trainingsmotorrad übernommen !**
 
