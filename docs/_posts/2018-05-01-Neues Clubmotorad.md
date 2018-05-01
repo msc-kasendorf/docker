@@ -14,3 +14,5 @@ lang: de
 
 Im Rahmen des ersten gemeisammen Jugendtraining am Übungsgelände bei Welschenkahl, haben wir unser neues Beta Clubmotorrad von der Firma Hofmann übernommen. Wir nutzten die Initiative der Firma Beta Motocycles für Trialsportvereine, die es ermöglicht, Trainingsmotorräder zunächst kostenlos zur Verfügung gestellt zu bekommen.
 Wir danken den Firmen Hofmann Motorsport und Beta für die tolle Unterstützung.
+
+![](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/SAM_2366.JPG)
