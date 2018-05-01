@@ -22,3 +22,5 @@ Wir danken den Firmen Hofmann Motorsport und Beta für die tolle Unterstützung.
 Das Motorrad,eine Beta EVO125, ermöglicht uns den älteren Nachwuchs ein optimales Trainingsgerät zur Verfügung zu stellen.
 ´´Es ist auch angedacht Quereinsteiger als Start in den Trialsport die 125er Beta zum Propieren zu überlassen´´ ergänzt Sportleiter Thomas Passing.
 Somit kann der MSC Kasendorf mit der Beta EVO125 (12-18 Jahre), eine GasGas 80TXT(10-12 Jahre) und eine Beta rev50 für 8-10jährige Jugendliche alle Altersklassen  mit Trainingsmotorrädern bedienen.
+
+![](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/IMG_4119.JPG)
