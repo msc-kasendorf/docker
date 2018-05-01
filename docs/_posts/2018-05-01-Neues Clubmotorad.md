@@ -2,7 +2,7 @@
 layout: post
 title: Neues Clubmotorrad
 name: neuesClubmotorrad
-category: trial,verein
+category: trial
 tags: [trial]
 excerpt_separator: <!--mehr-->
 lang: de
