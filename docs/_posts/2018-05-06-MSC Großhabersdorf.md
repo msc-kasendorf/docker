@@ -7,4 +7,7 @@ tags: [trial, neudorf]
 excerpt_separator: <!--mehr-->
 lang: de
 ---
-Am vergangenen Sonntag fand beim MSC Großhabersdorf der dritte Lauf zum Jura Trial Pokal statt. Gut 70 Starter fuhren bei besten Wetter in 4 Runden a 8 Sektionen ihre Klassensiege aus.Für den einzigen Lichtblick sorgte Lea Kauppert mit ihren 6 Platz. in der Klasse 5. Glückwunsch.
+![](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/CIMG4570.JPG)
+
+Am vergangenen Sonntag fand beim MSC Großhabersdorf der dritte Lauf zum Jura Trial Pokal statt. Gut 70 Starter fuhren bei besten Wetter in 4 Runden a 8 Sektionen ihre Klassensiege aus. Für den einzigen Lichtblick sorgte Lea Kauppert mit ihren 6 Platz. in der Klasse 5. Glückwunsch.
+![](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/CIMG4573.JPG)
