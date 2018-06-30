@@ -15,3 +15,4 @@ sitemap: false
 | E-Mail: 1.vorstandATmsc-kasendorf.de
 | Telefon: 09221 / 6909007
 | Weitere Informationen siehe [Vorstand]({{site.page-prefix}}verein/vorstand/#)
+| Es gilt die [Datenschutzerklärung](/datenschutz)
