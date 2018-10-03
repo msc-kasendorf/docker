@@ -25,3 +25,7 @@ Desweiteren Michael Meusel vom MSC Gefrees und Horst Hopfengärtner vom MSC Frä
 mit ihren Punktrichtern für die Unterstützung.
 
 ![](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/SAM_2597.JPG)
+
+#### Downloads
+
+* [Bilder](https://get.google.com/albumarchive/108656924518465552879/album/AF1QipMt7ZCIB9pZKHu7P0uMCm78eKxK70vRfrlMmfQ7)
