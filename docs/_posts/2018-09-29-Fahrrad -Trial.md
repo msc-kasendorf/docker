@@ -12,7 +12,7 @@ lang: de
 **Gelungene Premiere**
 
 #### Downloads
-* [Ergebnisliste 29.9.2018](/download/Ergebnisliste_Welschenkahl_F_20180929.pdf)
+* [Ergebnisliste 29.9.2018](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Ergebnisliste_Welschenkahl_F_20180929.pdf)
 
 <!--mehr-->
 
