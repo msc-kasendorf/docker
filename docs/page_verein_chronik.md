@@ -102,3 +102,9 @@ lang: de
 **2017** - Umgestaltung und Erweiterung des Trial-Übungsgelände bei Welschenkahl
          - Ausrichtung von zwei Läufen zur bayerischen Trialmeisterschaft
          - Vereinsmeister Motorrad: Thomas Passing
+         
+**2018** - 50 Jahre MSC Kasendorf- und keiner hat es bemerkt
+         - Anschaffung eines neuen Trial-Vereinsmotorrads 
+         - Ausrichtung eines Lauf zum nordbayerischen ADAC Trialpokal im Rahmen des JTP
+         - Erstmaliges Ausrichten eines Wettbewerb im Fahrradtrial  
+         
