@@ -13,7 +13,7 @@ lang: de
 * [Jugendtrainingsordnung]({{site.page-prefix}}download/Jugendtrainingsordnung2017.pdf)
 * [Gelaendeordnung]({{site.page-prefix}}download/Gelaendeordnung2017.pdf)
 * [AnerkennungGO{{site.page-prefix}}download/AnerkennungGO.pdf)
-* [Trainingskarte]({{site.page-prefix}}download/Trainingskarte2017.pdf)
+
 * [Datenschutzerklärung]({{site.page-prefix}}download/Datenschutzerklärung.pdf)
 
 
