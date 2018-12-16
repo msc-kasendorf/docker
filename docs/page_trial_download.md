@@ -9,7 +9,7 @@ lang: de
 
 ## Download
 
-* [Beitritt]({{site.page-prefix}}download/Beitrittserklaerung.pdf)
+* [Beitritt]({{https://github.com/msc-kasendorf/docker/blob/master/docs/download/Beitritt_MSC.pdf)
 * [Jugendtrainingsordnung]({{site.page-prefix}}download/Jugendtrainingsordnung2017.pdf)
 * [Gelaendeordnung]({{site.page-prefix}}download/Gelaendeordnung2017.pdf)
 * [AnerkennungGO2018]({{site.page-prefix}}download/AnerkennungGO2018.pdf)
