@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Jahreshauptversammlung 2018
-name: Jahreshauptversammlung2018
+title: Jahreshauptversammlung 2019
+name: Jahreshauptversammlung2019
 category: verein
 tags: [verein]
 excerpt_separator: <!--mehr-->
 lang: de
 ---
 
-**Einladung zur Jahreshauptversammlung 2018**
+**Einladung zur Jahreshauptversammlung 2019**
 
-Am Freitag 02. Februar 2018, findet die **Jahreshauptversammlung im Clublokal Friedrich in Kasendorf** statt. **Beginn 19.30 Uhr**  Hierzu ergeht herzliche Einladung.
+Am Freitag 15. Februar 2019, findet die **Jahreshauptversammlung im Clublokal Friedrich in Kasendorf** statt. **Beginn 19.30 Uhr**  Hierzu ergeht herzliche Einladung.
 
 <!--mehr-->
 
@@ -22,9 +22,8 @@ Am Freitag 02. Februar 2018, findet die **Jahreshauptversammlung im Clublokal Fr
 4. Bericht des Schriftführers und des Sportleiters
 5. Entlastung der Vorstandschaft
 6. Ehrungen
-7. Wahlen
-8. Voranschlag auf das laufende Geschäftsjahr
-9. Anträge,Wünsch und Verschiedens
+7. Voranschlag auf das laufende Geschäftsjahr
+8. Anträge,Wünsch und Verschiedens
 
 Gemäß Ziffer 3 letzter Absatz der Satzung des MSC Kasendorf können Anträge für die Mitgliederversammlung des Ortsclubs von jedem 
 ordenlichen Mitglied gestellt werden. Sie müssen mindestens acht Tage vor der Mitgliederversammlung beim
