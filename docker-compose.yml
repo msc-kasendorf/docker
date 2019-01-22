@@ -4,6 +4,7 @@ services:
 
     apache:
         image: httpd
+        restart: always
         ports:
             - "$NETWORK_MSC_GATEWAY:$PORT_00081_APACHE"
         volumes:
@@ -15,6 +16,7 @@ services:
 #        command: "jekyll new /srv/jekyll/new"
     jekyll:
         image: jekyll/jekyll
+        restart: always
         ports:
             - "$NETWORK_MSC_GATEWAY:$PORT_00082_JEKYLL"
         command: "jekyll serve --source /srv/jekyll"
