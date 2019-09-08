@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 66. ADAC Trial des MSC Kasendorf in Welschenkahl
-name: 66ADACTrialDesMSCKasendorfInWelschenkahl
+title: 67. ADAC Trial des MSC Kasendorf in Welschenkahl
+name: 67ADACTrialDesMSCKasendorfInWelschenkahl
 category: trial
 tags: [trial, Ausschreibung]
 excerpt_separator: <!--mehr-->
 lang: de
 ---
 
-![Klicken um Bild zu vergrößern](/download/Plakat_25_03_18.jpg)
+![Klicken um Bild zu vergrößern](/download/plakat2019.jpg)
 
 
 #### Download
 
-* [Kurzausschreibung](/download/Kurzausschreibung_Welschenkahl_250318.pdf)
+* [Kurzausschreibung](/download/Kurzausschreibung_Welschenkahl290919.pdf)
 * [Sicherheitskonzept](/download/2018Sicher.pdf)
 
 
@@ -26,15 +26,15 @@ auch schon vorab für das benötigte Datum.
 
 <!--mehr-->
 
-Welschenkahl- Motorsportbegeisterte zieht es am  Sonntag 25.03.2018 nach Welschenkahl:
+Welschenkahl- Motorsportbegeisterte zieht es am  Sonntag 29.09.2019 nach Welschenkahl:
 
-Dort lädt der MSC Kasendorf zum 66. mal zum ADAC- Trial für Motorräder ein.
-Es ist der erste Lauf in Bayern und den östlichen Bundesländern.
+Dort lädt der MSC Kasendorf zum 67. mal zum ADAC- Trial für Motorräder ein.
+Es ist der letzte Lauf zum nordbayerischen ADAC Trial Pokal und zum Jura Trial Pokal.
 
 Für folgende Meisterschaften werden Punkte vergeben: 
 nordbayerischen ADAC-Trial Clubsport-Pokal, ADAC-Jugend Trial-Pokal und Jura-Trial-Pokal.
 
-Es werden Motorsportler aus Bayern, Sachsen und Thüringen erwartet. Ausgefahren wird der Wettbewerb in fünf Leistungsklassen.
+ Ausgefahren wird der Wettbewerb in fünf Leistungsklassen.
 
 Die Einschreibung beginnt am Sonntag um 8:30 Uhr, Start aller Teilnehmer ist für 10:00 Uhr vorgesehen.
 Die Fahrzeit, für die 10 Prüfungsabschnitte(Sektionen) die dreimal zu durchfahren sind, beträgt 270 Minuten.
