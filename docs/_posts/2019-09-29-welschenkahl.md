@@ -14,7 +14,7 @@ lang: de
 #### Download
 
 * [Kurzausschreibung](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Kurzausschreibung_Welschenkahl290919.pdf)
-* [Sicherheitskonzept](/download/2018Sicher.pdf)
+* [Sicherheitskonzept](https://github.com/msc-kasendorf/docker/blob/master/docs/download/2018Sicher.pdf)
 
 
 
