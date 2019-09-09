@@ -13,7 +13,7 @@ lang: de
 
 #### Download
 
-* [Kurzausschreibung](/download/Kurzausschreibung_Welschenkahl290919.pdf)
+* [Kurzausschreibung](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Kurzausschreibung_Welschenkahl290919.pdf)
 * [Sicherheitskonzept](/download/2018Sicher.pdf)
 
 
