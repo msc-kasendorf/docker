@@ -18,11 +18,8 @@ lang: de
 
 
 
-**Für alle Teilnehmer:**
 
-Denkt daran eure Lizenz frühzeitig zu beantragen!
-Die bisherige Vor-Ort-Lizenz ist ab 2018 ersetzt durch die digitale DMSB-Startzulassung, die über die DMSB-App beantragt werden kann,
-auch schon vorab für das benötigte Datum.
+
 
 <!--mehr-->
 
