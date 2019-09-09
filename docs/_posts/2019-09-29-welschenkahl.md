@@ -8,7 +8,7 @@ excerpt_separator: <!--mehr-->
 lang: de
 ---
 
-![Klicken um Bild zu vergrößern](/download/plakat2019.jpg)
+![Klicken um Bild zu vergrößern](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/plakat2019.jpg)
 
 
 #### Download
