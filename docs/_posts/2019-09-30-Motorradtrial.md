@@ -16,7 +16,7 @@ lang: de
 **Valentin Maiwald hält die Farben des MSC Kasendorf beim 67. ADAC Trial hoch**
 
 Das 67. ADAC Jugend-und Clubsport-Trial des MSC Kasendorf war der  13. und damit  letzte Lauf zum nordbayerischen ADAC Trial-Jugendpokal und nordbayerischen ADAC Trial-Clubsportpokal. Sowie zum Jura Trial Pokal, der Wettbewersserie für nordbayerische ADAC und DMV Trialsportvereine. 
-65 Trialsportbegeisterte kämpften auf denm MSC- Vereinsgelände bei Welschenkahl in fünf Leistungsklassen ums Podium. Die Fahrer mussten drei Runden mit jeweils zehn Sektionen auf einenca. fünf Kilometer langen Rundkurs mit künstlichenAbschnitten auf dem Übungsgelände und Natursektionen imangrenzendenWaldgebiet meistern. Da die Mitglieder des MSC Kasendorf stark in die Organisation des Wettbewerbs eingebundenwaren, gingen nur drei Nachwuchsfahrer der Gastgeber an den Start.
+65 Trialsportbegeisterte kämpften auf denm MSC- Vereinsgelände bei Welschenkahl in fünf Leistungsklassen ums Podium. Die Fahrer mussten drei Runden mit jeweils zehn Sektionen auf einen ca. fünf Kilometer langen Rundkurs mit künstlichen Abschnitten auf dem Übungsgelände und Natursektionen im angrenzenden Waldgebiet meistern. Da die Mitglieder des MSC Kasendorf stark in die Organisation des Wettbewerbs eingebunden waren, gingen nur drei Nachwuchsfahrer der Gastgeber an den Start.
 
 **Valentin auf Rang drei**
 
