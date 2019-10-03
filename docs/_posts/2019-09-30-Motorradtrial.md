@@ -28,4 +28,8 @@ Dagegen endete für den elfjährigen Felix Maiwald, der während der Saison aus 
 
 Danken möchte der MSC allen Helfern und Sponsoren, ohne die es nicht möglich wäre so eine Veranstaltung  zu bewältigen.
 
+hier noch ein gut gemachtes Vidio von Klaus Arnold  auf youtube
+
+[Vidio vom Trial](https://youtu.be/yjqcgZBvvTo)
+
 Bis 2020 euer MSC Kasendorf.
