@@ -20,4 +20,5 @@ Das beste Ergebnis für den MSC holte Valentin Maiwald mit den dritten Platz in 
 Für den Neuling im MSC-Team, Jakob Lauterbach aus Döllnitz, war esder erste Wettbewerb in der Klasse 6 Jugend. Er musste49 Strafpunktehinnehmen,war aber mit dem achten Rang zufrieden.
 Dagegen endete für den elfjährigen Felix Maiwald, der während der Saison aus der Klasse 6 in die Klasse 5 Jugend aufgestiegen war, der Heimwettbewerb bereits nach der ersten Runde wegen technischen Problemen an seiner GasGas.
 Danken möchte der MSC allen Helfern und Sponsoren, ohne die es nicht möglich wäre so eine Veranstaltung  zu bewältigen.
+
 Bis 2020 euer MSC Kasendorf.
