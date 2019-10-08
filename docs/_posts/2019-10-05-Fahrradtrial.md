@@ -22,7 +22,7 @@ Am vergangenen Samstag lud der MSC Kasendorf zu seinem zweiten Trial ohne Motork
 
 Bei trockenen  und windigen Witterungsverhältnisen suchten die Jugendlichen ihre Sieger. Danken möchten wir unseren Helfern ohne die auch so eine kleine Veranstaltung nicht durchführ wäre. Desweiteren Michael Meusel vom MSC Gefrees und Horst Hopfengärtner vom MSC Fränkische Schweiz mit ihren Punktrichtern für die Unterstützung.
 
-![Fotoalbum](https://photos.google.com/share/AF1QipPCxD0V_dBBPvFFJIc1kkgCC96Jp_VpKIXV2DCDle5o3gmvzxZbHQ0qaGK3SHiLPA?key=QTAzMGF6VTFRb0xtdk96YVJIUmFhQVI0dGwwd2Z3)
+![](https://photos.google.com/share/AF1QipPCxD0V_dBBPvFFJIc1kkgCC96Jp_VpKIXV2DCDle5o3gmvzxZbHQ0qaGK3SHiLPA?key=QTAzMGF6VTFRb0xtdk96YVJIUmFhQVI0dGwwd2Z3)
 
 
 (https://photos.google.com/share/AF1QipPCxD0V_dBBPvFFJIc1kkgCC96Jp_VpKIXV2DCDle5o3gmvzxZbHQ0qaGK3SHiLPA?key=QTAzMGF6VTFRb0xtdk96YVJIUmFhQVI0dGwwd2Z3)
