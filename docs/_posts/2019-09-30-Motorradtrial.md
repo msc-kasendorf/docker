@@ -37,7 +37,11 @@ der während der Saison aus der Klasse 6 in die Klasse 5 Jugend aufgestiegen war
 
 Danken möchte der MSC allen Helfern und Sponsoren, ohne die es nicht möglich wäre so eine Veranstaltung  zu bewältigen.
 
-hier noch ein gut gemachtes Video von Klaus Arnold  auf youtube
+![](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Delatron_Matze.JPG)
+
+
+
+hier noch ein gut gemachtes Video von Klaus( Arnold  auf youtube
 
 [Video vom Trial](https://youtu.be/yjqcgZBvvTo)
 
