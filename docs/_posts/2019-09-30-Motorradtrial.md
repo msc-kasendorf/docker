@@ -37,7 +37,7 @@ der während der Saison aus der Klasse 6 in die Klasse 5 Jugend aufgestiegen war
 
 Danken möchte der MSC allen Helfern und Sponsoren, ohne die es nicht möglich wäre so eine Veranstaltung  zu bewältigen.
 
-!Delatron_Matze[](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Delatron_Matze.JPG)
+![Delatron_Matze](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Delatron_Matze.JPG)
 ![Ammon_Jan](https://github.com/msc-kasendorf/docker/blob/master/docs/download/Ammon_Jan.JPG)
 
 
