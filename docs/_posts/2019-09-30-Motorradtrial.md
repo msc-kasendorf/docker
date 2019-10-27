@@ -7,7 +7,7 @@ tags: [trial,Ergebnisliste2019]
 excerpt_separator: <!--mehr-->
 lang: de
 ---
-![](https://github.com/msc-kasendorf/docker/blob/master/docs/download//20190929_151516.jpg)
+![](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20190929_151516.jpg)
 **Dritter Platz als bestes Ergebnis.**
 #### Downloads
 
