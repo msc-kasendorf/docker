@@ -10,7 +10,7 @@ lang: de
 **Abschlussveranstaltung bei trockenem aber sehr windigem Wetter**
 
 ---
-![](https://github.com/msc-kasendorf/docker/blob/master/docs/download//7v3yqxs8.bmp)
+![](https://raw.githubusercontent.com/msc-kasendorf/docker/master/SAM_2666.JPG)
 
 #### Downloads
 
