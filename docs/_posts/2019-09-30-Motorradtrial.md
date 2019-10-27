@@ -46,7 +46,7 @@ Danken möchte der MSC allen Helfern und Sponsoren, ohne die es nicht möglich w
 
 
 
-hier noch ein gut gemachtes Video von Klaus( Arnold  auf youtube
+hier noch ein gut gemachtes Video von Klaus Arnold  auf youtube
 
 [Video vom Trial](https://youtu.be/yjqcgZBvvTo)
 
