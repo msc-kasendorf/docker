@@ -23,14 +23,13 @@ lang: de
 
 | Schriftführer |    
 |:---:|
-| ![]({{site.page-prefix}}assets/images/schriftfuehrer.jpg) <br>  Roland Morck
+| ![]({{site.page-prefix}}assets/images/schriftfuehrer.jpg) <br>  Stefan Maiwald {{site.trenner}} schriftfuehrerATmsc-kasendorf.de
 
 | Sportleiter |    
 |:---:|
-| Passing Thomas 
-{{![Person](https://lh6.googleusercontent.com/MGocEJLPjcFJcStHuq4RV1cS4QAZEPJqVYGoclCEEds=w283-h212-p-no)   sportleiterATmsc-kasendorf.de}}
+| ![]({{site.page-prefix}}assets/images/sportleiter.jpg) <br>  Lea Kauppert {{site.trenner}} sportleiterATmsc-kasendorf.de
 
 | Jugendleiter |    
 |:---:|
-|  Weimann Markus
-{{![Person](https://lh6.googleusercontent.com/LGm-nV2_UCrz-q-8oe6hL604oCe_ky_gPkV2HdnmMJ8=w137-h207-p-no)jugendleiterATmsc-kasendorf.de}} 
+| ![]({{site.page-prefix}}assets/images/jugendleiter.jpg) <br>  Markus Weimann {{site.trenner}} jugendleiterATmsc-kasendorf.de
+
