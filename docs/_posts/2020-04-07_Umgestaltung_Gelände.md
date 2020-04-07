@@ -8,7 +8,7 @@ excerpt_separator: <!--mehr-->
 lang: de
 ---
 
-**Er kam, sah und gestaltete um!**
+***Er kam, sah und gestaltete um!***
 
 <!--mehr-->
 
