@@ -25,21 +25,15 @@ lang: de
 |  Thomas Weimann |
 | ![Person](https://lh6.googleusercontent.com/LGm-nV2_UCrz-q-8oe6hL604oCe_ky_gPkV2HdnmMJ8=w137-h207-p-no) |
 | Markus Weimann {{site.trenner}} Klasse 3 + Jugendleiter  |
-| ![Person](https://lh5.googleusercontent.com/c4pjh1One-b3aj1-kndZ4pjJFQtSWEXEwb_gFpOfiu4=w284-h212-p-no) |
-| Timo Jansen {{site.trenner}} Klasse 3 |
-| ![Person](https://lh6.googleusercontent.com/5-8txWBxjYHGAsKzLLLnpJlcjNsmTWiIkA4aryZ0Q2I=w283-h212-p-no) |
-| Heiner Blumensaat {{site.trenner}} Klasse 3 |
 | ![Person](https://lh6.googleusercontent.com/MGocEJLPjcFJcStHuq4RV1cS4QAZEPJqVYGoclCEEds=w283-h212-p-no) |
-| Thomas Passing {{site.trenner}} Klasse 4 + sportlicher Leiter |
+| Thomas Passing {{site.trenner}} Klasse 4  |
 | ![Person](https://lh5.googleusercontent.com/7ZdUOu030RvmziSvYRIgtJ-lcCZiacjomrnwJEGzBno=w148-h222-p-no) |
-| Jannik Zimmermann {{site.trenner}} Klasse 4 Jugend |
+| Jannik Zimmermann {{site.trenner}} Klasse 4  |
 | ![Person](https://lh6.googleusercontent.com/ij0NWpNuGlL0CQxG2ApfKpnrOTq7fk4otM1WlSn8OUY=w165-h207-p-no) |
-| Lea Kauppert {{site.trenner}} Klasse 5 Jugend |
-| ![Person](https://lh5.googleusercontent.com/VZV8YPJtfCAV5SjM1y4ZfIr8B0Y7gaL6Rd0I__HDSh4=w183-h222-p-no) |
-| Kevin Mechthold {{site.trenner}} Einsteiger |
+| Lea Kauppert {{site.trenner}} Klasse 5  |
 | ![Person](https://lh6.googleusercontent.com/083_K634rP6HvQKsVWZ8PxKVsRlNf-ctouOWZIs6DL8=w283-h212-p-no) |
 | Stefan Winkler {{site.trenner}} Klasse 4 |
 | ![Person](https://lh3.googleusercontent.com/S05rCZ2lYmd4QHygeDhkgK76aKmb0ck3KRTshiPE_48=w276-h207-p-no) |
 | Charlotte Friedrich {{site.trenner}} Einsteiger |
 | ![Paul Kutzer](https://lh3.googleusercontent.com/-N0CxIUd8UA0/VPQbpTsFmRI/AAAAAAAAFY0/yV_qnEQFiW4/w480-h360-no/CIMG4272-001.JPG) |
-| Paul Kutzer Einsteiger  {{site.trenner}}  Klasse 6 |
+| Paul Kutzer Einsteiger  {{site.trenner}}  Klasse 5 |
