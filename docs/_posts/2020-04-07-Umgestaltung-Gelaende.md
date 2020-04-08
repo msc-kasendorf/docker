@@ -21,6 +21,7 @@ nicht so gelungen sind und für den Trainigsbetrieb nicht nutzbar waren,
 sind nun erschlossen, umgebaut und bieten neue Herausforderungen für alle aktiven.
 
 ![](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20200406_Umbau2.jpg)
+
 ![](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20200406_Umbau3.jpg)
 
 Ein großer Dank gilt Udo Kauppert zusammen mit Roland Bayerlein, 
