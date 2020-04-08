@@ -10,9 +10,9 @@ lang: de
 
 **Er kam, sah und gestaltete um!**
 
-<!--mehr-->
-
 ![](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20200406_Umbau1.jpg)
+
+<!--mehr-->
 
 In Zeiten der Isolation zu Hause wegen Covid 19 hat der MSC Kasendorf die Zeit genutzt, 
 allen voran unser Baumeister Udo Kauppert, um die schon vor einiger Zeit erworbenen Sandsteine in das Trainigsgelände einzubauen. 
