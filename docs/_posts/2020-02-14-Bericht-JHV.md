@@ -65,40 +65,45 @@ Die nun folgenden Wahlen der turnusgemäß anstehenden Vorstandsposten, welche H
 durchführte, kamen zu diesem Ergebnis:
 
 **1. Vorsitzender:**
+
 Stefan Herold (einstimmig wiedergewählt)
 
 **Schriftführer:**
+
 Stefan Maiwald (einstimmig gewählt als Nachfolger für Ronald Morck, der sich nicht mehr für das Amt zur Verfügung stellte)
 
 **1. Beisitzer:**
+
 Wolfgang Passing (einstimmig wiedergewählt) 
 
 **Jugendleiter:**
+
 Markus Weimann (einstimmig wiedergewählt)
 
 **Sportlicher Leiter:**
+
 Lea Kauppert (einstimmig gewählt als Nachfolgerin für Thomas Passing, der sich nicht mehr für das Amt zur Verfügung stellte)
  
 Schließlich standen die Ehrungen durch den 1. Vorsitzenden des MSC Kasendorf auf der Tagesordnung. 
 Es wurden geehrt: 
 
-Kurt Trammer (25 Jahre Vereinsmitgliedschaft)
-Andreas Müller und Stefanie Trammer (25 Jahre Mitgliedschaft im ADAC)
-Manfred Gareis (40 Jahre Mitgliedschaft im ADAC, nicht anwesend) 
-Winfried Müller und Dieter Täuber (50 Jahre Mitgliedschaft im ADAC)
+**25 Jahre Vereinsmitgliedschaft**         Kurt Trammer 
+**25 Jahre Mitgliedschaft im ADAC**        Andreas Müller und Stefanie Trammer 
+**40 Jahre Mitgliedschaft im ADAC**        Manfred Gareis, nicht anwesend) 
+**50 Jahre Mitgliedschaft im ADAC**        Winfried Müller und Dieter Täuber
 
 Die Vereinsmeisterschaften in der Sparte Motorrad-Trial brachten folgende Ergebnisse:
 
-3. Platz     Udo Kauppert              11,69 Punkte
-2. Platz     Felix Maiwald             54,79 Punkte
-1. Platz     Valentin Maiwald          83,21 Punkte
+3.Platz      Udo Kauppert              11,69 Punkte
+2.Platz      Felix Maiwald             54,79 Punkte
+1.Platz      Valentin Maiwald          83,21 Punkte
 
 Erfreulicherweise hatten sich dieses Jahr auch drei Vereinskameraden aus der Automobilabteilung für die Clubmeisterschaft angemeldet. 
 Das Ergebnis hier lautete:
 
-3. Platz     Stefanie Eberhardt        35,57 Punkte
-2. Platz     Helmut Eberhardt          48,48 Punkte
-1. Platz     Andreas Eberhardt        165,42 Punkte
+3.Platz      Stefanie Eberhardt        35,57 Punkte
+2.Platz      Helmut Eberhardt          48,48 Punkte
+1.Platz      Andreas Eberhardt        165,42 Punkte
 
 Anschließend übergab Stefan Herold den anwesenden Vertretern des Bayrischen Roten Kreuzes einen Scheck in Höhe von € 250,-- als Dank 
 für deren personalintensive und zuverlässige Betreuung aller Veranstaltungen des Vereins, und die Wirtin des Vereinslokals 
