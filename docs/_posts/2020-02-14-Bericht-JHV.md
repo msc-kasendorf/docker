@@ -65,31 +65,26 @@ Die nun folgenden Wahlen der turnusgemäß anstehenden Vorstandsposten, welche H
 durchführte, kamen zu diesem Ergebnis:
 
 **1. Vorsitzender:**
-
 Stefan Herold (einstimmig wiedergewählt)
 
 **Schriftführer:**
-
 Stefan Maiwald (einstimmig gewählt als Nachfolger für Ronald Morck, der sich nicht mehr für das Amt zur Verfügung stellte)
 
 **1. Beisitzer:**
-
 Wolfgang Passing (einstimmig wiedergewählt) 
 
 **Jugendleiter:**
-
 Markus Weimann (einstimmig wiedergewählt)
 
 **Sportlicher Leiter:**
-
 Lea Kauppert (einstimmig gewählt als Nachfolgerin für Thomas Passing, der sich nicht mehr für das Amt zur Verfügung stellte)
  
 Schließlich standen die Ehrungen durch den 1. Vorsitzenden des MSC Kasendorf auf der Tagesordnung. 
 Es wurden geehrt: 
 
-**25 Jahre Vereinsmitgliedschaft**         Kurt Trammer 
-**25 Jahre Mitgliedschaft im ADAC**        Andreas Müller und Stefanie Trammer 
-**40 Jahre Mitgliedschaft im ADAC**        Manfred Gareis, nicht anwesend) 
+**25 Jahre Vereinsmitgliedschaft**         Kurt Trammer
+**25 Jahre Mitgliedschaft im ADAC**        Andreas Müller und Stefanie Trammer
+**40 Jahre Mitgliedschaft im ADAC**        Manfred Gareis (nicht anwesend)
 **50 Jahre Mitgliedschaft im ADAC**        Winfried Müller und Dieter Täuber
 
 Die Vereinsmeisterschaften in der Sparte Motorrad-Trial brachten folgende Ergebnisse:
