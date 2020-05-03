@@ -66,9 +66,9 @@ durchführte, kamen zu diesem Ergebnis:
 
 Posten|Person|Kommentar
 ---|---|---
-1. Vorsitzender|Stefan Herold|einstimmig wiedergewählt
+1.Vorsitzender|Stefan Herold|einstimmig wiedergewählt
 Schriftführer|Stefan Maiwald|einstimmig gewählt als Nachfolger für Ronald Morck, der sich nicht mehr für das Amt zur Verfügung stellte
-1. Beisitzer|Wolfgang Passing|einstimmig wiedergewählt
+1.Beisitzer|Wolfgang Passing|einstimmig wiedergewählt
 Jugendleiter|Markus Weimann|einstimmig wiedergewählt
 Sportlicher Leiter|Lea Kauppert|einstimmig gewählt als Nachfolgerin für Thomas Passing, der sich nicht mehr für das Amt zur Verfügung stellte
  
