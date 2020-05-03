@@ -82,7 +82,8 @@ Lea Kauppert (einstimmig gewählt als Nachfolgerin für Thomas Passing, der sich
 Schließlich standen die Ehrungen durch den 1. Vorsitzenden des MSC Kasendorf auf der Tagesordnung. 
 Es wurden geehrt: 
 
-   |   
+Ehrung|Person
+------|------
 **25 Jahre Vereinsmitgliedschaft**|Kurt Trammer  
 **25 Jahre Mitgliedschaft im ADAC**|Andreas Müller und Stefanie Trammer  
 **40 Jahre Mitgliedschaft im ADAC**|Manfred Gareis (nicht anwesend)  
