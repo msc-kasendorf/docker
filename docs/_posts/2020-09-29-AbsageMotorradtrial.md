@@ -1,6 +1,6 @@
 ---
 layout: post
-title: !!!Absage Motorradtrial am 11.10.2020!!!
+title: !!! Absage Motorradtrial am 11.10.2020 !!!
 name: AbsageMotorradtrial2020
 category: trial
 tags: [trial, Veranstaltung]
@@ -8,7 +8,7 @@ excerpt_separator: <!--mehr-->
 lang: de
 ---
 
-**!!!Absage Motorradtrial am 11.10.2020!!!**
+**!!! Absage Motorradtrial am 11.10.2020 !!!**
 
 <!--mehr-->
 
