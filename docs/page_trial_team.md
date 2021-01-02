@@ -9,7 +9,7 @@ lang: de
 
 ## Team
 **2021**
-![Klicken um Bild zu vergrößern](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20201231_Gruppenbild.JPG)
+![Klicken um Bild zu vergrößern](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20201231_Gruppenbild.jpg)
 
 | Das Team |
 |:--------:|
