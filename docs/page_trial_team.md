@@ -19,35 +19,35 @@ lang: de
 | ![Udo Kauppert](https://lh4.googleusercontent.com/3li14t_HWAZ5lkrMtZ8fPWJzO-0wEe83z-m2oqlrZro=w150-h193-p-no)
 | Udo Kauppert {{site.trenner}} 2. Vorsitzender {{site.trenner}} 2.vorstandATmsc-kasendorf.de {{site.trenner}}  09229 / 7660 |
 
-| ![Valentin Maiwald](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20201231_01 Maiwald Valentin.JPG) |
+| ![Valentin Maiwald](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20201231_01_Maiwald_Valentin.JPG) |
 | Valentin Maiwald {{site.trenner}} Klasse 3 |
 
-|  ![Felix Maiwald](http://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20201231_02 Maiwald Felix.JPG) |
+|  ![Felix Maiwald](http://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20201231_02_Maiwald_Felix.JPG) |
 | Felix Maiwald {{site.trenner}} Klasse 5 |
 
-|  ![Stefan Maiwald](http://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20201231_03 Maiwald Stefan.JPG) |
+|  ![Stefan Maiwald](http://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20201231_03_Maiwald_Stefan.JPG) |
 | Stefan Maiwald {{site.trenner}} Klasse 6 |
 
 | ![Markus Weimann](https://lh6.googleusercontent.com/LGm-nV2_UCrz-q-8oe6hL604oCe_ky_gPkV2HdnmMJ8=w137-h207-p-no) |
 | Markus Weimann {{site.trenner}} Klasse 3 + Jugendleiter |
 
-| ![Ulrich Friedrich](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20201231_04 Friedrich Ulrich.JPG) |
+| ![Ulrich Friedrich](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20201231_04_Friedrich_Ulrich.JPG) |
 | Ulrich Friedrich {{site.trenner}} Klasse 5 |
 
-| ![Charlotte Friedrich](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20201231_05 Friedrich Charlotte.JPG) |
+| ![Charlotte Friedrich](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20201231_05_Friedrich_Charlotte.JPG) |
 | Charlotte Friedrich {{site.trenner}} Klasse 6 |
 
-| ![Toni Leppert](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20201231_06_Leppert Toni.JPG) |
+| ![Toni Leppert](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20201231_06_Leppert_Toni.JPG) |
 | Toni Leppert {{site.trenner}} Klasse 5 |
 
-| ![Marco Leppert](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20201231_07_Leppert Marco.JPG) |
+| ![Marco Leppert](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20201231_07_Leppert_Marco.JPG) |
 | Marco Leppert {{site.trenner}} Klasse 5 |
 
-| ![Stefan Winkler](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20201231_08_Winkler Stefan.JPG) |
+| ![Stefan Winkler](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20201231_08_Winkler_Stefan.JPG) |
 | Stefan Winkler {{site.trenner}} Klasse 4 |
 
-| ![Paul Kutzer](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/ 20201231_09_Kutzer Paul.JPG) |
+| ![Paul Kutzer](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/ 20201231_09_Kutzer_Paul.JPG) |
 | Paul Kutzer {{site.trenner}} Klasse 5 |
 
-| ![Peter Schreiner](https:// raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20201231_10 Schreiner Peter.JPG) |
+| ![Peter Schreiner](https:// raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20201231_10_Schreiner_Peter.JPG) |
 | Peter Schreiner {{site.trenner}} Klasse 4 |
