@@ -8,32 +8,46 @@ lang: de
 {% include navigation_trial.html %}
 
 ## Team
-**2014**
-![Klicken um Bild zu vergrößern](https://raw.githubusercontent.com/msc-kasendorf/docker/027ec508626a2fcc891af18d53391d165d66a9d2/docs/_posts/IMG_8845.JPG)
-
-![Klicken um Bild zu vergrößern](https://lh4.googleusercontent.com/-iVD7P1FwC9w/UZEmK4QzMVI/AAAAAAAADes/LBf03Hyct7k/w711-h473-no/IMGP0870.JPG)
+**2021**
+![Klicken um Bild zu vergrößern](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20201231_Gruppenbild.JPG)
 
 | Das Team |
 |:--------:|
-| ![Udo Kauppert](https://lh4.googleusercontent.com/3li14t_HWAZ5lkrMtZ8fPWJzO-0wEe83z-m2oqlrZro=w150-h193-p-no)
-| Udo Kauppert {{site.trenner}} 2. Vorsitzender  {{site.trenner}} udo-kauppertATt-online.de {{site.trenner}}  09229 / 7660 |
 | ![Stefan Herold](https://lh3.googleusercontent.com/T5SHb4qb7OIfhZl8_a7RzI-yXdb7ESqFgkbi0_u3lTQ=w181-h222-p-no) |
-| Stefan Herold {{site.trenner}} Vorstand {{site.trenner}} 1.vorstandATmsc-kasendorf.de {{site.trenner}} 09221-6909007 |
-| ![Person](https://lh5.googleusercontent.com/9Y3oPYtRep_SKYgdIOZNr_zQ_XRb3MgwwDj06Ow5ifY=w180-h176-p-no) |
-| Michel Morck {{site.trenner}} Klasse 4 |
-|  ![Kein Bild](http://) |
-|  Thomas Weimann |
-| ![Person](https://lh6.googleusercontent.com/LGm-nV2_UCrz-q-8oe6hL604oCe_ky_gPkV2HdnmMJ8=w137-h207-p-no) |
-| Markus Weimann {{site.trenner}} Klasse 3 + Jugendleiter  |
-| ![Person](https://lh6.googleusercontent.com/MGocEJLPjcFJcStHuq4RV1cS4QAZEPJqVYGoclCEEds=w283-h212-p-no) |
-| Thomas Passing {{site.trenner}} Klasse 4  |
-| ![Person](https://lh5.googleusercontent.com/7ZdUOu030RvmziSvYRIgtJ-lcCZiacjomrnwJEGzBno=w148-h222-p-no) |
-| Jannik Zimmermann {{site.trenner}} Klasse 4  |
-| ![Person](https://lh6.googleusercontent.com/ij0NWpNuGlL0CQxG2ApfKpnrOTq7fk4otM1WlSn8OUY=w165-h207-p-no) |
-| Lea Kauppert {{site.trenner}} Klasse 5  |
-| ![Person](https://lh6.googleusercontent.com/083_K634rP6HvQKsVWZ8PxKVsRlNf-ctouOWZIs6DL8=w283-h212-p-no) |
+| Stefan Herold {{site.trenner}} 1.Vorsitzender {{site.trenner}} 1.vorstandATmsc-kasendorf.de {{site.trenner}} 09221-6909007 |
+
+| ![Udo Kauppert](https://lh4.googleusercontent.com/3li14t_HWAZ5lkrMtZ8fPWJzO-0wEe83z-m2oqlrZro=w150-h193-p-no)
+| Udo Kauppert {{site.trenner}} 2. Vorsitzender {{site.trenner}} 2.vorstandATmsc-kasendorf.de {{site.trenner}}  09229 / 7660 |
+
+| ![Valentin Maiwald](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20201231_01 Maiwald Valentin.JPG) |
+| Valentin Maiwald {{site.trenner}} Klasse 3 |
+
+|  ![Felix Maiwald](http://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20201231_02 Maiwald Felix.JPG) |
+| Felix Maiwald {{site.trenner}} Klasse 5 |
+
+|  ![Stefan Maiwald](http://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20201231_03 Maiwald Stefan.JPG) |
+| Stefan Maiwald {{site.trenner}} Klasse 6 |
+
+| ![Markus Weimann](https://lh6.googleusercontent.com/LGm-nV2_UCrz-q-8oe6hL604oCe_ky_gPkV2HdnmMJ8=w137-h207-p-no) |
+| Markus Weimann {{site.trenner}} Klasse 3 + Jugendleiter |
+
+| ![Ulrich Friedrich](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20201231_04 Friedrich Ulrich.JPG) |
+| Ulrich Friedrich {{site.trenner}} Klasse 5 |
+
+| ![Charlotte Friedrich](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20201231_05 Friedrich Charlotte.JPG) |
+| Charlotte Friedrich {{site.trenner}} Klasse 6 |
+
+| ![Toni Leppert](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20201231_06_Leppert Toni.JPG) |
+| Toni Leppert {{site.trenner}} Klasse 5 |
+
+| ![Marco Leppert](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20201231_07_Leppert Marco.JPG) |
+| Marco Leppert {{site.trenner}} Klasse 5 |
+
+| ![Stefan Winkler](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20201231_08_Winkler Stefan.JPG) |
 | Stefan Winkler {{site.trenner}} Klasse 4 |
-| ![Person](https://lh3.googleusercontent.com/S05rCZ2lYmd4QHygeDhkgK76aKmb0ck3KRTshiPE_48=w276-h207-p-no) |
-| Charlotte Friedrich {{site.trenner}} Einsteiger |
-| ![Paul Kutzer](https://lh3.googleusercontent.com/-N0CxIUd8UA0/VPQbpTsFmRI/AAAAAAAAFY0/yV_qnEQFiW4/w480-h360-no/CIMG4272-001.JPG) |
-| Paul Kutzer Einsteiger  {{site.trenner}}  Klasse 5 |
+
+| ![Paul Kutzer](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/ 20201231_09_Kutzer Paul.JPG) |
+| Paul Kutzer {{site.trenner}} Klasse 5 |
+
+| ![Peter Schreiner](https:// raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20201231_10 Schreiner Peter.JPG) |
+| Peter Schreiner {{site.trenner}} Klasse 4 |
