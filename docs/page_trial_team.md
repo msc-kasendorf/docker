@@ -52,3 +52,6 @@ lang: de
 
 | ![Peter Schreiner](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20201231_10_Schreiner_Peter.jpg) |
 | Peter Schreiner {{site.trenner}} Klasse 4 |
+
+| ![Stefan Kneisel](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20201231_11_Stefan_Kneisel.jpg) |
+| Stefan Kneisel {{site.trenner}} Klasse 6 |
