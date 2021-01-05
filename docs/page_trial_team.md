@@ -39,10 +39,10 @@ lang: de
 | Charlotte Friedrich {{site.trenner}} Klasse 6 |
 
 | ![Toni Leppert](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20201231_06_Leppert_Toni.jpg) |
-| Toni Leppert {{site.trenner}} Klasse 5 |
+| Toni Leppert {{site.trenner}} Klasse 6 |
 
 | ![Marco Leppert](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20201231_07_Leppert_Marco.jpg) |
-| Marco Leppert {{site.trenner}} Klasse 5 |
+| Marco Leppert {{site.trenner}} Klasse 6 |
 
 | ![Stefan Winkler](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20201231_08_Winkler_Stefan.jpg) |
 | Stefan Winkler {{site.trenner}} Klasse 4 |
