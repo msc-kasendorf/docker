@@ -23,7 +23,7 @@ lang: de
 
 | Schriftführer |    
 |:---:|
-| ![]({{site.page-prefix}}assets/images/schriftfuehrer?.jpg) <br>  Stefan Maiwald {{site.trenner}} schriftfuehrerATmsc-kasendorf.de
+| ![]({{site.page-prefix}}assets/images/schriftfuehrer.jpg) <br>  Stefan Maiwald {{site.trenner}} schriftfuehrerATmsc-kasendorf.de
 
 | Sportleiter |    
 |:---:|
