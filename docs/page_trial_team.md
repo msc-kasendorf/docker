@@ -20,6 +20,9 @@ lang: de
 | ![Udo Kauppert](https://lh4.googleusercontent.com/3li14t_HWAZ5lkrMtZ8fPWJzO-0wEe83z-m2oqlrZro=w150-h193-p-no)
 | Udo Kauppert {{site.trenner}} 2. Vorsitzender {{site.trenner}} 2.vorstandATmsc-kasendorf.de {{site.trenner}}  09229 / 7660 |
 
+| ![Lea Kauppert](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20201231_12_Kauppert_Lea.jpg)
+| Lea Kauppert {{site.trenner}} Sportleiter {{site.trenner}} sportleiterATmsc-kasendorf.de {{site.trenner}}  Klasse 5 |
+
 | ![Valentin Maiwald](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20201231_01_Maiwald_Valentin.jpg) |
 | Valentin Maiwald {{site.trenner}} Klasse 3 |
 
