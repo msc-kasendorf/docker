@@ -12,7 +12,7 @@ lang: de
 
 <!--mehr-->
 
-Allen Vereinsmitgliedern muss die Vorstandschaft leider mitteilen, dass bis auf weiteres die Jahreshauptversammlund des MSC Kasendorf für das Jahr 2021 verschoben ist.
+Allen Vereinsmitgliedern muss die Vorstandschaft leider mitteilen, dass bis auf weiteres die Jahreshauptversammlung des MSC Kasendorf für das Jahr 2021 verschoben ist.
 Sämtliche Präsensveranstaltungen sind im Moment nicht erlaubt und deshalb müssen wir darauf hoffen, dass dies bald wieder möglich ist und wir unser Versammlung abhalten können.
 Sobald wir uns wieder treffen können werden wir über einer Anzeige in der Bayerischen Rundschau und einem Bericht auf der Homepage einladen.
 
