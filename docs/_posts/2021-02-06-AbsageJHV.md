@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Absage Jahreshauptversammlung  2021name: AbsageJHV2021
+title: Absage Jahreshauptversammlung  2021
+name: AbsageJHV2021
 category: verein
 tags: [JHV, Mitgliederversammlung, 2021]
 excerpt_separator: <!--mehr-->
