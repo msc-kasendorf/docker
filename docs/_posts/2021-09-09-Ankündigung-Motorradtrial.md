@@ -14,7 +14,7 @@ lang: de
 
 #### Download
 
-* [Kurzausschreibung](https://github.com/msc-kasendorf/docker/raw/master/docs/download/20210909_Kurzausschreibung_Welscchenkahl.pdf)
+* [Kurzausschreibung](https://github.com/msc-kasendorf/docker/raw/master/docs/download/20210909_Kurzausschreibung_Welschenkahl.pdf)
 * [Sicherheitskonzept](https://github.com/msc-kasendorf/docker/raw/master/docs/download/2018Sicher.pdf)
 
 Des weiteren ist das Hygienekonzept das vor Ort ausgehängt wird zu beachten.
