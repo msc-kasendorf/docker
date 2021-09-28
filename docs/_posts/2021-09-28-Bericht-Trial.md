@@ -9,7 +9,7 @@ lang: de
 ---
 
 #### 68. ADAC Jugend- und Clubsporttrial des MSC Kasendorf in Welschenkahl
-
+![](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20210926_Fahrradtrialer.jpg)
 
 #### Download
 
