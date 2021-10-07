@@ -43,6 +43,6 @@ Der MSC Kasendorf hofft nächstes Jahr auch wieder eine Trialveranstaltung und a
 
 **FOTOS**
 
-[Welschenkahl2021](https://photos.app.google/KpirtPSfsCtQvGSj6)
+[Welschenkahl2021](https://photos.app.googl/KpirtPSfsCtQvGSj6)
 
 [Video vom Trial](https://youtu.be/m2leEgdURa0)
