@@ -38,3 +38,5 @@ konnte der 1. Vorsitzende des MSC Kasendorf, Stefan Herold, auf eine sehr gelung
 Er bedankte sich bei allen Helfern und Unterstützern, die hierzu beigetragen hatten, und übergab die zahlreichen Pokale an die Erstplatzierten der jeweiligen Klassen.
 
 Der MSC Kasendorf hofft nächstes Jahr auch wieder eine Trialveranstaltung und auch wieder ein Fahrradtrial ausrichten zu können und freut sich auf viele Teilnehmer.
+
+[Video vom Trial](https://youtu.be/m2leEgdURa0)
