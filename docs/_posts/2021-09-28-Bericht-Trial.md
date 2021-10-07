@@ -39,4 +39,10 @@ Er bedankte sich bei allen Helfern und Unterstützern, die hierzu beigetragen ha
 
 Der MSC Kasendorf hofft nächstes Jahr auch wieder eine Trialveranstaltung und auch wieder ein Fahrradtrial ausrichten zu können und freut sich auf viele Teilnehmer.
 
+
+
+**FOTOS**
+
+[Welschenkahl2021](https://photos.app.goo.gl/KpirtPSfsCtQvGSj6)
+
 [Video vom Trial](https://youtu.be/m2leEgdURa0)
