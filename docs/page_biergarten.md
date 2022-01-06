@@ -171,7 +171,7 @@ Berichte werden nur nur zur vollen Stunde auf msc-kasendorf.de Server herunter g
 [⬆](#)
 
 1. [Die Startseite der Bildergalierie aufsuchen](https://www.msc-kasendorf.de/fotos/#)
-1. Kategorie auswählen wie [Kronach2007](https://www.msc-kasendorf.de/dlc/bilder/Kronach%202007/)
+1. Kategorie auswählen wie [Kronach2007](https://www.msc-kasendorf.de/dlc/fotos/Kronach%202007/)
 1. Hier kann die URL der Bilder mit rechter Mausklick kopiert werden.
 
 ## Downloads verlinken
@@ -210,3 +210,11 @@ können so verlinkt werden
 ```
 
 Formel: **ALLES KLEIN SCHREIBEN** und Leerzeichen werden zu -
+
+# SFTP mit Filezilla
+
+1. Info Video ansehen: [Youtube Video](https://www.youtube.com/watch?v=Tx-wE4fOpP4)
+2. Filezilla herunterladen: [Filezilla Projekt Download Seite](https://filezilla-project.org/download.php?show_all=1)
+3. Von 1.Vorstand Zugangsdaten anfordern
+4. id_rsa.ppk Datei nach C:\id_rsa.ppk speichern
+5. Neuen Server bei Filezilla anlegen
