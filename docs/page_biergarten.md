@@ -218,3 +218,5 @@ Formel: **ALLES KLEIN SCHREIBEN** und Leerzeichen werden zu -
 3. Von 1.Vorstand Zugangsdaten anfordern
 4. id_rsa.ppk Datei nach C:\id_rsa.ppk speichern
 5. Neuen Server bei Filezilla anlegen
+
+![Filezilla Neuer Server](https://www.msc-kasendorf.de/dlc/fotos/Allgemein/sftp_server_einstellungen.jpg)
