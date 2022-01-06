@@ -170,8 +170,8 @@ Berichte werden nur nur zur vollen Stunde auf msc-kasendorf.de Server herunter g
 
 [⬆](#)
 
-1. [Die Startseite der Bildergalierie aufsuchen](https://get.google.com/albumarchive/108656924518465552879)
-1. Kategorie auswählen wie [Welschenkahl2015](https://get.google.com/albumarchive/108656924518465552879/album/AF1QipM0ZgPFEtrgD8LmfD6FE2B5Tmbw-ez8JwqHS4DG)
+1. [Die Startseite der Bildergalierie aufsuchen](https://www.msc-kasendorf.de/fotos/#)
+1. Kategorie auswählen wie [Kronach2007](https://www.msc-kasendorf.de/dlc/bilder/Kronach%202007/)
 1. Hier kann die URL der Bilder mit rechter Mausklick kopiert werden.
 
 ## Downloads verlinken
