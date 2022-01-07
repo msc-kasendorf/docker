@@ -14,10 +14,11 @@
                 <div>
                     <span>
                         <ul>
-                            {% for image in site.dlc %}
-                            <li>
-                                Testbild <img src="{{ file.url }}"/>
-                            </li>
+                            {% assign image_files = site.static_files | where: "image", true %}
+                            {% for myimage in image_files %}
+                                <li>
+                                    {{ myimage.path }}
+                                </li>
                             {% endfor %}
                         </ul>
                     </span>
