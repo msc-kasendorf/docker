@@ -19,12 +19,11 @@
                             {% for image in site.static_files %}
                             {% if image.path contains '/dlc/fotos/' %}
                                     {% assign fileParts = image.path | split: "/" %}
-                                    {% assign galleryPaths = galleryPaths | push: fileParts[3] %}
+                                    {% assign galleryPaths = galleryPaths | push: fileParts[3] | uniq %}
                             {% endif %}
                             {% endfor %}
                             
-                            {% assign galleryPathsUnique = galleryPaths | map: 'galleryPath' | uniq %}
-                            {% for galleryPath in galleryPathsUnique %}
+                            {% for galleryPath in galleryPaths %}
                                 <li>
                                     {{ galleryPath }} 
                                 </li>
