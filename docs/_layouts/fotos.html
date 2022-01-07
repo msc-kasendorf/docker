@@ -23,7 +23,7 @@
                             {% endif %}
                             {% endfor %}
                             
-                            {% for galleryPath in galleryPaths %}
+                            {% for galleryPath in galleryPaths | uniq %}
                                 <li>
                                     {{ galleryPath }} 
                                 </li>
