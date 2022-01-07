@@ -17,7 +17,7 @@
                             {% for image in site.static_files %}
                             {% if image.path contains '/dlc/fotos/' %}
                                 <li>
-                                    {{ image.path }}
+                                    {{ image.path | replace: "/dlc/fotos/", "" }}
                                 </li>
                             {% endif %}
                             {% endfor %}
@@ -29,7 +29,7 @@
 
         </section>
 
-        {% include footer.html %}
+        {% include footer.html %}url
     </div>
 </body>
 </html>
