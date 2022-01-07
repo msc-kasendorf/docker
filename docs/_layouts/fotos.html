@@ -23,9 +23,9 @@
                             {% endif %}
                             {% endfor %}
                             
-                            {% for galleryPath in galleryPaths | uniq %}
+                            {% for galleryPath in galleryPaths %}
                                 <li>
-                                    {{ galleryPath }} 
+                                    {{ galleryPath | uniq }} 
                                 </li>
                             {% endfor %}
                         </ul>
