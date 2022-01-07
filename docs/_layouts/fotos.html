@@ -17,7 +17,7 @@
                             {% for image in site.static_files %}
                             {% if image.path contains '/dlc/fotos/' %}
                                 <li>
-                                    {{ image.path }}
+                                    {{ image.dir }}
                                 </li>
                             {% endif %}
                             {% endfor %}
