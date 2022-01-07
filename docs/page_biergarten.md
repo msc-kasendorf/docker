@@ -218,7 +218,7 @@ Formel: **ALLES KLEIN SCHREIBEN** und Leerzeichen werden zu -
 3. Von 1.Vorstand Zugangsdaten anfordern
 4. Aus Email Anhang **id_rsa.ppk** nach **C:\id_rsa.ppk** speichern
 5. Neuen Server bei Filezilla anlegen
-    1. Neuen Server: msc.kasendorf.de
+    1. Neuen Server: **msc.kasendorf.de**
     2. Allgemein - Protokoll: **SFTP-SSH File Transfer Protokoll**
     3. Allgemein - Server: **Siehe Email**
     4. Allgemein - Port: **Siehe Email**
