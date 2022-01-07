@@ -216,7 +216,14 @@ Formel: **ALLES KLEIN SCHREIBEN** und Leerzeichen werden zu -
 1. Info Video ansehen: [Youtube Video](https://www.youtube.com/watch?v=Tx-wE4fOpP4)
 2. Filezilla herunterladen: [Filezilla Projekt Download Seite](https://filezilla-project.org/download.php?show_all=1)
 3. Von 1.Vorstand Zugangsdaten anfordern
-4. id_rsa.ppk Datei nach C:\id_rsa.ppk speichern
+4. **id_rsa.ppk** Datei nach **C:\id_rsa.ppk** speichern
 5. Neuen Server bei Filezilla anlegen
-
+    1. Neuen Server: msc.kasendorf.de
+    2. Allgemein - Protokoll: **SFTP-SSH File Transfer Protokoll**
+    3. Allgemein - Server: **Siehe Email**
+    4. Allgemein - Port: **Siehe Email**
+    5. Allgemein - Verbindungsart: **Schlüsseldatei**
+    6. Allgemein - Benutzer: **Siehe Email**
+    7. Allgemein - Schlüsseldatei: **Siehe Email**
+     
 ![Filezilla Neuer Server](https://www.msc-kasendorf.de/dlc/fotos/Allgemein/sftp_server_einstellungen.jpg)
