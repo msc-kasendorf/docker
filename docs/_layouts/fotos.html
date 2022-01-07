@@ -18,9 +18,7 @@
                             {% if image.path contains '/dlc/fotos/' %}
                                 <li>
                                     {% assign fileParts = image.path | split: "/" %}
-                                    {% for member in fileParts %}
-                                      {{ member[0] }}
-                                    {% endfor %}
+                                    {{ fileParts[1] }}
                                 </li>
                             {% endif %}
                             {% endfor %}
