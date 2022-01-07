@@ -14,13 +14,19 @@
                 <div>
                     <span>
                         <ul>
+                            {% assign galleryPaths = "" | split: ',' %}
+                            
                             {% for image in site.static_files %}
                             {% if image.path contains '/dlc/fotos/' %}
-                                <li>
                                     {% assign fileParts = image.path | split: "/" %}
-                                    {{ fileParts[3] }}
-                                </li>
+                                    {% assign galleryPaths = galleryPaths | push: fileParts[3] %}
                             {% endif %}
+                            {% endfor %}
+                            
+                            {% for galleryPath in galleryPaths %}
+                                <li>
+                                    Test
+                                </li>
                             {% endfor %}
                         </ul>
                     </span>
