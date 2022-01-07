@@ -14,7 +14,7 @@
                 <div>
                     <span>
                         <ul>
-                            {% assign image_files = site.static_files/dlc %}
+                            {% assign image_files = site.static_files | where: "dlc", true %}
                             {% for myimage in image_files %}
                                 <li>
                                     {{ myimage.path }}
