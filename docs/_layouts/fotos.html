@@ -17,7 +17,7 @@
                             {% for image in site.static_files %}
                             {% if image.path contains '/dlc/fotos/' %}
                                 <li>
-                                    {{ image.path | replace: "/dlc/fotos/", "" }}
+                                    {{ image.path | replace: "/dlc/fotos/", "" | replace: "/CIMG3152.jpg", "" }}
                                 </li>
                             {% endif %}
                             {% endfor %}
