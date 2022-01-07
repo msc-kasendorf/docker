@@ -14,12 +14,10 @@
                 <div>
                     <span>
                         <ul>
-                            {% for member in site.page-root-url.dlc %}
-                              <li>
-                                <a href="https://github.com/{{ member.github }}">
-                                  {{ member.name }}
-                                </a>
-                              </li>
+                            {% for image in site.dlc %}
+                            <li>
+                                Testbild <img src="{{ file.url }}"/>
+                            </li>
                             {% endfor %}
                         </ul>
                     </span>
