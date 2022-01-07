@@ -14,9 +14,13 @@
                 <div>
                     <span>
                         <ul>
-                            <li>{{ site.page-root-url }}/dlc/*</li>
-                            <li>test</li>
-                            <li>test</li>
+                            {% for member in site.page-root-url.dlc %}
+                              <li>
+                                <a href="https://github.com/{{ member.github }}">
+                                  {{ member.name }}
+                                </a>
+                              </li>
+                            {% endfor %}
                         </ul>
                     </span>
                 </div>
