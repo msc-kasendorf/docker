@@ -19,7 +19,7 @@
                                 <li>
                                     {% assign fileParts = image.path | split: "/" %}
                                     {% for member in fileParts %}
-                                      {{ member }}
+                                      {{ member[0] }}
                                     {% endfor %}
                                 </li>
                             {% endif %}
