@@ -223,7 +223,7 @@ Formel: **ALLES KLEIN SCHREIBEN** und Leerzeichen werden zu -
     3. Allgemein - Server: **Siehe Email**
     4. Allgemein - Port: **Siehe Email**
     5. Allgemein - Verbindungsart: **Schlüsseldatei**
-    6. Allgemein - Benutzer: **C:\id_rsa.ppk**
-    7. Allgemein - Schlüsseldatei: **Siehe Email**
+    6. Allgemein - Benutzer: **Siehe Email**
+    7. Allgemein - Schlüsseldatei - Durchsuchen: **C:\id_rsa.ppk**
      
 ![Filezilla Neuer Server](https://www.msc-kasendorf.de/dlc/fotos/Allgemein/sftp_server_einstellungen.jpg)
