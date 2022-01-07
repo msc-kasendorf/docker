@@ -14,11 +14,12 @@
                 <div>
                     <span>
                         <ul>
-                            {% assign image_files = site.static_files | where: "dlc", true %}
-                            {% for myimage in image_files %}
+                            {% for image in site.static_files %}
+                            {% if image.path contains '/dlc/' %}
                                 <li>
-                                    {{ myimage.path }}
+                                    {{ image.path }}
                                 </li>
+                            {% endif %}
                             {% endfor %}
                         </ul>
                     </span>
