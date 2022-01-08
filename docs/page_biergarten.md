@@ -252,5 +252,5 @@ Formel: **ALLES KLEIN SCHREIBEN** und Leerzeichen werden zu -
     1. Hier gibts was zu Allgemein. Viel Spaß beim Bilder browsen. 
 5. Datei speichern und nach GitHub hochladen
     1.  **docker / docs / page_fotos_meine_bildergalerie_2022.md**
-6. Fertig. Die Bildergallerie ist hier verfügbar 
+6. Fertig. Die Bildergallerie ist hier verfügbar. Bitte beachtet dass sich unsere Hompage nur zur vollen Stunde ändert. Bitte habt hier etwas Geduld.
     1. [https://www.msc-kasendorf.de/fotos/](https://www.msc-kasendorf.de/fotos/)
