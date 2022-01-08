@@ -248,7 +248,9 @@ Formel: **ALLES KLEIN SCHREIBEN** und Leerzeichen werden zu -
 3. Datei mit Texteditor öffnen (MS Word, Notepad, Atom, ...) 
     1. Folgendes suchen: **Allgemein**
     2. Ersetzen durch: **Meine Bildergalerie 2022**
-4. Datei speichern und nach GitHub hochladen
+4. Datei ändern. Z.B. Sinnvolle Beschreibung
+    1. Hier gibts was zu Allgemein. Viel Spaß beim Bilder browsen. 
+5. Datei speichern und nach GitHub hochladen
     1.  **docker / docs / page_fotos_meine_bildergalerie_2022.md**
-5. Fertig. Die Bildergallerie ist hier verfügbar 
+6. Fertig. Die Bildergallerie ist hier verfügbar 
     1. [https://www.msc-kasendorf.de/fotos/Meine Bildergalerie 2022/](https://www.msc-kasendorf.de/fotos/Meine Bildergalerie 2022/)
