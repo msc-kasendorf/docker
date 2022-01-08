@@ -233,7 +233,7 @@ Formel: **ALLES KLEIN SCHREIBEN** und Leerzeichen werden zu -
 ## Dateien anlegen
 1. Auf eingenem Rechner Ordner anlegen: **Meine Bildergalerie 2022**
 2. Bilderdateien in Ordner kopieren
-3. Mit SFTP Programm Filezilla den Ordner nach **/upload/fotos** hochlagen
+3. Mit SFTP Programm Filezilla den Ordner nach **/upload/fotos** hochladen
 4. Der Ordner ist jetzt im hier ersichtlich:
     1. [https://www.msc-kasendorf.de/dlc/fotos/#](https://www.msc-kasendorf.de/dlc/fotos/#) 
 
