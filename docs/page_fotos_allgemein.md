@@ -1,12 +1,10 @@
 ---
 layout: default
 category: fotos
-permalink: /fotos/allgemein/
+permalink: /fotos/Allgemein/
 lang: de
 ---
 
-{% include navigation_verein.html %}
-
-## Allgemein Fotos
+## Allgemein
 
 Hallo Welt!
