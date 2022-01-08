@@ -236,31 +236,31 @@ Formel: **ALLES KLEIN SCHREIBEN** und Leerzeichen werden zu -
 4. Ordner ist jetzt im Foto Ordner ersichtlich: [https://www.msc-kasendorf.de/fotos/#](https://www.msc-kasendorf.de/fotos/#)
 5. Texteditor (z.B. Microsoft Word, Notepad, Atom, ...) öffnen und folgenden Inhalt kopieren und einfügen
 
-```
-    ---
-    layout: default
-    category: fotos
-    permalink: /fotos/Allgemein/
-    lang: de
-    ---
+```md
+---
+layout: default
+category: fotos
+permalink: /fotos/Allgemein/
+lang: de
+---
 
-    ## Allgemein
+## Allgemein
 
-    Hier gibts was zu Allgemein. Viel Spaß beim Bilder browsen.
+Hier gibts was zu Allgemein. Viel Spaß beim Bilder browsen.
 
-    ### Bilder
-    {% assign galleryPaths = "" | split: ',' %}
+### Bilder
+{% assign galleryPaths = "" | split: ',' %}
 
-    {% for image in site.static_files %}
-    {% if image.path contains '/dlc/fotos/Allgemein' %}
-            {% assign fileParts = image.path | split: "/" %}
-            {% assign galleryPaths = galleryPaths | push: fileParts[4] %}
-    {% endif %}
-    {% endfor %}
+{% for image in site.static_files %}
+{% if image.path contains '/dlc/fotos/Allgemein' %}
+        {% assign fileParts = image.path | split: "/" %}
+        {% assign galleryPaths = galleryPaths | push: fileParts[4] %}
+{% endif %}
+{% endfor %}
 
-    {% for galleryPath in galleryPaths %}
-    ![{{ galleryPath }}]({{site.page-prefix}}dlc/fotos/Allgemein/{{ galleryPath }})
-    {% endfor %}
+{% for galleryPath in galleryPaths %}
+![{{ galleryPath }}]({{site.page-prefix}}dlc/fotos/Allgemein/{{ galleryPath }})
+{% endfor %}
 ```
 
 1. Im Texteditor **Allgemein** durch **20211231 Mein Dateiname** ersetzen
