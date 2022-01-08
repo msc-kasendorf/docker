@@ -253,4 +253,4 @@ Formel: **ALLES KLEIN SCHREIBEN** und Leerzeichen werden zu -
 5. Datei speichern und nach GitHub hochladen
     1.  **docker / docs / page_fotos_meine_bildergalerie_2022.md**
 6. Fertig. Die Bildergallerie ist hier verfügbar 
-    1. [https://www.msc-kasendorf.de/fotos/Meine Bildergalerie 2022/](https://www.msc-kasendorf.de/fotos/Meine Bildergalerie 2022/)
+    1. [https://www.msc-kasendorf.de/fotos/](https://www.msc-kasendorf.de/fotos/)
