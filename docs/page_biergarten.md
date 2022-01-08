@@ -230,10 +230,13 @@ Formel: **ALLES KLEIN SCHREIBEN** und Leerzeichen werden zu -
 
 # Foto Seite anlegen
 
+## Dateien anlegen
 1. Auf eingenem Rechner Ordner **20211231 Mein Dateiname** anlegen
 2. Bilderdateien in Ordner kopieren
 3. Mit SFTP Programm Filezilla Ordner nach **/upload/fotos** hochlagen
-4. Ordner ist jetzt im Foto Ordner ersichtlich: [https://www.msc-kasendorf.de/fotos/#](https://www.msc-kasendorf.de/fotos/#)
+4. Ordner ist jetzt im Foto Ordner ersichtlich: [https://www.msc-kasendorf.de/dlc/fotos/#](https://www.msc-kasendorf.de/dlc/fotos/#)
+
+## Bildergalerie Datei anlegen
 5. Texteditor (z.B. Microsoft Word, Notepad, Atom, ...) öffnen und folgenden Inhalt kopieren und einfügen
 
 ```md
