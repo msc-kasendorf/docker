@@ -231,42 +231,18 @@ Formel: **ALLES KLEIN SCHREIBEN** und Leerzeichen werden zu -
 # Foto Seite anlegen
 
 ## Dateien anlegen
-1. Auf eingenem Rechner Ordner **20211231 Mein Dateiname** anlegen
+1. Auf eingenem Rechner Ordner anlegen: **Meine Bildergalerie 2022**
 2. Bilderdateien in Ordner kopieren
-3. Mit SFTP Programm Filezilla Ordner nach **/upload/fotos** hochlagen
-4. Ordner ist jetzt im Foto Ordner ersichtlich: [https://www.msc-kasendorf.de/dlc/fotos/#](https://www.msc-kasendorf.de/dlc/fotos/#)
+3. Mit SFTP Programm Filezilla den Ordner nach **/upload/fotos** hochlagen
+4. Ordner ist jetzt im Foto Ordner ersichtlich:
+    1. [https://www.msc-kasendorf.de/dlc/fotos/#](https://www.msc-kasendorf.de/dlc/fotos/#) 
 
 ## Bildergalerie Datei anlegen
+
+1. Die Template Datei
+
 5. Texteditor (z.B. Microsoft Word, Notepad, Atom, ...) öffnen und folgenden Inhalt kopieren und einfügen
-
-```md
----
-layout: default
-category: fotos
-permalink: /fotos/Allgemein/
-lang: de
----
-
-## Allgemein
-
-Hier gibts was zu Allgemein. Viel Spaß beim Bilder browsen.
-
-### Bilder
-{% assign galleryPaths = "" | split: ',' %}
-
-{% for image in site.static_files %}
-{% if image.path contains '/dlc/fotos/Allgemein' %}
-        {% assign fileParts = image.path | split: "/" %}
-        {% assign galleryPaths = galleryPaths | push: fileParts[4] %}
-{% endif %}
-{% endfor %}
-
-{% for galleryPath in galleryPaths %}
-![{{ galleryPath }}]({{site.page-prefix}}dlc/fotos/Allgemein/{{ galleryPath }})
-{% endfor %}
-```
-
-6. Im Texteditor **Allgemein** durch **20211231 Mein Dateiname** ersetzen
-7. In **GitHub** eine neue Datei anlegen **docker / docs / page_fotos_20211231_mein_dateiname.md** (Wichtig: Dateiname ist klein und mit _ statt Sonderzeichen)
+6. Im Texteditor **Allgemein** durch **Meine Bildergalerie 2022** ersetzen
+7. In **GitHub** eine neue Datei anlegen **docker / docs / page_fotos_meine_bildergalerie_2022.md** (Wichtig: Dateiname ist klein und mit _ statt Sonderzeichen)
 8. Inhalt Texteditor nach GitHub kopieren und mit "commit changes" hochladen
 9. Fertig. Die Bildergallerie ist jetzt unter [https://www.msc-kasendorf.de/fotos/20211231 Mein Dateiname/](https://www.msc-kasendorf.de/fotos/20211231 Mein Dateiname/) verfügbar
