@@ -7,10 +7,6 @@ lang: de
 
 ## Allgemein
 
-![logo]({{site.page-prefix}}dlc/fotos/Allgemein/logo.png)
-
-## Test
-
 {% assign galleryPaths = "" | split: ',' %}
 
 {% for image in site.static_files %}
@@ -21,7 +17,5 @@ lang: de
 {% endfor %}
 
 {% for galleryPath in galleryPaths %}
-    <li>
-        <a class="post-link" href="/fotos/{{ galleryPath }}/">{{ galleryPath }}</a> 
-    </li>
+    ![{{ galleryPath }}]({{site.page-prefix}}dlc/fotos/Allgemein/{{ galleryPath }})
 {% endfor %}
