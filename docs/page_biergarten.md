@@ -241,7 +241,7 @@ Formel: **ALLES KLEIN SCHREIBEN** und Leerzeichen werden zu -
 
 1. Beispieldatei **page_fotos_allgemein.md** auf eigenen Rechner kopieren.
     1. [Datei auf GitHub öffnen](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/page_fotos_allgemein.md)
-    2. Datei Speichern: **Rechte Maustaste -> Speichern unter"
+    2. Datei Speichern: **Rechte Maustaste -> Speichern unter**
 2. Beispiel Datei umbenennen.
     1. **page_fotos_meine_bildergalerie_2022.md**
     2. Wichtig: Dateiname ist klein und mit _ statt Sonderzeichen
