@@ -246,7 +246,8 @@ Formel: **ALLES KLEIN SCHREIBEN** und Leerzeichen werden zu -
     1. **page_fotos_meine_bildergalerie_2022.md**
     2. Wichtig: Dateiname ist klein und mit _ statt Sonderzeichen
 4. Datei mit Texteditor (MS Word, Notepad, Atom, ...) öffnen 
-    1. Nach **Allgemein** suchen und dies durch **Meine Bildergalerie 2022** ersetzen
+    1. Folgendes suchen: **Allgemein**
+    2. Ersetzen durch: **Meine Bildergalerie 2022**
 6. Datei speichern und nach GitHub hochladen
     1.  **docker / docs / page_fotos_meine_bildergalerie_2022.md**
 8. Fertig. Die Bildergallerie ist hier verfügbar 
