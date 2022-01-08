@@ -236,7 +236,7 @@ Formel: **ALLES KLEIN SCHREIBEN** und Leerzeichen werden zu -
 4. Ordner ist jetzt im Foto Ordner ersichtlich: [https://www.msc-kasendorf.de/fotos/#](https://www.msc-kasendorf.de/fotos/#)
 5. Texteditor (z.B. Microsoft Word, Notepad, Atom, ...) öffnen und folgenden Inhalt kopieren und einfügen
 
-
+```
     ---
     layout: default
     category: fotos
@@ -261,7 +261,7 @@ Formel: **ALLES KLEIN SCHREIBEN** und Leerzeichen werden zu -
     {% for galleryPath in galleryPaths %}
     ![{{ galleryPath }}]({{site.page-prefix}}dlc/fotos/Allgemein/{{ galleryPath }})
     {% endfor %}
-
+```
 
 1. Im Texteditor **Allgemein** durch **20211231 Mein Dateiname** ersetzen
 1. In **GitHub** eine neue Datei anlegen **docker / docs / page_fotos_20211231_mein_dateiname.md** (Wichtig: Dateiname ist klein und mit _ statt Sonderzeichen)
