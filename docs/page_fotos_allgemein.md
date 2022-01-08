@@ -7,6 +7,9 @@ lang: de
 
 ## Allgemein
 
+Hier gibts was zu Allgemein. Viel Spaß beim Bilder browsen.
+
+### Bilder
 {% assign galleryPaths = "" | split: ',' %}
 
 {% for image in site.static_files %}
