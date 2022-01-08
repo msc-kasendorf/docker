@@ -231,7 +231,7 @@ Formel: **ALLES KLEIN SCHREIBEN** und Leerzeichen werden zu -
 # Foto Seite anlegen
 
 ## Dateien anlegen
-1. Auf eingenem Rechner Ordner anlegen: **Meine Bildergalerie 2022**
+1. Auf eingenem Rechner neuen Ordner anlegen: **Meine Bildergalerie 2022**
 2. Bilderdateien in Ordner kopieren
 3. Mit SFTP Programm Filezilla den Ordner nach **/upload/fotos** hochladen
 4. Der Ordner ist jetzt im hier ersichtlich:
