@@ -236,7 +236,7 @@ Formel: **ALLES KLEIN SCHREIBEN** und Leerzeichen werden zu -
 4. Ordner ist jetzt im Foto Ordner ersichtlich: [https://www.msc-kasendorf.de/fotos/#](https://www.msc-kasendorf.de/fotos/#)
 5. Texteditor (z.B. Microsoft Word, Notepad, Atom, ...) öffnen und folgenden Inhalt kopieren und einfügen
 
-```md
+```
 ---
 layout: default
 category: fotos
