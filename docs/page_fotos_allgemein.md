@@ -7,4 +7,5 @@ lang: de
 
 ## Allgemein
 
-Hallo Welt!
+![logo]({{site.page-prefix}}dlc/fotos/Allgemein/logo.png)
+
