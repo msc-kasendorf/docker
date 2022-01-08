@@ -239,10 +239,12 @@ Formel: **ALLES KLEIN SCHREIBEN** und Leerzeichen werden zu -
 
 ## Bildergalerie Datei anlegen
 
-1. In **GitHub** eine neue Datei anlegen. Wichtig: Dateiname ist klein und mit _ statt Sonderzeichen
-    1. **docker / docs / page_fotos_meine_bildergalerie_2022.md**
+1. In **GitHub** eine neue Datei anlegen.
+    1. Wichtig: Dateiname ist klein und mit _ statt Sonderzeichen 
+    2. **docker / docs / page_fotos_meine_bildergalerie_2022.md**
 2. Mit dem Inhalt der Template kopieren und einfügen
     1. [https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/page_fotos_allgemein.md](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/page_fotos_allgemein.md)
 3. Im GitHub Editor nach **Allgemein** suchen und dies durch **Meine Bildergalerie 2022** ersetzen
 4. Datei mit und mit dem Knopf <button>Commit new file</button> abspeichern
-5. Fertig. Die Bildergallerie ist jetzt unter [https://www.msc-kasendorf.de/fotos/20211231 Mein Dateiname/](https://www.msc-kasendorf.de/fotos/20211231 Mein Dateiname/) verfügbar
+5. Fertig. Die Bildergallerie ist hier verfügbar 
+    1. [https://www.msc-kasendorf.de/fotos/20211231 Mein Dateiname/](https://www.msc-kasendorf.de/fotos/20211231 Mein Dateiname/)
