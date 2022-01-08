@@ -17,5 +17,5 @@ lang: de
 {% endfor %}
 
 {% for galleryPath in galleryPaths %}
-    ![{{ galleryPath }}]({{site.page-prefix}}dlc/fotos/Allgemein/{{ galleryPath }})
+![{{ galleryPath }}]({{site.page-prefix}}dlc/fotos/Allgemein/{{ galleryPath }})
 {% endfor %}
