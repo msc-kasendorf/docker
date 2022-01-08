@@ -236,6 +236,7 @@ Formel: **ALLES KLEIN SCHREIBEN** und Leerzeichen werden zu -
 4. Ordner ist jetzt im Foto Ordner ersichtlich: [https://www.msc-kasendorf.de/fotos/#](https://www.msc-kasendorf.de/fotos/#)
 5. Texteditor (z.B. Microsoft Word, Notepad, Atom, ...) öffnen und folgenden Inhalt kopieren und einfügen
 
+
     ---
     layout: default
     category: fotos
@@ -261,7 +262,8 @@ Formel: **ALLES KLEIN SCHREIBEN** und Leerzeichen werden zu -
     ![{{ galleryPath }}]({{site.page-prefix}}dlc/fotos/Allgemein/{{ galleryPath }})
     {% endfor %}
 
-6. Im Texteditor **Allgemein** durch **20211231 Mein Dateiname** ersetzen
-7. In **GitHub** eine neue Datei anlegen **docker / docs / page_fotos_20211231_mein_dateiname.md** (Wichtig: Dateiname ist klein und mit _ statt Sonderzeichen)
-8. Inhalt Texteditor nach GitHub kopieren und mit "commit changes" hochladen
-9. Fertig. Die Bildergallerie ist jetzt unter [https://www.msc-kasendorf.de/fotos/20211231 Mein Dateiname/](https://www.msc-kasendorf.de/fotos/20211231 Mein Dateiname/) verfügbar
+
+1. Im Texteditor **Allgemein** durch **20211231 Mein Dateiname** ersetzen
+1. In **GitHub** eine neue Datei anlegen **docker / docs / page_fotos_20211231_mein_dateiname.md** (Wichtig: Dateiname ist klein und mit _ statt Sonderzeichen)
+1. Inhalt Texteditor nach GitHub kopieren und mit "commit changes" hochladen
+1. Fertig. Die Bildergallerie ist jetzt unter [https://www.msc-kasendorf.de/fotos/20211231 Mein Dateiname/](https://www.msc-kasendorf.de/fotos/20211231 Mein Dateiname/) verfügbar
