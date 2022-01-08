@@ -7,7 +7,7 @@ lang: de
 
 ## Allgemein
 
-![logo]({{site.page-prefix}}dlc/fotos/Allgemein/{{ galleryPath }})
+![logo]({{site.page-prefix}}dlc/fotos/Allgemein/logo.png)
 
 ## Test
 
@@ -16,7 +16,7 @@ lang: de
 {% for image in site.static_files %}
 {% if image.path contains '/dlc/fotos/Allgemein' %}
         {% assign fileParts = image.path | split: "/" %}
-        {% assign galleryPaths = galleryPaths | push: fileParts[3] | uniq %}
+        {% assign galleryPaths = galleryPaths | push: fileParts[3] %}
 {% endif %}
 {% endfor %}
 
