@@ -19,7 +19,7 @@ services:
         restart: always
         ports:
             - "$NETWORK_MSC_GATEWAY:$PORT_00082_JEKYLL"
-        command: "jekyll serve --future --source /srv/jekyll --livereload true"
+        command: "jekyll serve --future --source /srv/jekyll --livereload true --disable-disk-cache true"
         volumes:
             - "$VOLUME_TIME_SYNC"
             - "$PWD/docs:/srv/jekyll"
