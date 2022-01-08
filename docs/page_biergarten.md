@@ -245,10 +245,10 @@ Formel: **ALLES KLEIN SCHREIBEN** und Leerzeichen werden zu -
 2. Beispiel Datei umbenennen.
     1. **page_fotos_meine_bildergalerie_2022.md**
     2. Wichtig: Dateiname ist klein und mit _ statt Sonderzeichen
-4. Datei mit Texteditor (MS Word, Notepad, Atom, ...) öffnen 
+3. Datei mit Texteditor öffnen (MS Word, Notepad, Atom, ...) 
     1. Folgendes suchen: **Allgemein**
     2. Ersetzen durch: **Meine Bildergalerie 2022**
-6. Datei speichern und nach GitHub hochladen
+4. Datei speichern und nach GitHub hochladen
     1.  **docker / docs / page_fotos_meine_bildergalerie_2022.md**
-8. Fertig. Die Bildergallerie ist hier verfügbar 
+5. Fertig. Die Bildergallerie ist hier verfügbar 
     1. [https://www.msc-kasendorf.de/fotos/Meine Bildergalerie 2022/](https://www.msc-kasendorf.de/fotos/Meine Bildergalerie 2022/)
