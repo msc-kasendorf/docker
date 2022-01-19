@@ -1,7 +1,7 @@
 ---
 layout: default
 category: fotos
-permalink: /fotos/2022 Stefan Training/
+permalink: /fotos/2022_Stefan_Training/
 lang: de
 ---
 
