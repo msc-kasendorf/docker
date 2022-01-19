@@ -1,7 +1,7 @@
 ---
 layout: default
 category: fotos
-permalink: /fotos/2022_Stefan_Training/
+permalink: /fotos/2022 Stefan Training/
 lang: de
 ---
 
@@ -13,12 +13,13 @@ Stefan Herold mal beim trainieren. Viel Spaß beim Bilder browsen.
 {% assign galleryPaths = "" | split: ',' %}
 
 {% for image in site.static_files %}
-{% if image.path contains '/dlc/fotos/2022 Stefan Training' %}
+{% if image.path contains '/dlc/fotos/2022StefanTraining' %}
         {% assign fileParts = image.path | split: "/" %}
         {% assign galleryPaths = galleryPaths | push: fileParts[4] %}
 {% endif %}
 {% endfor %}
 
 {% for galleryPath in galleryPaths %}
-![{{ galleryPath }}]({{site.page-prefix}}dlc/fotos/2022 Stefan Training/{{ galleryPath }})
+![{{ galleryPath }}]({{site.page-prefix}}dlc/fotos/2022StefanTraining/{{ galleryPath }})
 {% endfor %}
+
