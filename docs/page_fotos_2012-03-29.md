@@ -13,12 +13,12 @@ Hier gibts was zu 29. März 2012. Viel Spaß beim Bilder browsen.
 {% assign galleryPaths = "" | split: ',' %}
 
 {% for image in site.static_files %}
-{% if image.path contains '/dlc/fotos/29. März 2012' %}
+{% if image.path contains '/dlc/fotos/2012-03-29' %}
         {% assign fileParts = image.path | split: "/" %}
         {% assign galleryPaths = galleryPaths | push: fileParts[4] %}
 {% endif %}
 {% endfor %}
 
 {% for galleryPath in galleryPaths %}
-![{{ galleryPath }}]({{site.page-prefix}}dlc/fotos/29. März 2012/{{ galleryPath }})
+![{{ galleryPath }}]({{site.page-prefix}}dlc/fotos/2012-03-29/{{ galleryPath }})
 {% endfor %}
