@@ -1,24 +1,24 @@
 ---
 layout: default
 category: fotos
-permalink: /fotos/Vogtland 2004/
+permalink: /fotos/2004 Vogtland/
 lang: de
 ---
 
-## Vogtland 2004
+## 2004 Vogtland
 
-Hier gibts was zu Vogtland 2004. Viel Spaß beim Bilder browsen.
+Hier gibts was zu 2004 Vogtland. Viel Spaß beim Bilder browsen.
 
 ### Bilder
 {% assign galleryPaths = "" | split: ',' %}
 
 {% for image in site.static_files %}
-{% if image.path contains '/dlc/fotos/Vogtland 2004' %}
+{% if image.path contains '/dlc/fotos/2004 Vogtland' %}
         {% assign fileParts = image.path | split: "/" %}
         {% assign galleryPaths = galleryPaths | push: fileParts[4] %}
 {% endif %}
 {% endfor %}
 
 {% for galleryPath in galleryPaths %}
-![{{ galleryPath }}]({{site.page-prefix}}dlc/fotos/Vogtland 2004/{{ galleryPath }})
+![{{ galleryPath }}]({{site.page-prefix}}dlc/fotos/2004 Vogtland/{{ galleryPath }})
 {% endfor %}
