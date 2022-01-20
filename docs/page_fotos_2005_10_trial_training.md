@@ -1,24 +1,24 @@
 ---
 layout: default
 category: fotos
-permalink: /fotos/Oktober Trial Training 2005/
+permalink: /fotos/2005-10 Trial Training/
 lang: de
 ---
 
-## Oktober Trial Training 2005
+## 2005-10 Trial Training
 
-Hier gibts was zu Oktober Trial Training 2005. Viel Spaß beim Bilder browsen.
+Hier gibts was zu 2005-10 Trial Training. Viel Spaß beim Bilder browsen.
 
 ### Bilder
 {% assign galleryPaths = "" | split: ',' %}
 
 {% for image in site.static_files %}
-{% if image.path contains '/dlc/fotos/Oktober Trial Training 2005' %}
+{% if image.path contains '/dlc/fotos/2005-10 Trial Training' %}
         {% assign fileParts = image.path | split: "/" %}
         {% assign galleryPaths = galleryPaths | push: fileParts[4] %}
 {% endif %}
 {% endfor %}
 
 {% for galleryPath in galleryPaths %}
-![{{ galleryPath }}]({{site.page-prefix}}dlc/fotos/Oktober Trial Training 2005/{{ galleryPath }})
+![{{ galleryPath }}]({{site.page-prefix}}dlc/fotos/2005-10 Trial Training/{{ galleryPath }})
 {% endfor %}
