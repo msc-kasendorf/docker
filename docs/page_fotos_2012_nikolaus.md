@@ -1,24 +1,24 @@
 ---
 layout: default
 category: fotos
-permalink: /fotos/NIKOLAUS 2012/
+permalink: /fotos/2012 Nikolaus/
 lang: de
 ---
 
-## NIKOLAUS 2012
+## 2012 Nikolaus
 
-Hier gibts was zu NIKOLAUS 2012. Viel Spaß beim Bilder browsen.
+Hier gibts was zu 2012 Nikolaus. Viel Spaß beim Bilder browsen.
 
 ### Bilder
 {% assign galleryPaths = "" | split: ',' %}
 
 {% for image in site.static_files %}
-{% if image.path contains '/dlc/fotos/NIKOLAUS 2012' %}
+{% if image.path contains '/dlc/fotos/2012 Nikolaus' %}
         {% assign fileParts = image.path | split: "/" %}
         {% assign galleryPaths = galleryPaths | push: fileParts[4] %}
 {% endif %}
 {% endfor %}
 
 {% for galleryPath in galleryPaths %}
-![{{ galleryPath }}]({{site.page-prefix}}dlc/fotos/NIKOLAUS 2012/{{ galleryPath }})
+![{{ galleryPath }}]({{site.page-prefix}}dlc/fotos/2012 Nikolaus/{{ galleryPath }})
 {% endfor %}
