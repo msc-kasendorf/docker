@@ -1,24 +1,24 @@
 ---
 layout: default
 category: fotos
-permalink: /fotos/Neudorf 2002/
+permalink: /fotos/2002 Neudorf/
 lang: de
 ---
 
-## Neudorf 2002
+## 2002 Neudorf
 
-Hier gibts was zu Neudorf 2002. Viel Spaß beim Bilder browsen.
+Hier gibts was zu 2002 Neudorf. Viel Spaß beim Bilder browsen.
 
 ### Bilder
 {% assign galleryPaths = "" | split: ',' %}
 
 {% for image in site.static_files %}
-{% if image.path contains '/dlc/fotos/Neudorf 2002' %}
+{% if image.path contains '/dlc/fotos/2002 Neudorf' %}
         {% assign fileParts = image.path | split: "/" %}
         {% assign galleryPaths = galleryPaths | push: fileParts[4] %}
 {% endif %}
 {% endfor %}
 
 {% for galleryPath in galleryPaths %}
-![{{ galleryPath }}]({{site.page-prefix}}dlc/fotos/Neudorf 2002/{{ galleryPath }})
+![{{ galleryPath }}]({{site.page-prefix}}dlc/fotos/2002 Neudorf/{{ galleryPath }})
 {% endfor %}
