@@ -1,24 +1,24 @@
 ---
 layout: default
 category: fotos
-permalink: /fotos/Sportfest in Kulmbach 2005/
+permalink: /fotos/2005 Sportfest in Kulmbach/
 lang: de
 ---
 
-## Sportfest in Kulmbach 2005
+## 2005 Sportfest in Kulmbach
 
-Hier gibts was zu Sportfest in Kulmbach 2005. Viel Spaß beim Bilder browsen.
+Hier gibts was zu 2005 Sportfest in Kulmbach. Viel Spaß beim Bilder browsen.
 
 ### Bilder
 {% assign galleryPaths = "" | split: ',' %}
 
 {% for image in site.static_files %}
-{% if image.path contains '/dlc/fotos/Sportfest in Kulmbach 2005' %}
+{% if image.path contains '/dlc/fotos/2005 Sportfest in Kulmbach' %}
         {% assign fileParts = image.path | split: "/" %}
         {% assign galleryPaths = galleryPaths | push: fileParts[4] %}
 {% endif %}
 {% endfor %}
 
 {% for galleryPath in galleryPaths %}
-![{{ galleryPath }}]({{site.page-prefix}}dlc/fotos/Sportfest in Kulmbach 2005/{{ galleryPath }})
+![{{ galleryPath }}]({{site.page-prefix}}dlc/fotos/2005 Sportfest in Kulmbach/{{ galleryPath }})
 {% endfor %}
