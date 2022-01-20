@@ -1,24 +1,24 @@
 ---
 layout: default
 category: fotos
-permalink: /fotos/Nikolaus 2009/
+permalink: /fotos/2009 Nikolaus/
 lang: de
 ---
 
-## Nikolaus 2009
+## 2009 Nikolaus
 
-Hier gibts was zu Nikolaus 2009. Viel Spaß beim Bilder browsen.
+Hier gibts was zu 2009 Nikolaus. Viel Spaß beim Bilder browsen.
 
 ### Bilder
 {% assign galleryPaths = "" | split: ',' %}
 
 {% for image in site.static_files %}
-{% if image.path contains '/dlc/fotos/Nikolaus 2009' %}
+{% if image.path contains '/dlc/fotos/2009 Nikolaus' %}
         {% assign fileParts = image.path | split: "/" %}
         {% assign galleryPaths = galleryPaths | push: fileParts[4] %}
 {% endif %}
 {% endfor %}
 
 {% for galleryPath in galleryPaths %}
-![{{ galleryPath }}]({{site.page-prefix}}dlc/fotos/Nikolaus 2009/{{ galleryPath }})
+![{{ galleryPath }}]({{site.page-prefix}}dlc/fotos/2009 Nikolaus/{{ galleryPath }})
 {% endfor %}
