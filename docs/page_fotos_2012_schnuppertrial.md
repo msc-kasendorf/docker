@@ -1,24 +1,24 @@
 ---
 layout: default
 category: fotos
-permalink: /fotos/Schnuppertrial 2012/
+permalink: /fotos/2012 Schnuppertrial/
 lang: de
 ---
 
-## Schnuppertrial 2012
+## 2012 Schnuppertrial
 
-Hier gibts was zu Schnuppertrial 2012. Viel Spaß beim Bilder browsen.
+Hier gibts was zu 2012 Schnuppertrial. Viel Spaß beim Bilder browsen.
 
 ### Bilder
 {% assign galleryPaths = "" | split: ',' %}
 
 {% for image in site.static_files %}
-{% if image.path contains '/dlc/fotos/Schnuppertrial 2012' %}
+{% if image.path contains '/dlc/fotos/2012 Schnuppertrial' %}
         {% assign fileParts = image.path | split: "/" %}
         {% assign galleryPaths = galleryPaths | push: fileParts[4] %}
 {% endif %}
 {% endfor %}
 
 {% for galleryPath in galleryPaths %}
-![{{ galleryPath }}]({{site.page-prefix}}dlc/fotos/Schnuppertrial 2012/{{ galleryPath }})
+![{{ galleryPath }}]({{site.page-prefix}}dlc/fotos/2012 Schnuppertrial/{{ galleryPath }})
 {% endfor %}
