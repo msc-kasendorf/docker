@@ -1,24 +1,24 @@
 ---
 layout: default
 category: fotos
-permalink: /fotos/Kronach 2007/
+permalink: /fotos/2007 Kronach/
 lang: de
 ---
 
-## Kronach 2007
+## 2007 Kronach
 
-Hier gibts was zu Kronach 2007. Viel Spaß beim Bilder browsen.
+Hier gibts was zu 2007 Kronach. Viel Spaß beim Bilder browsen.
 
 ### Bilder
 {% assign galleryPaths = "" | split: ',' %}
 
 {% for image in site.static_files %}
-{% if image.path contains '/dlc/fotos/Kronach 2007' %}
+{% if image.path contains '/dlc/fotos/2007 Kronach' %}
         {% assign fileParts = image.path | split: "/" %}
         {% assign galleryPaths = galleryPaths | push: fileParts[4] %}
 {% endif %}
 {% endfor %}
 
 {% for galleryPath in galleryPaths %}
-![{{ galleryPath }}]({{site.page-prefix}}dlc/fotos/Kronach 2007/{{ galleryPath }})
+![{{ galleryPath }}]({{site.page-prefix}}dlc/fotos/2007 Kronach/{{ galleryPath }})
 {% endfor %}
