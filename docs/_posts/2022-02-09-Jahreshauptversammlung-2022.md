@@ -29,8 +29,7 @@ Am Freitag 04. März 2022, findet die **Jahreshauptversammlung im Clublokal Frie
 11. Verschiedens
 
 Gemäß Ziffer 3 letzter Absatz der Satzung des MSC Kasendorf können Anträge für die Mitgliederversammlung des Ortsclubs von jedem 
-ordenlichen Mitglied gestellt werden. Sie müssen mindestens acht Tage vor der Mitgliederversammlung beim
-1. Vorsitzenden eingereicht sein.
+ordenlichen Mitglied gestellt werden. Sie müssen mindestens acht Tage vor der Mitgliederversammlung beim 1. Vorsitzenden eingereicht sein.
 
 Wer vorab Einsicht in die überarbeitete Satzung wünscht, kann dies beim 1. Vositzenden beantragen.
 
