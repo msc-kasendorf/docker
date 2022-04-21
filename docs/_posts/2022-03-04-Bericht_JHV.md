@@ -10,7 +10,7 @@ lang: de
 
 **Jahreshauptversammlung 2022**
 
-![](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20220304_Bild_JHV.jpg)
+![](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20220304_Bild_Jhv.jpg)
 
 <!--mehr-->
 
