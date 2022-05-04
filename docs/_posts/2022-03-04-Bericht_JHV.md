@@ -23,7 +23,7 @@ Nach der Veranstaltertagung des Jura-Trial-Pokal steigt die Zuversicht, daß es 
 Außerdem soll es auch wieder ein Highlight in Deutschland geben. Es ist ein WM-Lauf geplant, zu dem der MSC vielleicht gemeinsam fahren könnte. 
 Der Termin wäre der 09. / 10. Juli für den WM-Lauf in Neunkirchen. 
 Herold schloss seinen Bericht mit der Nennung der aktuellen Mitgliederzahlen - 97 insgesamt, davon 68 ADAC-Mitglieder und 
-5 Jugendliche - und wünschte allen Aktiven eine erfolgreiche Saison 2020.
+5 Jugendliche - und wünschte allen Aktiven eine erfolgreiche Saison 2022.
  
 Es folgte der Bericht des Sportlichen Leiters, den Udo Kauppert stellvertretend für die entschuldigte Lea Kauppert hielt. 
 Bedingt durch die Pandemie konnte die Saison erst am 7.Mai des vergangenen Jahres gestartet werden.
