@@ -10,7 +10,7 @@ lang: de
 
 **Schnuppertraining 2022**
 
-![](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20220521_Schnuppertraining.pdf)
+![](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/20220521_Schnuppertraining.jpg)
 
 <!--mehr-->
 
