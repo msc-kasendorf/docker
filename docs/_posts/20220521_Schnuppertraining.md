@@ -20,10 +20,10 @@ egal ob Alt oder Jung, seinen Einstieg in die Welt des Trialsports: Akrobatik au
 
 **Wir veranstalten ein Schnuppertraining!**
 
-*Was solltes du mitbringen?*
+*Was solltes du mitbringen?
 Festes knöchelhohes Schuhwerk, lange Hose und mindestens einen Fahrradhelm oder Motorradhelm, evtl. Handschuhe 
 
-*Verpflegung*
+*Verpflegung
 Während der 4 Stunden solltes du dich selbst verpflegen
 
 Wir weisen darauf hin, dass die Teilnehmerzahl auf 10 Personen beschränkt ist.
