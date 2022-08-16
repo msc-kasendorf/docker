@@ -2,7 +2,7 @@
 layout: post
 title: Kellerfest 2022
 name: Kellerfest2022
-category: Verein
+category: verein
 tags: [Kellerfest]
 excerpt_separator: <!--mehr-->
 lang: de
