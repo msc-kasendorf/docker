@@ -23,7 +23,7 @@
                             {% endif %}
                             {% endfor %}
                             
-                            {% for galleryPath in galleryPaths %}
+                            {% for galleryPath in galleryPaths reversed %}
                                 <li>
                                     <a class="post-link" href="/fotos/{{ galleryPath }}/">{{ galleryPath }}</a> 
                                 </li>
