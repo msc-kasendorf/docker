@@ -10,7 +10,7 @@ lang: de
 
 **Kellerfest 2022**
 
-![]([https://.jpg](https://www.msc-kasendorf.de/dlc/fotos/2022-08-07%20Kellerfest/220807_03.jpg))
+![](https://www.msc-kasendorf.de/dlc/fotos/2022-08-07%20Kellerfest/220807_03.jpg)
 
 <!--mehr-->
 
