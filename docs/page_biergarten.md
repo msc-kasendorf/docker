@@ -254,3 +254,7 @@ Formel: **ALLES KLEIN SCHREIBEN** und Leerzeichen werden zu -
     1.  **docker / docs / page_fotos_meine_bildergalerie_2022.md**
 6. Fertig. Die Bildergallerie ist hier verfügbar. Bitte beachtet dass sich unsere Hompage nur zur vollen Stunde ändert. Bitte habt hier etwas Geduld.
     1. [https://www.msc-kasendorf.de/fotos/](https://www.msc-kasendorf.de/fotos/)
+
+# Sonstige Dateien hochladen
+
+Ihr könnt nach belieben Dateien über den Filezilla hochladen. Diese sind dann unter [https://www.msc-kasendorf.de/dlc/](https://www.msc-kasendorf.de/dlc/) verfügbar.
