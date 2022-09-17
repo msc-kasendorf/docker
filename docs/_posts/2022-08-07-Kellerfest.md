@@ -10,14 +10,14 @@ lang: de
 
 **Kellerfest 2022**
 
-![](https://.jpg)
+![]([https://.jpg](https://www.msc-kasendorf.de/dlc/fotos/2022-08-07%20Kellerfest/220807_03.jpg))
 
 <!--mehr-->
 
 
 Nach 2 Jahren Dürrestrecke veranstaltete der Gesangverein Kasendorf wieder ein Kellerfest mit Festumzug.
 Auch der MSC Kasendorf beteiligte sich am Festzug und repräsentierte den Verein vortrefflich.
-Mehr Bilder können Sie in der Bildergalerie ansehen.
+[Mehr Bilder können Sie in der Bildergalerie ansehen](https://www.msc-kasendorf.de/fotos/2022-08-07%20Kellerfest/).
 
 Nach dem Festzug genossen die anwesenden MSC´ler die wunderschöne Atmosphäre am Friesenbach und die Jugendlichen liesen es sich nicht nehmen am Entenrennen teilzunehmen.
 Die riesige Auswahl an Kuchen und anderen Speisen fand hohen Anklang bei allen Anwesenden.
