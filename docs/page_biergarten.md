@@ -226,7 +226,7 @@ Formel: **ALLES KLEIN SCHREIBEN** und Leerzeichen werden zu -
     6. Allgemein - Benutzer: **Siehe Email**
     7. Allgemein - Schlüsseldatei - Durchsuchen: **C:\id_rsa.ppk**
      
-![Filezilla Neuer Server](https://www.msc-kasendorf.de/dlc/fotos/Allgemein/sftp_server_einstellungen.jpg)
+![Filezilla Neuer Server](https://www.msc-kasendorf.de/dlc/fotos%20ohne%20Bildergalerie/Allgemein/sftp_server_einstellungen.jpg)
 
 # Foto Seite anlegen
 
