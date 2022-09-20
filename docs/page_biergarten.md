@@ -248,12 +248,11 @@ Formel: **ALLES KLEIN SCHREIBEN** und Leerzeichen werden zu -
 3. Datei mit Texteditor öffnen (MS Word, Notepad, Atom, ...) 
     1. Folgendes suchen: **2022 Kellerfest Kasendorf**
     2. Ersetzen durch: **2022 Trial Kasendorf**
-    3. Wichtig: Der Text bei Ersetzen durch muss genau so lauten wie der Ordnername den Ihr über Filezilla hochgeladen habt.
-4. Datei ändern z.B. Sinnvolle Beschreibung
-    1. Hier gibts was zu .... Viel Spaß beim Bilder browsen. 
-5. Datei speichern und nach GitHub hochladen
+    3. Wichtig: Der Text bei **Ersetzen durch** muss genau so lauten wie der Ordnername den Ihr über Filezilla hochgeladen habt.
+    4. Hinweis: Bei jedem Texteditor gibt es im Menü > Bearbeiten > Suchen und Ersetzen
+4. Datei speichern und nach GitHub hochladen
     1.  **docker / docs / page_fotos_2022_Trial_Kasendorf.md**
-6. Fertig. Die Bildergallerie ist hier verfügbar. Bitte beachtet dass sich unsere Hompage nur zur vollen Stunde ändert. Bitte habt hier etwas Geduld.
+5. Fertig. Die Bildergallerie ist hier verfügbar. Bitte beachtet dass sich unsere Hompage nur zur vollen Stunde ändert. Bitte habt hier etwas Geduld.
     1. [https://www.msc-kasendorf.de/fotos/](https://www.msc-kasendorf.de/fotos/)
 
 # Sonstige Dateien hochladen
