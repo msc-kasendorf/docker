@@ -9,7 +9,7 @@ lang: de
 
 Hier gibts was zum 2022 Kellerfest Kasendorf. Viel Spaß beim Bilder browsen.
 
-### Bilder
+### Bilder anklicken um zu vergrößern
 {% assign galleryPaths = "" | split: ',' %}
 
 {% for image in site.static_files %}
