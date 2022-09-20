@@ -1,7 +1,7 @@
 ---
 layout: default
 category: fotos
-permalink: /fotos/JDM Fränk. Schweiz/
+permalink: /fotos/2011 JDM Fränk. Schweiz/
 lang: de
 ---
 
@@ -13,12 +13,12 @@ Hier gibts was zu JDM Fränk. Schweiz. Viel Spaß beim Bilder browsen.
 {% assign galleryPaths = "" | split: ',' %}
 
 {% for image in site.static_files %}
-{% if image.path contains '/dlc/fotos/JDM Fränk. Schweiz' %}
+{% if image.path contains '/dlc/fotos/2011 JDM Fränk. Schweiz' %}
         {% assign fileParts = image.path | split: "/" %}
         {% assign galleryPaths = galleryPaths | push: fileParts[4] %}
 {% endif %}
 {% endfor %}
 
 {% for galleryPath in galleryPaths %}
-![{{ galleryPath }}]({{site.page-prefix}}dlc/fotos/JDM Fränk. Schweiz/{{ galleryPath }})
+![{{ galleryPath }}]({{site.page-prefix}}dlc/fotos/2011 JDM Fränk. Schweiz/{{ galleryPath }})
 {% endfor %}
