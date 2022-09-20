@@ -239,7 +239,7 @@ Formel: **ALLES KLEIN SCHREIBEN** und Leerzeichen werden zu -
 
 ## Bildergalerie Datei anlegen
 
-1. Beispieldatei **page_fotos_allgemein.md** auf eigenen Rechner kopieren.
+1. Beispieldatei **page_fotos_2022_Kellerfest_Kasendorf.md** auf eigenen Rechner kopieren.
     1. [Datei auf GitHub öffnen](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/page_fotos_2022_Kellerfest_Kasendorf.md)
     2. Datei Speichern: **Rechte Maustaste -> Speichern unter**
 2. Beispiel Datei umbenennen.
