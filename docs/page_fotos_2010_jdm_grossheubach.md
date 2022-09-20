@@ -1,7 +1,7 @@
 ---
 layout: default
 category: fotos
-permalink: /fotos/JDM Grossheubach/
+permalink: /fotos/2010 JDM Grossheubach/
 lang: de
 ---
 
@@ -13,12 +13,12 @@ Hier gibts was zu JDM Grossheubach. Viel Spaß beim Bilder browsen.
 {% assign galleryPaths = "" | split: ',' %}
 
 {% for image in site.static_files %}
-{% if image.path contains '/dlc/fotos/JDM Grossheubach' %}
+{% if image.path contains '/dlc/fotos/2010 JDM Grossheubach' %}
         {% assign fileParts = image.path | split: "/" %}
         {% assign galleryPaths = galleryPaths | push: fileParts[4] %}
 {% endif %}
 {% endfor %}
 
 {% for galleryPath in galleryPaths %}
-![{{ galleryPath }}]({{site.page-prefix}}dlc/fotos/JDM Grossheubach/{{ galleryPath }})
+![{{ galleryPath }}]({{site.page-prefix}}dlc/fotos/2010 JDM Grossheubach/{{ galleryPath }})
 {% endfor %}
