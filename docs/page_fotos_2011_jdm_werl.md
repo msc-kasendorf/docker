@@ -1,7 +1,7 @@
 ---
 layout: default
 category: fotos
-permalink: /fotos/JDM Werl/
+permalink: /fotos/2011 JDM Werl/
 lang: de
 ---
 
@@ -13,12 +13,12 @@ Hier gibts was zu JDM Werl. Viel Spaß beim Bilder browsen.
 {% assign galleryPaths = "" | split: ',' %}
 
 {% for image in site.static_files %}
-{% if image.path contains '/dlc/fotos/JDM Werl' %}
+{% if image.path contains '/dlc/fotos/2011 JDM Werl' %}
         {% assign fileParts = image.path | split: "/" %}
         {% assign galleryPaths = galleryPaths | push: fileParts[4] %}
 {% endif %}
 {% endfor %}
 
 {% for galleryPath in galleryPaths %}
-![{{ galleryPath }}]({{site.page-prefix}}dlc/fotos/JDM Werl/{{ galleryPath }})
+![{{ galleryPath }}]({{site.page-prefix}}dlc/fotos/2011 JDM Werl/{{ galleryPath }})
 {% endfor %}
