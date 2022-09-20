@@ -231,7 +231,7 @@ Formel: **ALLES KLEIN SCHREIBEN** und Leerzeichen werden zu -
 # Foto Seite anlegen
 
 ## Dateien anlegen
-1. Auf eingenem Rechner neuen Ordner anlegen: **Meine Bildergalerie 2022**
+1. Auf eingenem Rechner neuen Ordner anlegen: **2022 Trial Kasendorf**
 2. Bilderdateien in Ordner kopieren
 3. Mit SFTP Programm Filezilla den Ordner nach **/upload/fotos** hochladen
 4. Der Ordner ist jetzt im hier ersichtlich:
@@ -240,18 +240,18 @@ Formel: **ALLES KLEIN SCHREIBEN** und Leerzeichen werden zu -
 ## Bildergalerie Datei anlegen
 
 1. Beispieldatei **page_fotos_allgemein.md** auf eigenen Rechner kopieren.
-    1. [Datei auf GitHub öffnen](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/page_fotos_allgemein.md)
+    1. [Datei auf GitHub öffnen](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/page_fotos_2022_Kellerfest_Kasendorf.md)
     2. Datei Speichern: **Rechte Maustaste -> Speichern unter**
 2. Beispiel Datei umbenennen.
-    1. **page_fotos_meine_bildergalerie_2022.md**
+    1. **page_fotos_2022_Trial_Kasendorf.md**
     2. Wichtig: Dateiname ist klein und mit _ statt Sonderzeichen
 3. Datei mit Texteditor öffnen (MS Word, Notepad, Atom, ...) 
-    1. Folgendes suchen: **Allgemein**
-    2. Ersetzen durch: **Meine Bildergalerie 2022**
+    1. Folgendes suchen: **2022 Kellerfest Kasendorf**
+    2. Ersetzen durch: **2022 Trial Kasendorf**
 4. Datei ändern z.B. Sinnvolle Beschreibung
-    1. Hier gibts was zu Allgemein. Viel Spaß beim Bilder browsen. 
+    1. Hier gibts was zu .... Viel Spaß beim Bilder browsen. 
 5. Datei speichern und nach GitHub hochladen
-    1.  **docker / docs / page_fotos_meine_bildergalerie_2022.md**
+    1.  **docker / docs / page_fotos_2022_Trial_Kasendorf.md**
 6. Fertig. Die Bildergallerie ist hier verfügbar. Bitte beachtet dass sich unsere Hompage nur zur vollen Stunde ändert. Bitte habt hier etwas Geduld.
     1. [https://www.msc-kasendorf.de/fotos/](https://www.msc-kasendorf.de/fotos/)
 
