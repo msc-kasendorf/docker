@@ -252,7 +252,7 @@ Formel: **ALLES KLEIN SCHREIBEN** und Leerzeichen werden zu -
     4. Hinweis: Bei jedem Texteditor gibt es im Menü > Bearbeiten > Suchen und Ersetzen
 4. Datei speichern und nach GitHub hochladen
     1.  **docker / docs / page_fotos_2022_Trial_Kasendorf.md**
-5. Fertig. Die Bildergallerie ist hier verfügbar. Bitte beachtet dass sich unsere Hompage nur zur vollen Stunde ändert. Bitte habt hier etwas Geduld.
+5. Fertig. Bitte beachtet dass sich unsere Hompage nur zur vollen Stunde ändert. Bitte habt hier etwas Geduld.
     1. [https://www.msc-kasendorf.de/fotos/](https://www.msc-kasendorf.de/fotos/)
 
 # Sonstige Dateien hochladen
