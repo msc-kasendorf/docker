@@ -20,5 +20,7 @@ Hier gibts was zum 2022 Kellerfest Kasendorf. Viel Spaß beim Bilder browsen.
 {% endfor %}
 
 {% for galleryPath in galleryPaths %}
-![{{ galleryPath }}]({{site.page-prefix}}dlc/fotos/2022 Kellerfest Kasendorf/{{ galleryPath }})
+<a href="{{site.page-prefix}}dlc/fotos/2022 Kellerfest Kasendorf/{{ galleryPath }}">
+    <img src="{{site.page-prefix}}dlc/fotos/2022 Kellerfest Kasendorf/{{ galleryPath }}" alt="Bild" title="Anklicken um zu vergrößern" />
+</a>
 {% endfor %}
