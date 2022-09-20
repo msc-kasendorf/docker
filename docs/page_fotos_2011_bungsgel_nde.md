@@ -20,5 +20,5 @@ Hier gibts was zu Übungsgelände. Viel Spaß beim Bilder browsen.
 {% endfor %}
 
 {% for galleryPath in galleryPaths %}
-![{{ galleryPath }}]({{site.page-prefix}}dlc/fotos/Übungsgelände/{{ galleryPath }})
+![{{ galleryPath }}]({{site.page-prefix}}dlc/fotos/2011 Übungsgelände/{{ galleryPath }})
 {% endfor %}
