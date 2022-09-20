@@ -1,7 +1,7 @@
 ---
 layout: default
 category: fotos
-permalink: /fotos/Übungsgelände/
+permalink: /fotos/2011 Übungsgelände/
 lang: de
 ---
 
