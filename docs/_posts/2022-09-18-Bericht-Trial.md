@@ -12,9 +12,9 @@ lang: de
 
 #### Download
 
-* [Ergebnisliste Tageswertung](https://github.com/msc-kasendorf/docker/raw/master/docs/download/220918_Ergebnisliste Gesamt.pdf)
-* [Ergebnisliste Jugend](https://github.com/msc-kasendorf/docker/raw/master/docs/download/220918_Ergebnisliste Jugend.pdf)
-* [Ergebnisliste Erwachsene](https://github.com/msc-kasendorf/docker/raw/master/docs/download/220918_Ergebnisliste Erwachsene.pdf)
+* [Ergebnisliste Tageswertung](https://github.com/msc-kasendorf/docker/raw/master/docs/download/220918_Ergebnisliste_Gesamt.pdf)
+* [Ergebnisliste Jugend](https://github.com/msc-kasendorf/docker/raw/master/docs/download/220918_Ergebnisliste_Jugend.pdf)
+* [Ergebnisliste Erwachsene](https://github.com/msc-kasendorf/docker/raw/master/docs/download/220918_Ergebnisliste_Erwachsene.pdf)
 
 <!--mehr-->
 
