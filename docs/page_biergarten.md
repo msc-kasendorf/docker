@@ -248,6 +248,7 @@ Formel: **ALLES KLEIN SCHREIBEN** und Leerzeichen werden zu -
 3. Datei mit Texteditor öffnen (MS Word, Notepad, Atom, ...) 
     1. Folgendes suchen: **2022 Kellerfest Kasendorf**
     2. Ersetzen durch: **2022 Trial Kasendorf**
+    3. Wichtig: Der Text bei Ersetzen durch muss genau so lauten wie der Ordnername den Ihr über Filezilla hochgeladen habt.
 4. Datei ändern z.B. Sinnvolle Beschreibung
     1. Hier gibts was zu .... Viel Spaß beim Bilder browsen. 
 5. Datei speichern und nach GitHub hochladen
