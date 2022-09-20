@@ -13,7 +13,7 @@ Hier gibts was zu Übungsgelände. Viel Spaß beim Bilder browsen.
 {% assign galleryPaths = "" | split: ',' %}
 
 {% for image in site.static_files %}
-{% if image.path contains '/dlc/fotos/Übungsgelände' %}
+{% if image.path contains '/dlc/fotos/2011 Übungsgelände' %}
         {% assign fileParts = image.path | split: "/" %}
         {% assign galleryPaths = galleryPaths | push: fileParts[4] %}
 {% endif %}
