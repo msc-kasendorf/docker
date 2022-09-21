@@ -34,4 +34,5 @@ Sonnenschein anregende Gespräche über die Ereignisse des Tages führen zu kön
 
 siehe Bildergalerie
 
-[Video vom Trial]([https://www.youtube.com/watch?v=_27-yVyWiWE])
+[Video vom Trial 2022](https://www.youtube.com/watch?v=_27-yVyWiWE)
+
