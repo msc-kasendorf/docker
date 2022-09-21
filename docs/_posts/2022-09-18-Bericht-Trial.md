@@ -21,7 +21,7 @@ lang: de
 Das Trial des MSC Kasendorf im Jahr 2022 in Welschenkahl ist im wahrsten Sinne des Wortes ins Wasser gefallen. Beim Veranstalter bestand noch bis Sonntag
 früh die Hoffnung, daß es wenigstens bis 12 Uhr trocken bleibt, aber nicht einmal das wurde erfüllt. Der Wettergott lies es Regnen. Die 45 Starter, die
 trotz des Wetters gekommen sind, haben sich auf einen Matschtag eingestellt und sind dementsprechend gekleidet und vorbereitet zur Veranstaltung gekommen.
-Der Regen hat den Sektionen auf dem Übungsgeländes des MSC mehr zugesetzt, wie denen im Wald. Trotzdem haben die Sektionsbauer ein gutes gespür für die
+Der Regen hat den Sektionen auf dem Übungsgeländes des MSC mehr zugesetzt, wie denen im Wald. Trotzdem haben die Sektionsbauer ein gutes Gespür für die
 Situation bewiesen und haben 11 Sektionen ausgesteckt, die alle zu bewältigen waren. Gezeichnet von den Strapazen des Tages sind viele Fahrer ins Ziel
 gekommen. Den Veranstalter hat es um so mehr gefreut, daß diese danach immer noch ein Lächeln übrig hatten und sogar einige es als eine gelungene 
 Veranstaltung bezeichneten. Der größte Dank gilt natürlich allen Helfern an diesem Tag, die sich 5 Stunden in den Regen gestellt haben und damit es erst
@@ -34,4 +34,4 @@ Sonnenschein anregende Gespräche über die Ereignisse des Tages führen zu kön
 
 siehe Bildergalerie
 
-[Video vom Trial]([https://youtu.be/m2leEgdURa0](https://www.youtube.com/watch?v=_27-yVyWiWE))
+[Video vom Trial]([https://www.youtube.com/watch?v=_27-yVyWiWE])
