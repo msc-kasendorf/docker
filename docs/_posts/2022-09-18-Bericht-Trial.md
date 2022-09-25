@@ -32,7 +32,7 @@ Sonnenschein anregende Gespräche über die Ereignisse des Tages führen zu kön
 
 **FOTOS**
 
-siehe Bildergalerie
+[Bilder vom Trial 2022](https://www.msc-kasendorf.de/fotos/2022-09-18%20Trial%20Welschenkahl/)
 
 [Video vom Trial 2022](https://www.youtube.com/watch?v=_27-yVyWiWE)
 
