@@ -14,7 +14,7 @@ Hier gibts was zum {{ page.fotos }}. Viel Spaß beim Bilder browsen.
 {% assign galleryPaths = "" | split: ',' %}
 
 {% for image in site.static_files %}
-{% if image.path contains "/dlc/fotos/2022 Kellerfest Kasendorf" %}
+{% if image.path contains {{ page.permalink }} %}
         {% assign fileParts = image.path | split: "/" %}
         {% assign galleryPaths = galleryPaths | push: fileParts[4] %}
 {% endif %}
