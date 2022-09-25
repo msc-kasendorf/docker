@@ -1,8 +1,8 @@
 ---
 layout: default
 category: fotos
-permalink: /fotos/2022 Kellerfest Kasendorf/
 fotos: 2022 Kellerfest Kasendorf
+permalink: /fotos/{{ page.fotos }}/
 lang: de
 ---
 
