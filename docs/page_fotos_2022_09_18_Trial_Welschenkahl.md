@@ -1,7 +1,7 @@
 ---
 layout: default
 category: fotos
-permalink: /fotos/2022-09-18 Trial Welschenkahl/
+permalink: /fotos/2022_09_18_Trial_Welschenkahl/
 lang: de
 ---
 
