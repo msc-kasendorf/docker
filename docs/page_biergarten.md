@@ -240,7 +240,7 @@ Formel: **ALLES KLEIN SCHREIBEN** und Leerzeichen werden zu -
 ## Bildergalerie Datei anlegen
 
 1. Beispieldatei **page_fotos_2022_Kellerfest_Kasendorf.md** auf eigenen Rechner kopieren.
-    1. [Datei auf GitHub öffnen](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/page_fotos_2022_Kellerfest_Kasendorf.md)
+    1. [Datei auf GitHub öffnen](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/fotos/page_fotos_2022_Kellerfest_Kasendorf.md)
     2. Datei Speichern: **Rechte Maustaste -> Speichern unter**
 2. Beispiel Datei umbenennen.
     1. **page_fotos_2022_Trial_Kasendorf.md**
@@ -251,7 +251,7 @@ Formel: **ALLES KLEIN SCHREIBEN** und Leerzeichen werden zu -
     3. Wichtig: Der Text bei **Ersetzen durch** muss genau so lauten wie der Ordnername den Ihr über Filezilla hochgeladen habt.
     4. Hinweis: Bei jedem Texteditor gibt es im Menü > Bearbeiten > Suchen und Ersetzen
 4. Datei speichern und nach GitHub hochladen
-    1.  **docker / docs / page_fotos_2022_Trial_Kasendorf.md**
+    1.  **docker / docs / fotos / page_fotos_2022_Trial_Kasendorf.md**
 5. Fertig. Bitte beachtet dass sich unsere Hompage nur zur vollen Stunde ändert. Bitte habt hier etwas Geduld.
     1. [https://www.msc-kasendorf.de/fotos/](https://www.msc-kasendorf.de/fotos/)
 
