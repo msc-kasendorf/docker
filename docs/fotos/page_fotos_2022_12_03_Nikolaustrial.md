@@ -25,3 +25,5 @@ Hier gibts was zum {{ page.fotos }}. Viel Spaß beim Bilder browsen.
     <img src="{{site.page-prefix}}dlc/fotos/{{ page.fotos }}/{{ galleryPath }}" alt="Bild" title="Anklicken um zu vergrößern" />
 </a>
 {% endfor %}
+
+
