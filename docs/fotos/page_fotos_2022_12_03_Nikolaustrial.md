@@ -1,8 +1,8 @@
 ---
 layout: default
 category: fotos
-fotos: 03.12.2022 Nikolaustrial
-permalink: /fotos/2022_12_03Nikolaustrial/
+fotos: 2022-12-03 Nikolaustrial
+permalink: /fotos/2022-12-03 Nikolaustrial/
 lang: de
 ---
 
