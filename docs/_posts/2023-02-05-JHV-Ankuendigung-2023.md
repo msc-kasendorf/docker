@@ -23,8 +23,9 @@ Hierzu ergeht herzliche Einladung.
 3.  Bericht des Sportleiters und Jugendleiters
 4.  Bericht des Schatzmeisters und der Rechnungsprüfer 
 5.  Entlastung der Vorstandschaft
-6.  Voranschlag auf das laufende Geschäftsjahr
-7. Wünsche und Anträge 
+6.  Wahlen
+7.  Voranschlag auf das laufende Geschäftsjahr
+8.  Wünsche und Anträge 
 
 Gemäß Paragraph 9, Absatz V. der Satzung des MSC Kasendorf können Anträge für die Mitgliederversammlung des Ortsclubs 
 von jedem ordentlichen Mitglied gestellt werden. 
