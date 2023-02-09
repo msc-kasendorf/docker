@@ -3,7 +3,7 @@ layout: post
 title: Jahreshauptversammlung 2023
 name: Jahreshauptversammlung2023
 category: verein
-tags: [verein]
+tags: [JHV]
 excerpt_separator: <!--mehr-->
 lang: de
 ---
