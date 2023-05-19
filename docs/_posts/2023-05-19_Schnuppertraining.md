@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Schnuppertraining 2023
