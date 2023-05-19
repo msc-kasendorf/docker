@@ -40,7 +40,7 @@ Die Veranstaltung ist durch den BMV versichert. Für den Jugendlichen muß aber 
 
 *Anmelgung*
 
-Schreit eine kurze E-Mail an 1.vorstandATmsc-kasendorf.de
+Schreibt eine kurze E-Mail an 1.vorstandATmsc-kasendorf.de
 
 Wir weisen darauf hin, dass die Teilnehmerzahl auf 15 Personen beschränkt ist.
 
