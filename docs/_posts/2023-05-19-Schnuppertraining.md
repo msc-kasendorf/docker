@@ -20,7 +20,7 @@ egal ob Alt oder Jung, seinen Einstieg in die Welt des Trialsports: Akrobatik au
 
 **Wir veranstalten ein Schnuppertraining!**
 
-Anlässlich unseres 50 jährigen Bestehens veranstalten wir ein Schnuppertraining für Jugendliche ab 9 Jahren. 
+Anlässlich unseres 50 jährigen Bestehens veranstalten wir ein Schnuppertraining für Jugendliche ab 6 Jahren. 
 Hierfür kommt vom Bayerischen Motorsport Verband BMV ein ausgebildeter Trainer, der uns tatkräftig unterstützen wird.
 In seinem Gepäck hat er 3 brandneue Elektromotorräder dabei, die nach herzenslust ausprobiert werden können.
 Wem es nach Verbrennern gelüstet, auch hierfür stehen die drei vereinseigenen Motorräder zur Verfügung.
