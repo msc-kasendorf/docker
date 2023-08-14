@@ -16,14 +16,14 @@ lang: de
 
 #### Download
 
-* [Kurzausschreibung](https://github.com/msc-kasendorf/docker/raw/master/docs/download/20230916_Kurzausschreibung_Welschenkahl.pdf)
-* [Kurzausschreibung](https://github.com/msc-kasendorf/docker/raw/master/docs/download/20230917_Kurzausschreibung_Welschenkahl.pdf)
+* [Kurzausschreibung Samstag 16.09.2023](https://github.com/msc-kasendorf/docker/raw/master/docs/download/20230916_Kurzausschreibung_Welschenkahl.pdf)
+* [Kurzausschreibung Sonntag 17.09.2023](https://github.com/msc-kasendorf/docker/raw/master/docs/download/20230917_Kurzausschreibung_Welschenkahl.pdf)
 * [Sicherheitskonzept](https://github.com/msc-kasendorf/docker/raw/master/docs/download/2018Sicher.pdf)
 
 
 <!--mehr-->
 
-Welschenkahl- Motorsportbegeisterte zieht es am  Samstag und Sonntag 16./17.09.2022 nach Welschenkahl:
+Welschenkahl- Motorsportbegeisterte zieht es am  Samstag und Sonntag 16./17.09.2023 nach Welschenkahl:
 
 Der MSC Kasendorf hat den Zuschlag zum Prädikatslauf der bayerischen Meisterschaft erhalten.
 Gleichzeitig ist es die 70. und 71. Trialveranstaltung des MSC Kasendorf.
