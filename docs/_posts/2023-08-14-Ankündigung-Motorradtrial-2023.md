@@ -21,7 +21,6 @@ lang: de
 * [Sicherheitskonzept](https://github.com/msc-kasendorf/docker/raw/master/docs/download/2018Sicher.pdf)
 
 
-
 <!--mehr-->
 
 Welschenkahl- Motorsportbegeisterte zieht es am  Samstag und Sonntag 16./17.09.2022 nach Welschenkahl:
