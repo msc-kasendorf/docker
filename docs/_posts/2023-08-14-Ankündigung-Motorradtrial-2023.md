@@ -12,6 +12,8 @@ lang: de
 #### Termin: 16.09.2023 Start: 13 Uhr
 #### Termin: 17.09.2023 Start: 10 Uhr
 
+![](https://raw.githubusercontent.com/msc-kasendorf/docker/master/docs/download/2023PlakatTrial.jpg)
+
 #### Download
 
 * [Kurzausschreibung](https://github.com/msc-kasendorf/docker/raw/master/docs/download/20230916_Kurzausschreibung_Welschenkahl.pdf)
